@@ -192,7 +192,7 @@ export default function PatientSupportOfficerCareerPage() {
       {/* ABOUT */}
       <section id="about" className="relative overflow-hidden">
         <div className="absolute inset-0" aria-hidden="true">
-          <Image src="/website-images/waiting-warm.webp" alt="" fill sizes="100vw" className="object-cover" />
+          <Image src="/website-images/three-centres-one-group.webp" alt="" fill sizes="100vw" className="object-cover" />
           <div
             className="absolute inset-0"
             style={{
