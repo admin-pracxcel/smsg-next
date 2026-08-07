@@ -1,0 +1,7 @@
+# Pre-launch: block all crawlers. When Sim greenlights launch, replace with:
+#   User-agent: *
+#   Allow: /
+#   Sitemap: https://smsg.au/sitemap.xml
+# and flip the `robots` metadata in src/app/layout.tsx back to index/follow.
+User-agent: *
+Disallow: /
