@@ -1,0 +1,241 @@
+{
+  "slug": "dr-thaw-dar-htet",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-thaw-dar-htet",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 37
+  },
+  "identity": {
+    "full_name": "Dr Thaw Dar Htet",
+    "first_name": "Thaw",
+    "last_name": "Htet",
+    "salutation": "Dr",
+    "short_ref": "Dr Htet",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, MSc(Endocrinology & Diabetes), FRACP",
+    "post_nominal_dotted": "MBBS · MSc(Endocrinology & Diabetes) · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Endocrinologist",
+    "medical_specialty": "Endocrinologist",
+    "ahpra": "MED0001633130",
+    "abn": "43 879 930 429"
+  },
+  "languages": [
+    "English",
+    "Burmese"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": "Wednesday & Thursday",
+      "bangor": "Monday",
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Thaw%20Dar%20Htet.webp",
+    "alt": "Portrait of Dr Thaw Dar Htet, MBBS, MSc(Endocrinology & Diabetes), FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Thaw Dar Htet | MBBS, MSc(Endocrinology & Diabetes), FRACP | Earlwood and Bangor | SMSG",
+    "description": "Dr Thaw Dar Htet (MBBS, MSc(Endocrinology & Diabetes), FRACP) practises at Earlwood Medical Centre and Bangor Medical Centre. Endocrinologist. English, Burmese.",
+    "canonical": "https://smsg.au/dr-thaw-dar-htet/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre and Bangor Medical Centre premises. Endocrinologist. Consulting in English, Burmese.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/endocrinologist-dr-thaw-dar-htet"
+      },
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/endocrinologist-dr-thaw-dar-htet"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Htet",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Htet.",
+    "paragraphs": [
+      "Dr Thaw Dar Htet is an Endocrinologist (ABN: 43 879 930 429) (MED0001633130) consulting at the Earlwood / Bangor centres.",
+      "Dr Thaw Dar Htet is a consultant physician endocrinologist. She underwent endocrinology training at St Vincent’s Hospital, Sydney. She also holds a Master of Science in Diabetes and Endocrinology from the Barts and The London School of Medicine and Dentistry, Queen Mary University of London. She has participated in a PhD research Project at Garvan Institute of Medical Research through the University of New South Wales (UNSW), focusing on personalised management of pre-diabetes and type 2 diabetes mellitus. Her research has compassed gestation diabetes, type 2 diabetes and pre‐diabetes, polycystic ovary syndrome and bone disorders. Her research has been presented in international and national conferences and published in peer-reviewed journals.",
+      "Dr Htet is one of the very few endocrinologists in Australia who has received further training and certification as a Weight Management Specialist through SCOPE training program. SCOPE Certification is conferred by the World Obesity Federation and is the internationally recognised standard of excellence in weight management.",
+      "Dr Htet has been appointed as a Conjoint Associate Lecturer at UNSW Medicine and a Clinical Lecturer in Medicine at the Macquarie University. She enjoys teaching medical students and junior doctors. She is also a member of the early career committee at Endocrine Society Australia. She is involved in developing strategies to promote career opportunities and development for endocrine trainees and young endocrinologists. Furthermore, Dr Thaw Dar is a member of the European Society of Endocrine (ESE), Endocrine Society Australia (ESA), Australian Diabetes Society (ADS), Australia and New Zealand Bone Mineral Society (ANZBMS) and Australian Diabetes in Pregnancy Society (ADIPS).",
+      "She accepts referrals from all aspects of endocrinology and has a special interest in weight management, reproductive endocrinology, different types of diabetes and bone disorders."
+    ]
+  },
+  "fellowships": [
+    "SCOPE Certified Professional, World Obesity Federation",
+    "Member, European Society of Endocrine (ESE)",
+    "Member, Endocrine Society Australia (ESA)",
+    "Member, Australian Diabetes Society (ADS)",
+    "Member, Australia and New Zealand Bone Mineral Society (ANZBMS)",
+    "Member, Australian Diabetes in Pregnancy Society (ADIPS)"
+  ],
+  "awards": [],
+  "additional_roles": [
+    "Clinical Lecturer in Medicine, Macquarie University",
+    "Conjoint Associate Lecturer, UNSW Medicine",
+    "Staff Specialist in Endocrinology, St. George Hospital",
+    "VMO Endocrinologist, Macquarie University Hospital"
+  ],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Endocrinology",
+        "appointments": [
+          {
+            "display_name": "Endocrinologist - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "endocrinologist-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/endocrinologist-dr-thaw-dar-htet/a/endocrinologist-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Specialist",
+        "appointments": [
+          {
+            "display_name": "Endocrinologist - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "endocrinologist-initial-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/endocrinologist-dr-thaw-dar-htet/a/endocrinologist-initial-consult"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/endocrinologist-dr-thaw-dar-htet"
+    },
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/endocrinologist-dr-thaw-dar-htet"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Thaw Dar Htet",
+    "jobTitle": "Endocrinologist",
+    "medicalSpecialty": "Endocrinologist",
+    "url": "https://smsg.au/dr-thaw-dar-htet/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001633130"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": [],
+    "bio_boilerplate_removed": "Removed \"committed to providing excellent quality patient care\" phrase (banned corporate register)."
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    },
+    {
+      "name": "Dr Damian Lees",
+      "sub": "General Paediatrician · Earlwood · English",
+      "href": "../dr-damian-lees/"
+    }
+  ]
+}

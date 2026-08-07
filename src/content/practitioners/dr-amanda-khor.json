@@ -1,0 +1,251 @@
+{
+  "slug": "dr-amanda-khor",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-amanda-khor",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 39
+  },
+  "identity": {
+    "full_name": "Dr Amanda Khor",
+    "first_name": "Amanda",
+    "last_name": "Khor",
+    "salutation": "Dr",
+    "short_ref": "Dr Khor",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "BMed(Dist) MD, BSc(Med)(Hons), MWomHltMed(with Excellence), FRACP",
+    "post_nominal_dotted": "BMed(Dist) MD · BSc(Med)(Hons) · MWomHltMed(with Excellence) · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Geriatrician & General Medicine Physician",
+    "medical_specialty": "Geriatrician & General Medicine Physician",
+    "ahpra": "MED0001940262",
+    "abn": "14 561 868 441"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "bangor",
+    "consulting_at": [
+      "bangor",
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": null,
+      "combined": "Thursday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Amanda%20Khor.webp",
+    "alt": "Portrait of Dr Amanda Khor, BMed(Dist) MD, BSc(Med)(Hons), MWomHltMed(with Excellence), FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Amanda Khor | BMed(Dist) MD, BSc(Med)(Hons), MWomHltMed(with Excellence), FRACP | Bangor and Sans Souci | SMSG",
+    "description": "Dr Amanda Khor (BMed(Dist) MD, BSc(Med)(Hons), MWomHltMed(with Excellence), FRACP) practises at Bangor Medical Centre and Sans Souci Doctors. Geriatrician & General Medicine Physician. English.",
+    "canonical": "https://smsg.au/dr-amanda-khor/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Bangor Medical Centre and Sans Souci Doctors premises. Geriatrician & General Medicine Physician.",
+    "ctas": [
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/physician-geriatrician-dr-amanda-khor"
+      },
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/geriatrician-physician-dr-amanda-khor"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Khor",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Khor.",
+    "paragraphs": [
+      "Dr Amanda Khor is a Geriatrician and General Medicine Physician (ABN: 14 561 868 441) (MED0001940262) consulting at the Bangor & Sans Souci centres.",
+      "Dr Amanda Khor graduated from the University of New South Wales (UNSW) with a Doctor of Medicine (BMed, MD). Her keen interest in research led her to complete a Bachelor of Science with Honours (BSc(Hons)) at UNSW, further strengthening her academic foundation. She also holds a Master’s degree in Women’s Health Medicine from UNSW, which she achieved with an Excellence grade, reflecting her commitment to academic and professional excellence.",
+      "Dr Khor undertook advanced training in geriatric medicine across leading institutions, including Wollongong Hospital, Royal Prince Alfred Hospital, and Concord Hospital.",
+      "Early in her career, Dr Khor developed a passion for geriatric medicine, finding fulfilment in providing holistic, individualised care for older patients. She is particularly focused on preventative healthcare for the ageing population, striving to enhance their quality of life and support them through complex medical challenges. Her dedication extends to advancing research in geriatrics to improve care standards and outcomes.",
+      "In addition to her clinical work, Dr Khor is deeply committed to medical education. She enjoys mentoring and guiding medical students and junior doctors, fostering the next generation of healthcare professionals."
+    ]
+  },
+  "fellowships": [
+    "Staff Specialist in General Medicine, Gosford Hospital",
+    "Staff Specialist in Geriatric Medicine, Mona Vale Hospital",
+    "Member, Australian & New Zealand Society for Geriatric Medicine"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "bangor",
+    "categories": [
+      {
+        "category_name": "General Physician",
+        "appointments": [
+          {
+            "display_name": "General Physician - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "general-physician-initial-consult",
+              "bangor": "general-physician-initial-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/geriatrician-physician-dr-amanda-khor/a/general-physician-initial-consult",
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/physician-geriatrician-dr-amanda-khor/a/general-physician-initial-consult"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Geriatrics",
+        "appointments": [
+          {
+            "display_name": "Geriatrician - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "geriatrician-initial-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/geriatrician-physician-dr-amanda-khor/a/geriatrician-initial-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Specialist",
+        "appointments": [
+          {
+            "display_name": "Geriatrician - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "geriatrician-initial-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/physician-geriatrician-dr-amanda-khor/a/geriatrician-initial-consult"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/physician-geriatrician-dr-amanda-khor"
+    },
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/geriatrician-physician-dr-amanda-khor"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Amanda Khor",
+    "jobTitle": "Geriatrician & General Medicine Physician",
+    "medicalSpecialty": "Geriatrician & General Medicine Physician",
+    "url": "https://smsg.au/dr-amanda-khor/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001940262"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": true,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Christina Lai",
+      "sub": "Nephrologist & General Medicine Physician · Bangor · English, Cantonese, Mandarin",
+      "href": "../dr-christina-lai/"
+    },
+    {
+      "name": "Dr Elaine Yap",
+      "sub": "Geriatrician & General Medicine Physician · Bangor · English, Mandarin",
+      "href": "../dr-elaine-yap/"
+    },
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    }
+  ]
+}

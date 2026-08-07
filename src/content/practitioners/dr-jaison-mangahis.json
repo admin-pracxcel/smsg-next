@@ -1,0 +1,466 @@
+{
+  "slug": "dr-jaison-mangahis",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-jaison-mangahis",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 18
+  },
+  "identity": {
+    "full_name": "Dr Jaison Mangahis",
+    "first_name": "Jaison",
+    "last_name": "Mangahis",
+    "salutation": "Dr",
+    "short_ref": "Dr Mangahis",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MD, BSc(MedTech), SCH, CertDerm&SkinCancerMed, FRACGP",
+    "post_nominal_dotted": "MD · BSc(MedTech) · SCH · CertDerm&SkinCancerMed · FRACGP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0001651494",
+    "abn": "28 624 840 393"
+  },
+  "languages": [
+    "English",
+    "Tagalog"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Monday, Tuesday, alt Wednesday, Thursday, Friday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "clarion",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "href": "../clarion-skin-cancer-clinic/",
+      "dot_color": "#B44468",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Jaison%20Mangahis.webp",
+    "alt": "Portrait of Dr Jaison Mangahis, MD, BSc(MedTech), SCH, CertDerm&SkinCancerMed, FRACGP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Jaison Mangahis | MD, BSc(MedTech), SCH, CertDerm&SkinCancerMed, FRACGP | Earlwood | SMSG",
+    "description": "Dr Jaison Mangahis (MD, BSc(MedTech), SCH, CertDerm&SkinCancerMed, FRACGP) practises at Earlwood Medical Centre. Consultant Specialist GP. English, Tagalog.",
+    "canonical": "https://smsg.au/dr-jaison-mangahis/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Consultant Specialist GP. Consulting in English, Tagalog.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Mangahis",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Mangahis.",
+    "paragraphs": [
+      "Dr Jaison Mangahis is an independent Consultant Specialist GP (ABN: 28 624 840 393) (MED0001651494) consulting at the Earlwood centre.",
+      "Dr Mangahis has undertaken three years of extensive studies in Internal Medicine in the Philippines. He was awarded the White Coat Award for Professionalism and Ethical Practice of Medicine by the University of Santo Tomas Hospital. Dr Mangahis then moved to Australia and worked in several hospitals in Sydney, e.g., Liverpool Hospitals Network. He has worked in various hospital teams, including General Medicine, Cardiology, Palliative Care, Medical Oncology, Rheumatology and Immunology, Geriatrics, Respiratory Medicine, Renal Medicine, Gastroenterology, and Infectious Diseases. He also has a Certificate in Primary Care Dermatology and Skin Cancer Medicine and holds a Diploma in Child Health.",
+      "Dr Mangahis speaks Tagalog in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board in Australia"
+  ],
+  "awards": [
+    "SMSG Doctor of the Year Awardee 2021",
+    "SMSG Half-Decade Dedication Awardee 2025"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Private fees apply to all **new patients** and any patient **not seen in the last 12 months**. **Bulk Billing** is strictly restricted to routine consultations for: - Existing regular bulk-billed patients (seen within the last 12 months) - Children aged 15 and under - Concession Card holders - DVA Card holders"
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Vaccine",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "flu-vaccine",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/flu-vaccine",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection/Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisations",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound Care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "dressing-wound-care",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/dressing-wound-care",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "lung-cancer-screening-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/lung-cancer-screening-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Pre-Procedural Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": "pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Skin Cancer Clinic",
+        "appointments": [
+          {
+            "display_name": "Skin Cancer Check Consultation",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation/CTP Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "workers-compensationctp-initial-physical-injury",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/workers-compensationctp-initial-physical-injury",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Workers Compensation/CTP Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis/a/workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jaison-mangahis"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "sub": "Sub-brand · Skin cancer screening and treatment",
+      "href": "../clarion-skin-cancer-clinic/"
+    },
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Jaison Mangahis",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-jaison-mangahis/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001651494"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Tao Geng",
+      "sub": "GP · Earlwood, Bangor · English, Mandarin, Shanghainese",
+      "href": "../dr-tao-geng/"
+    },
+    {
+      "name": "Dr Grant Yuan",
+      "sub": "GP · Earlwood · English, Mandarin",
+      "href": "../dr-grant-yuan/"
+    },
+    {
+      "name": "Dr Jenny Yun",
+      "sub": "GP · Earlwood · English, Korean",
+      "href": "../dr-jenny-yun/"
+    },
+    {
+      "name": "Dr Margaret Colwell",
+      "sub": "GP · Bangor · English",
+      "href": "../dr-margaret-colwell/"
+    }
+  ]
+}

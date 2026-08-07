@@ -1,0 +1,198 @@
+{
+  "slug": "dr-shaleen-sivanes",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-shaleen-sivanes",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 47
+  },
+  "identity": {
+    "full_name": "Dr Shaleen Sivanes",
+    "first_name": "Shaleen",
+    "last_name": "Sivanes",
+    "salutation": "Dr",
+    "short_ref": "Dr Sivanes",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, FRACP",
+    "post_nominal_dotted": "MBBS · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Gastroenterologist & Hepatologist",
+    "medical_specialty": "Gastroenterologist & Hepatologist",
+    "ahpra": "MED0001658940",
+    "abn": "25 847 502 899"
+  },
+  "languages": [
+    "English",
+    "Malay"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Thursday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Shaleen%20Sivanes.webp",
+    "alt": "Portrait of Dr Shaleen Sivanes, MBBS, FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Shaleen Sivanes | MBBS, FRACP | Earlwood | SMSG",
+    "description": "Dr Shaleen Sivanes (MBBS, FRACP) practises at Earlwood Medical Centre. Gastroenterologist & Hepatologist. English, Malay.",
+    "canonical": "https://smsg.au/dr-shaleen-sivanes/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Gastroenterologist & Hepatologist. Consulting in English, Malay.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/gastroenterologist-dr-shaleen-sivanes"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Sivanes",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Sivanes.",
+    "paragraphs": [
+      "Dr Shaleen Sivanes is a Gastroenterologist & Hepatologist (ABN: 25 847 502 899) (MED0001658940) consulting at the Earlwood centre.",
+      "She graduated from the University of New South Wales and underwent her medical training across leading hospital networks in Sydney, including the Prince of Wales and Bankstown-Lidcombe Hospitals. Dr Sivanes then completed her advanced gastroenterology training at The Canberra Hospital and Nepean Hospital.",
+      "After obtaining her Fellowship with the Royal Australasian College of Physicians (FRACP), she embarked on a prestigious clinical Hepatology and Transplant fellowship at the Royal Infirmary of Edinburgh in Scotland.",
+      "Dr Sivanes has a keen interest in all areas of gastroenterology including colorectal cancer screening, functional gastrointestinal disorders and liver disease. She is accredited in performing both diagnostic and therapeutic upper and lower gastrointestinal endoscopies.",
+      "For the past two years, she has worked as a VMO Gastroenterologist at The Canberra Hospital and is excited about making the move back to Sydney to be closer to family.",
+      "Dr Sivanes speaks Malay in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Accredited Diagnostic & Therapeutic Endoscopist",
+    "Endoscopy Proceduralist, Alexandria Specialist Day Hospital",
+    "Endoscopy Proceduralist, Macquarie University Hospital"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Gastroenterology",
+        "appointments": [
+          {
+            "display_name": "Gastroenterologist - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "gastroenterologist-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/gastroenterologist-dr-shaleen-sivanes/a/gastroenterologist-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/gastroenterologist-dr-shaleen-sivanes"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Shaleen Sivanes",
+    "jobTitle": "Gastroenterologist & Hepatologist",
+    "medicalSpecialty": "Gastroenterologist & Hepatologist",
+    "url": "https://smsg.au/dr-shaleen-sivanes/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001658940"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    }
+  ]
+}

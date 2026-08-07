@@ -1,0 +1,226 @@
+{
+  "slug": "nita-hidalgo",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/nita-hidalgo",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 62
+  },
+  "identity": {
+    "full_name": "Nita Hidalgo",
+    "first_name": "Nita",
+    "last_name": "Hidalgo",
+    "salutation": null,
+    "short_ref": "Nita Hidalgo",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MClinPsych, BA(Hons), BEc, GradDipPsych",
+    "post_nominal_dotted": "MClinPsych · BA(Hons) · BEc · GradDipPsych",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Clinical Psychologist",
+    "medical_specialty": "Clinical Psychologist",
+    "ahpra": "PSY0001321461",
+    "abn": "11 742 087 110"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "sanssouci",
+    "consulting_at": [
+      "sanssouci",
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Thursday",
+      "bangor": null,
+      "sanssouci": "Tuesday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "aurora",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "href": "../aurora-women-and-babies-health/",
+      "dot_color": "#D9A79A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Nita%20Hidalgo.webp",
+    "alt": "Portrait of Nita Hidalgo, MClinPsych, BA(Hons), BEc, GradDipPsych, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Nita Hidalgo | MClinPsych, BA(Hons), BEc, GradDipPsych | Sans Souci and Earlwood | SMSG",
+    "description": "Nita Hidalgo (MClinPsych, BA(Hons), BEc, GradDipPsych) practises at Sans Souci Doctors and Earlwood Medical Centre. Clinical Psychologist. English.",
+    "canonical": "https://smsg.au/nita-hidalgo/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Sans Souci Doctors and Earlwood Medical Centre premises. Clinical Psychologist.",
+    "ctas": [
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/clinical-psychologist-nita-hidalgo"
+      },
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/clinical-psychologist-nita-hidalgo"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Nita Hidalgo",
+    "heading_lead": "Meet",
+    "heading_warm": "Nita Hidalgo.",
+    "paragraphs": [
+      "Nita Hidalgo is a clinical psychologist (ABN: 11 742 087 110) (PSY0001321461) consulting at the Earlwood & Sans Souci centres.",
+      "Nita Hidalgo is a Clinical Psychologist passionate about client centered trauma informed care with 16 years of clinical experience regarding assessment and treatment of mental health issues.",
+      "Her areas of specialty include; \\- Complex trauma work for adults and adolescents improve symptoms, functioning and relationships \\- Depression and Anxiety, other mood disorders \\- Borderline Personality Disorder with a focus on Dialectical Behaviour Therapy \\- Drug/ Alcohol and substance abuse issues \\- Work related issues, bullying, harassment, career change etc when independent psychologist from workplace is preferred \\- Insomnia and sleep disorders -Adolescents regarding adjustment disorders, bullying, emotional dysregulation and self-harm behaviours \\- Treatment for difficult intimate relationships \\- Assessment and treatment of family violence including navigating the complexity of family law courts prioritizing the children's interest \\- Therapeutic supports for NDIS clients according to NDIS rates",
+      "Additionally, Nita has a special interest in providing client centred Christian CBT and schema therapy to meet Christian core values and promote safety within the therapeutic relationship. Considerable research has found Secure attachment to God is associated with improved psychological health and spiritual wellbeing. The research has been built on the solid foundation of human attachment theory."
+    ]
+  },
+  "fellowships": [
+    "Registered Clinical Psychologist, Psychologist Board of Australia",
+    "Member, Australian Psychological Society (MAPS)",
+    "Member, Clinical Psychologist Society",
+    "NSW Government Approved Work & Development Order Sponsor"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "sanssouci",
+    "categories": [
+      {
+        "category_name": "Psychology",
+        "appointments": [
+          {
+            "display_name": "Psychologist - Face to Face",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "psychologist-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/clinical-psychologist-nita-hidalgo/a/psychologist-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Clinical Psychologist - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "clinical-psychologist-initial-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/clinical-psychologist-nita-hidalgo/a/clinical-psychologist-initial-consult",
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/clinical-psychologist-nita-hidalgo"
+    },
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/clinical-psychologist-nita-hidalgo"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "sub": "Sub-brand · Women's healthcare across every stage",
+      "href": "../aurora-women-and-babies-health/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Nita Hidalgo",
+    "jobTitle": "Clinical Psychologist",
+    "medicalSpecialty": "Clinical Psychologist",
+    "url": "https://smsg.au/nita-hidalgo/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "PSY0001321461"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Julia Magrin",
+      "sub": "Counsellor & Psychotherapist · Bangor, Sans Souci · English, Portuguese",
+      "href": "../julia-magrin/"
+    },
+    {
+      "name": "Sandra Bell",
+      "sub": "Psychologist · Earlwood · English",
+      "href": "../sandra-bell/"
+    }
+  ]
+}

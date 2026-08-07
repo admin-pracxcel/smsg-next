@@ -1,0 +1,785 @@
+{
+  "slug": "dr-tao-geng",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-tao-geng",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 6
+  },
+  "identity": {
+    "full_name": "Dr Tao Geng",
+    "first_name": "Tao",
+    "last_name": "Geng",
+    "salutation": "Dr",
+    "short_ref": "Dr Geng",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "BMed, FRACGP, MAMSC(LM)",
+    "post_nominal_dotted": "BMed · FRACGP · MAMSC(LM)",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0001670974",
+    "abn": "43 100 136 624"
+  },
+  "languages": [
+    "English",
+    "Mandarin",
+    "Shanghainese"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": "Monday, Thursday",
+      "bangor": "Tuesday, Friday",
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "aurora",
+      "role": "primary"
+    },
+    {
+      "key": "clarion",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "href": "../aurora-women-and-babies-health/",
+      "dot_color": "#D9A79A",
+      "role": "primary"
+    },
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "href": "../clarion-skin-cancer-clinic/",
+      "dot_color": "#B44468",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Tao%20Geng.webp",
+    "alt": "Portrait of Dr Tao Geng, BMed, FRACGP, MAMSC(LM), at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Tao Geng | BMed, FRACGP, MAMSC(LM) | Earlwood and Bangor | SMSG",
+    "description": "Dr Tao Geng (BMed, FRACGP, MAMSC(LM)) practises at Earlwood Medical Centre and Bangor Medical Centre. Consultant Specialist GP. English, Mandarin, Shanghainese.",
+    "canonical": "https://smsg.au/dr-tao-geng/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood and Bangor premises. Warm, considered general practice for the whole family, with a special focus on antenatal shared care, women's health, paediatrics and hormonal IUD procedures.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng"
+      },
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Geng",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Geng.",
+    "paragraphs": [
+      "Dr Tao Geng is an independent Consultant Specialist GP (ABN: 43 100 136 624) (MED0001670974) consulting at the Earlwood / Bangor centres.",
+      "Before coming to Australia, Dr Tao Geng graduated from Shanghai Jiao Tong University School of Medicine and worked as a general physician in Shanghai for five years. She passed her Australian Medical Council (AMC) exams and undertook her internship and resident training in St Vincent's Hospital Sydney and Wagga Wagga Base Hospital. She also had her paediatric training in Canterbury Hospital. Dr Geng completed her GP training in rural NSW towns, including Wagga Wagga and Leeton.",
+      "Dr Geng has now moved back to Sydney. She enjoys looking after patients' general health and disease prevention. She is especially interested in paediatrics, women's health, antenatal shared care, and skin lesions.",
+      "Dr Geng is the Honorary Treasurer of the Australasian Medical Services Coalition (AMSC) in the community. With her strong track record of voluntary work in the community, in 2019, Dr Geng was recognized and presented by Mr Mark Coure MP for the St George Community Award in the category of Individual Volunteer Achievement Award. With her exemplary and outstanding service to the organisation, she was awarded the Outstanding Achievement Award of the Australian Chinese Medical Association in 2019.",
+      "Dr Geng speaks English and Mandarin, as well as Shanghainese."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board of Australia",
+    "Accredited Antenatal Shared Care GP (RHW, RPAH, Canterbury, St George & Sutherland)",
+    "MAXHealth Accredited Pre-Employment Medical Assessor",
+    "RACGP Accredited Supervisor for Registrars in General Practice"
+  ],
+  "awards": [
+    "SMSG Doctor of the Year Awardee 2018",
+    "SMSG Half-Decade Dedication Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Private fees apply to all new patients and any patient not seen in the last 12 months. **Bulk Billing** is strictly restricted to routine consultations for: - Existing regular bulk-billed patients (seen within the last 12 months) - Children aged 15 and under - DVA Card holders"
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": "new-patient-standard-appointment"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/new-patient-standard-appointment"
+            }
+          },
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Vaccine",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "flu-vaccine",
+              "sanssouci": null,
+              "bangor": "flu-vaccine"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/flu-vaccine",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/flu-vaccine"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection/Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "adult-injection-immunisation"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/adult-injection-immunisation"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisations",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Childhood Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "childhood-immunisation"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/childhood-immunisation"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound Care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "dressing-wound-care",
+              "sanssouci": null,
+              "bangor": "dressing-wound-care"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/dressing-wound-care",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/dressing-wound-care"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "iron-deficiency-assessment-and-planning",
+              "sanssouci": null,
+              "bangor": "iron-deficiency-assessment-and-planning"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/iron-deficiency-assessment-and-planning",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/iron-deficiency-assessment-and-planning"
+            }
+          },
+          {
+            "display_name": "Iron Infusion",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "iron-infusion-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "iron-infusion-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/iron-infusion-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/iron-infusion-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "lung-cancer-screening-consult",
+              "sanssouci": null,
+              "bangor": "lung-cancer-screening-consult"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/lung-cancer-screening-consult",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/lung-cancer-screening-consult"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Travel Medicine",
+        "appointments": [
+          {
+            "display_name": "Pre-Travel Consultation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "pre-travel-consultation",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/pre-travel-consultation",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "mental-health-care-plan-30mins-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/mental-health-care-plan-30mins-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "mental-health-care-plan-1-hr-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/mental-health-care-plan-1-hr-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Antenatal",
+        "appointments": [
+          {
+            "display_name": "Antenatal Care",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "antenatal-care-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "antenatal-care-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/antenatal-care-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/antenatal-care-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Pregnancy Support Counselling",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "pregnancy-support-counselling-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "pregnancy-support-counselling-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/pregnancy-support-counselling-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/pregnancy-support-counselling-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Planning & Management of Pregnancy",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "planning-management-of-pregnancy-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "planning-management-of-pregnancy-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/planning-management-of-pregnancy-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/planning-management-of-pregnancy-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Women's Health",
+        "appointments": [
+          {
+            "display_name": "Cervical Screening/Women's Heath Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "cervical-screeningwomens-heath-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/cervical-screeningwomens-heath-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Menopause/Perimenopause Health Assessment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "menopauseperimenopause-health-assessment",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/menopauseperimenopause-health-assessment",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Cervical Screening / Womens Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "cervical-screening-womens-health-check-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/cervical-screening-womens-health-check-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Menopause/Perimenopause Focused Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "menopauseperimenopause-focused-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/menopauseperimenopause-focused-consult"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Contraception",
+        "appointments": [
+          {
+            "display_name": "Implanon Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "implanon-insertion-womens-health-check-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/implanon-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/implanon-insertion-womens-health-check-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "implanon-removal-insertion-womens-health-check-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/implanon-removal-insertion-womens-health-check-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-removal-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "implanon-removal-womens-health-check-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/implanon-removal-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/implanon-removal-womens-health-check-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "IUD Pre-Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "iud-pre-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/iud-pre-consult"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedures",
+        "appointments": [
+          {
+            "display_name": "Pre-Procedural Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": "pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "spirometry-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/spirometry-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "ear-syringing-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/ear-syringing-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "suturing-wound-repair-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/suturing-wound-repair-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Procedural Pre-Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "procedural-pre-consult-private-fees-may-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/procedural-pre-consult-private-fees-may-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Skin Cancer Clinic",
+        "appointments": [
+          {
+            "display_name": "Skin Cancer Check Consultation",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Skin Check Consultation",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "skin-check-consultation-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/skin-check-consultation-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation/CTP Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "workers-compensationctp-initial-physical-injury",
+              "sanssouci": null,
+              "bangor": "workers-compensationctp-initial-physical-injury"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/workers-compensationctp-initial-physical-injury",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/workers-compensationctp-initial-physical-injury"
+            }
+          },
+          {
+            "display_name": "Workers Compensation/CTP Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null,
+              "bangor": "workers-compensationctp-initial-psychological-injury"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng/a/workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng/a/workers-compensationctp-initial-psychological-injury"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-tao-geng"
+    },
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-tao-geng"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "sub": "Sub-brand · Women's healthcare across every stage",
+      "href": "../aurora-women-and-babies-health/"
+    },
+    {
+      "label": "Hormonal IUD & Contraceptive Implant",
+      "sub": "Service · What to expect before, during and after",
+      "href": "../iud-hormonal-implant/"
+    },
+    {
+      "label": "Antenatal Shared Care",
+      "sub": "Service · Coordinated GP and hospital care",
+      "href": "#"
+    },
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "sub": "Sub-brand · Skin checks, dermoscopy, excisions",
+      "href": "../clarion-skin-cancer-clinic/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Tao Geng",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-tao-geng/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001670974"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Chelsie Tan",
+      "sub": "GP · Earlwood, Bangor, Sans Souci · English, Malay",
+      "href": "../dr-chelsie-tan/"
+    },
+    {
+      "name": "Dr Huiling Li",
+      "sub": "GP · Sans Souci · English, Cantonese, Mandarin, Hokkienese",
+      "href": "../dr-huiling-li/"
+    },
+    {
+      "name": "Dr Jonathan Moore",
+      "sub": "GP · Sans Souci · Skin cancer and plastic surgery assisting",
+      "href": "../dr-jonathan-moore/"
+    },
+    {
+      "name": "Dr Yashodha Ediriweera",
+      "sub": "GP · Earlwood · IBCLC lactation support · English, Sinhalese",
+      "href": "../dr-yashodha-ediriweera/"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "slug": "stephanie-yu",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/wt-stephanie-yu",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 56
+  },
+  "identity": {
+    "full_name": "Wing Tung Stephanie Yu",
+    "first_name": "Wing",
+    "last_name": "Yu",
+    "salutation": null,
+    "short_ref": "Wing Tung Stephanie Yu",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MNutriDiet, BSc(Food, Nutrition & Health)",
+    "post_nominal_dotted": "MNutriDiet · BSc(Food · Nutrition & Health)",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Dietitian",
+    "medical_specialty": "Dietitian",
+    "ahpra": null,
+    "abn": "29 768 778 370"
+  },
+  "languages": [
+    "English",
+    "Mandarin"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": "Monday, Tuesday, alt Thursday",
+      "bangor": null,
+      "sanssouci": "alt Thursday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Stephanie%20Yu.webp",
+    "alt": "Portrait of Wing Tung Stephanie Yu, MNutriDiet, BSc(Food, Nutrition & Health), at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Wing Tung Stephanie Yu | MNutriDiet, BSc(Food, Nutrition & Health) | Earlwood and Sans Souci | SMSG",
+    "description": "Wing Tung Stephanie Yu (MNutriDiet, BSc(Food, Nutrition & Health)) practises at Earlwood Medical Centre and Sans Souci Doctors. Dietitian. English, Mandarin.",
+    "canonical": "https://smsg.au/stephanie-yu/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre and Sans Souci Doctors premises. Dietitian. Consulting in English, Mandarin.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dietitian-stephanie-yu"
+      },
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dietitian-stephanie-yu"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Wing Tung Stephanie Yu",
+    "heading_lead": "Meet",
+    "heading_warm": "Wing Tung Stephanie Yu.",
+    "paragraphs": [
+      "Stephanie Yu (Wing Tung Yu) is a dietitian (ABN: 29 768 778 370) (APD190621) consulting at the Earlwood / Sans Souci centres.",
+      "Stephanie is a member of the Dietitians Australia and an Accredited Practising Dietitian. She completed her Bachelor degree in Food, Nutrition and Health (Major in Nutritional Science) in Vancouver as well as a Master in Nutrition and Dietetics from the University of Sydney.",
+      "She completed her professional trainings in Concord Repatriation General Hospital and Westmead Women's and Newborn Clinic. She has vast experiences in diet and weight management with clients of various backgrounds including various chronic conditions (e.g. overweight/obesity, cardiovascular diseases, diabetes, stroke), low FODMAP diet/IBS management and pregnancy. She aims to provide evidence-based interventions to motivate her clients to initiate positive diet changes in their lifestyles. With her passion for food and nutrition, she truly hopes that her client can achieve their health goals through personalised meal planning and sustainable diet habits.",
+      "Stephanie speaks Mandarin in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Accredited Practising Dietitian",
+    "Member, Dietitians Australia"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Dietitian",
+        "appointments": [
+          {
+            "display_name": "Dietitian - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "dietitian-initial-consult",
+              "sanssouci": "dietitian-initial-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dietitian-stephanie-yu/a/dietitian-initial-consult",
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dietitian-stephanie-yu/a/dietitian-initial-consult",
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dietitian-stephanie-yu"
+    },
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dietitian-stephanie-yu"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Kids' Dr",
+      "sub": "Sub-brand · Paediatric care for infants through adolescents",
+      "href": "../kids-dr/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Wing Tung Stephanie Yu",
+    "jobTitle": "Dietitian",
+    "medicalSpecialty": "Dietitian",
+    "url": "https://smsg.au/stephanie-yu/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ]
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Hana Rizk",
+      "sub": "Podiatrist · Earlwood · English, Arabic",
+      "href": "../hana-rizk/"
+    }
+  ]
+}

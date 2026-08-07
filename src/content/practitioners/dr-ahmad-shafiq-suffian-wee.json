@@ -1,0 +1,206 @@
+{
+  "slug": "dr-ahmad-shafiq-suffian-wee",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-ahmad-shafiq-suffian-wee",
+    "bio_from": "smsg.au",
+    "provider_csv_row": 50
+  },
+  "identity": {
+    "full_name": "Dr Ahmad Shafiq Suffian Wee",
+    "first_name": "Ahmad",
+    "last_name": "Wee",
+    "salutation": "Dr",
+    "short_ref": "Dr Shafiq",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "BMed, MMed (Internal Medicine), FRACP",
+    "post_nominal_dotted": "BMed · MMed (Internal Medicine) · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Neurologist · Stroke & Neurointervention Specialist",
+    "medical_specialty": "Neurologist",
+    "ahpra": "MED0001903195",
+    "abn": "98 691 982 510"
+  },
+  "languages": [
+    "English",
+    "Malay",
+    "Mandarin",
+    "Basic Cantonese"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Wednesday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Ahmad%20Shafiq%20Suffian%20Wee.webp",
+    "alt": "Portrait of Dr Ahmad Shafiq Suffian Wee, BMed, MMed (Internal Medicine), FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Ahmad Shafiq Suffian Wee | BMed, MMed, FRACP | Earlwood | SMSG",
+    "description": "Dr Ahmad Shafiq Suffian Wee (BMed, MMed, FRACP) is a Neurologist and Stroke & Neurointervention Specialist consulting at Earlwood Medical Centre. English, Malay, Mandarin, Basic Cantonese.",
+    "canonical": "https://smsg.au/dr-ahmad-shafiq-suffian-wee/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Neurologist with subspecialty training in Stroke Medicine, consulting Wednesdays. English, Malay, Mandarin and Basic Cantonese.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/neurologist-dr-ahmad-shafiq-suffian-wee"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Shafiq",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Shafiq.",
+    "paragraphs": [
+      "Dr Ahmad Shafiq Suffian Wee is a Neurologist consulting at Earlwood Medical Centre. He completed his medical training at the University of Newcastle before undertaking a Master of Internal Medicine at the University of Sydney. He then achieved his Fellowship with the Royal Australasian College of Physicians (FRACP), specialising in Neurology, followed by subspecialty training in Stroke Medicine.",
+      "His specialist training was undertaken across Wollongong and Liverpool Hospitals, where he gained extensive experience in the diagnosis and management of acute stroke, cerebrovascular disease, and a wide range of complex neurological conditions. Dr Shafiq is currently a Staff Specialist Neurologist at Wollongong Hospital.",
+      "With a strong background in internal medicine, Dr Shafiq takes a comprehensive and holistic approach to neurological care. His clinical interests include stroke, cerebrovascular disease, and the management of a broad spectrum of neurological disorders.",
+      "Alongside his clinical practice, Dr Shafiq is actively involved in teaching medical students and junior doctors, and holds a Conjoint Associate Lecturer appointment with UNSW Medicine. He has a strong interest in clinical research focused on improving patient care and health outcomes through evidence-based practice.",
+      "Dr Shafiq works closely with patients and their families, keeping them well informed and supported through diagnosis, treatment and ongoing care."
+    ]
+  },
+  "fellowships": [
+    "Fellow, Royal Australasian College of Physicians (FRACP) — Neurology",
+    "European Diploma in Stroke Intervention (ESMINT)",
+    "Advanced Trainee Research Examiner, Royal Australasian College of Physicians",
+    "Affiliate, Australian & New Zealand Association of Neurologists (ANZAN)",
+    "Member, Australasian Stroke Academy",
+    "Member, American Academy of Neurology (AAN)",
+    "Member, European Academy of Neurology (EAN)",
+    "Member, European Society of Minimally Invasive Neurological Therapy (ESMINT)"
+  ],
+  "awards": [],
+  "additional_roles": [
+    "Staff Specialist Neurologist, Wollongong Hospital",
+    "Conjoint Associate Lecturer, UNSW Medicine"
+  ],
+  "billing": {
+    "policy": "private",
+    "source_note": "Specialist consultations are privately billed. A GP referral is required for the Medicare rebate to apply. Reception confirms the specific fee and out-of-pocket at booking."
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": {
+      "clinic_label": "Earlwood Medical Centre",
+      "phone": "02 9554 7788"
+    },
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Specialist",
+        "appointments": [
+          {
+            "display_name": "Neurologist - Initial Consult",
+            "tag": null,
+            "note": "GP referral required for the Medicare rebate to apply.",
+            "clinic_slugs": {
+              "earlwood": "neurologist-initial-consult",
+              "bangor": null,
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/neurologist-dr-ahmad-shafiq-suffian-wee/a/neurologist-initial-consult",
+              "bangor": null,
+              "sanssouci": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "Wednesdays",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/neurologist-dr-ahmad-shafiq-suffian-wee"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across nine disciplines",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialist-physicians-surgeons/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Ahmad Shafiq Suffian Wee",
+    "jobTitle": "Neurologist · Stroke & Neurointervention Specialist",
+    "medicalSpecialty": "Neurology",
+    "url": "https://smsg.au/dr-ahmad-shafiq-suffian-wee/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ]
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    }
+  ]
+}

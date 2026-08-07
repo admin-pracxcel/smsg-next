@@ -1,0 +1,174 @@
+{
+  "slug": "dr-damian-lees",
+  "page_type": "specialist",
+  "has_online_booking": false,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-damian-lees",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 42
+  },
+  "identity": {
+    "full_name": "Dr Damian Lees",
+    "first_name": "Damian",
+    "last_name": "Lees",
+    "salutation": "Dr",
+    "short_ref": "Dr Lees",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, MA(Oxon), DCH, FRACP",
+    "post_nominal_dotted": "MBBS · MA(Oxon) · DCH · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "General Paediatrician",
+    "medical_specialty": "General Paediatrician",
+    "ahpra": "MED0001981817",
+    "abn": "23 948 133 419"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Friday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    },
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    },
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Damian%20Lees.webp",
+    "alt": "Portrait of Dr Damian Lees, MBBS, MA(Oxon), DCH, FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Damian Lees | MBBS, MA(Oxon), DCH, FRACP | Earlwood | SMSG",
+    "description": "Dr Damian Lees (MBBS, MA(Oxon), DCH, FRACP) practises at Earlwood Medical Centre. General Paediatrician. English.",
+    "canonical": "https://smsg.au/dr-damian-lees/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. General Paediatrician.",
+    "ctas": []
+  },
+  "bio": {
+    "eyebrow": "About Dr Lees",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Lees.",
+    "paragraphs": [
+      "Dr Lees is a General Paediatrician (ABN: 23 948 133 419) (MED0001981817) consulting at the Earlwood Centre.",
+      "Dr Lees received his preclinical training at Oxford University, where he was awarded an MA in Medical Sciences, before completing his clinical training at University College London. He has broad clinical experience, having initially practised in the United Kingdom before relocating to Australia in 2015. He subsequently pursued a postgraduate Diploma in Child Health at the University of Sydney, and then undertook his specialist training through the Sydney Children’s Hospital Network, gaining experience across a broad range of paediatric subspecialties in both rural and metropolitan hospitals across New South Wales.",
+      "Alongside his clinical practice, Dr Lees has been actively involved in medical education. He completed the Clinical Teaching Fellowship at the University of Sydney and was appointed Honorary Clinical Lecturer. He also has experience in clinical research and quality improvement initiatives, alongside a strong interest in the role of technology in shaping the future of healthcare.",
+      "Dr Lees provides comprehensive paediatric care from infancy through adolescence, supporting children and their families with developmental, behavioural, and general health concerns. He provides thorough, attentive and family-focused care to his patients and their families."
+    ]
+  },
+  "fellowships": [
+    "Honorary Clinical Lecturer, University of Sydney"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "phone_only",
+    "phone_fallback": {
+      "clinic_label": "Earlwood Medical Centre",
+      "phone": "02 9554 7788"
+    },
+    "default_clinic": "earlwood",
+    "categories": []
+  },
+  "footer_book_links": [],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Damian Lees",
+    "jobTitle": "General Paediatrician",
+    "medicalSpecialty": "General Paediatrician",
+    "url": "https://smsg.au/dr-damian-lees/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001981817"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": [],
+    "bio_boilerplate_removed": "Removed \"committed to providing\" phrase (banned corporate register)."
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    }
+  ]
+}

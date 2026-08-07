@@ -1,0 +1,194 @@
+{
+  "slug": "dr-daniel-wong",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-daniel-l-wong",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 51
+  },
+  "identity": {
+    "full_name": "Dr Daniel L Wong",
+    "first_name": "Daniel",
+    "last_name": "Wong",
+    "salutation": "Dr",
+    "short_ref": "Dr Wong",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, BSc(Hons), FRACP",
+    "post_nominal_dotted": "MBBS · BSc(Hons) · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Geriatrician & General Medicine Physician",
+    "medical_specialty": "Geriatrician & General Medicine Physician",
+    "ahpra": "MED0001208408",
+    "abn": "11 541 674 657"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Thursday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Daniel%20Wong.webp",
+    "alt": "Portrait of Dr Daniel L Wong, MBBS, BSc(Hons), FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Daniel L Wong | MBBS, BSc(Hons), FRACP | Earlwood | SMSG",
+    "description": "Dr Daniel L Wong (MBBS, BSc(Hons), FRACP) practises at Earlwood Medical Centre. Geriatrician & General Medicine Physician. English.",
+    "canonical": "https://smsg.au/dr-daniel-wong/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Geriatrician & General Medicine Physician.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/general-physician-geriatrician-dr-daniel-wong"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Wong",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Wong.",
+    "paragraphs": [
+      "Dr Daniel L. Wong is a Geriatrician and General Medicine Physician (ABN: 11 541 674 657) (MED0001208408) consulting at the Earlwood centre.",
+      "He obtained his medical degree (MBBS) from the University of Sydney before completing his specialist physician training across major Sydney clinical networks, including St George, Sutherland, and Prince of Wales Hospitals, where he sub-specialised in Geriatric Medicine. Prior to his medical career in Australia, Dr Wong earned a Bachelor of Science from the University of Ottawa in Canada and proudly served in the Canadian Armed Forces Army Reserve.",
+      "He currently serves as a Staff Specialist in Geriatric and General Medicine at St. George Hospital in Kogarah. With comprehensive expertise spanning all facets of aged care, his clinical interests center on general and community geriatrics, cognitive impairment, dementia management, and complex general medicine.",
+      "Committed to a holistic and multidisciplinary approach, Dr Wong focuses on delivering evidence-based care tailored to individual patient needs, striving to optimize independence and enhance overall quality of life for older adults."
+    ]
+  },
+  "fellowships": [
+    "Staff Specialist in Geriatric and General Medicine, St. George Hospital",
+    "Member, Australian and New Zealand Society for Geriatric Medicine (ANZGSM)"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Geriatrics",
+        "appointments": [
+          {
+            "display_name": "Geriatrician - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "geriatrician-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/general-physician-geriatrician-dr-daniel-wong/a/geriatrician-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/general-physician-geriatrician-dr-daniel-wong"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Daniel L Wong",
+    "jobTitle": "Geriatrician & General Medicine Physician",
+    "medicalSpecialty": "Geriatrician & General Medicine Physician",
+    "url": "https://smsg.au/dr-daniel-wong/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001208408"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "slug": "thao-tammy-trang",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/thao-tammy-trang",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 64
+  },
+  "identity": {
+    "full_name": "Thao Tammy Trang",
+    "first_name": "Thao",
+    "last_name": "Trang",
+    "salutation": null,
+    "short_ref": "Thao Tammy Trang",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MPsychCouns, GDipSocSc, BSocSc, Cert Mentoring",
+    "post_nominal_dotted": "MPsychCouns · GDipSocSc · BSocSc · Cert Mentoring",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Counsellor & Psychotherapist",
+    "medical_specialty": "Counsellor & Psychotherapist",
+    "ahpra": null,
+    "abn": "437 933 801 74"
+  },
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Saturday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Tammy%20Trang.webp",
+    "alt": "Portrait of Thao Tammy Trang, MPsychCouns, GDipSocSc, BSocSc, Cert Mentoring, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Thao Tammy Trang | MPsychCouns, GDipSocSc, BSocSc, Cert Mentoring | Earlwood | SMSG",
+    "description": "Thao Tammy Trang (MPsychCouns, GDipSocSc, BSocSc, Cert Mentoring) practises at Earlwood Medical Centre. Counsellor & Psychotherapist. English, Vietnamese.",
+    "canonical": "https://smsg.au/thao-tammy-trang/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Counsellor & Psychotherapist. Consulting in English, Vietnamese.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/counsellor-thao-tam-trang"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Thao Tammy Trang",
+    "heading_lead": "Meet",
+    "heading_warm": "Thao Tammy Trang.",
+    "paragraphs": [
+      "Tammy is a PACFA registered Psychotherapist/Counsellor (ABN: 437 933 801 74) (26750) consulting at the Earlwood centre.",
+      "Bringing extensive experience across both community and corporate settings, she supports individuals with warmth, empathy, and respect. She deeply values genuine connection and strives to create a safe, trusting therapeutic space where clients feel heard, understood, and supported at their own pace.",
+      "She works alongside people navigating complex trauma, mental health challenges, and social barriers that may affect wellbeing, relationships, and daily life. Her approach is gentle, collaborative, and grounded in evidence-based practices, drawing on trauma-informed therapy, Dialectical Behaviour Therapy (DBT), and person-centred principles to support practical, sustainable change.",
+      "Tammy speaks fluent Vietnamese in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Member, Psychotherapy and Counselling Association of Australia (PACFA)",
+    "NSW Approved Victims Services Counsellor"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Counselling",
+        "appointments": [
+          {
+            "display_name": "Victims Services - Assessment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "victims-services-assessment",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/counsellor-thao-tam-trang/a/victims-services-assessment",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Counsellor - Face to Face",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "counsellor-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/counsellor-thao-tam-trang/a/counsellor-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/counsellor-thao-tam-trang"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Thao Tammy Trang",
+    "jobTitle": "Counsellor & Psychotherapist",
+    "medicalSpecialty": "Counsellor & Psychotherapist",
+    "url": "https://smsg.au/thao-tammy-trang/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ]
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Sandra Bell",
+      "sub": "Psychologist · Earlwood · English",
+      "href": "../sandra-bell/"
+    },
+    {
+      "name": "Sarah Impellizzeri",
+      "sub": "Speech Pathologist · Earlwood, Sans Souci · English",
+      "href": "../sarah-impellizzeri/"
+    }
+  ]
+}

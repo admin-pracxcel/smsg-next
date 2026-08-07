@@ -1,0 +1,541 @@
+{
+  "slug": "dr-lisa-cheng",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-lisa-cheng",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 3
+  },
+  "identity": {
+    "full_name": "Dr Lisa Cheng",
+    "first_name": "Lisa",
+    "last_name": "Cheng",
+    "salutation": "Dr",
+    "short_ref": "Dr Cheng",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, BMedSc, BSc(Anat & Physio), MBA, PhD, GDipPH, DCH, RCMP(Acup & CHM), FRACGP, AFCHSM, CHM",
+    "post_nominal_dotted": "MBBS · BMedSc · BSc(Anat & Physio) · MBA · PhD · GDipPH · DCH · RCMP(Acup & CHM) · FRACGP · AFCHSM · CHM",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0001188634",
+    "abn": "15 430 407 146"
+  },
+  "languages": [
+    "English",
+    "Cantonese",
+    "Basic Mandarin"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Tuesday, Thursday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "aurora",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "href": "../aurora-women-and-babies-health/",
+      "dot_color": "#D9A79A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Lisa%20Cheng.webp",
+    "alt": "Portrait of Dr Lisa Cheng, MBBS, BMedSc, BSc(Anat & Physio), MBA, PhD, GDipPH, DCH, RCMP(Acup & CHM), FRACGP, AFCHSM, CHM, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Lisa Cheng | MBBS, BMedSc, BSc(Anat & Physio), MBA, PhD, GDipPH, DCH, RCMP(Acup & CHM), FRACGP, AFCHSM, CHM | Earlwood | SMSG",
+    "description": "Dr Lisa Cheng (MBBS, BMedSc, BSc(Anat & Physio), MBA, PhD, GDipPH, DCH, RCMP(Acup & CHM), FRACGP, AFCHSM, CHM) practises at Earlwood Medical Centre. Consultant Specialist GP. English, Cantonese, Basic Mandarin.",
+    "canonical": "https://smsg.au/dr-lisa-cheng/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Consultant Specialist GP. Consulting in English, Cantonese, Basic Mandarin.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Cheng",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Cheng.",
+    "paragraphs": [
+      "Dr Lisa Cheng is an independent Consultant Specialist GP (ABN: 15 430 407 146) (MED0001188634) consulting at the Earlwood centre.",
+      "Dr Cheng graduated from the University of New South Wales with an MBBS and subsequently a clinical researcher with a PhD from the University of Technology Sydney. After she graduated from Medicine, Dr Cheng was trained in various hospitals for internship and residency before joining the Paediatric Training program at Sydney Children Hospital, where she worked as a Paediatric Registrar. Dr Cheng then worked in Palliative Medicine before joining the Family Medicine Speciality and later became the Fellow of the Royal Australian College of General Practitioners.",
+      "In addition to English, Dr Cheng also speaks fluent Cantonese and functional Mandarin."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board of Australia",
+    "Registered Acupuncturist, Chinese Medicine Board of Australia (CMBA)",
+    "Registered Chinese Herbal Medicine Practitioner, CMBA",
+    "Accredited Antenatal Shared Care GP (RHW, RPAH, Canterbury, St George & Sutherland)",
+    "MAXHealth Accredited Pre-Employment Medical Assessor"
+  ],
+  "awards": [],
+  "additional_roles": [
+    "RACGP Accredited Supervisor for GP Registrars"
+  ],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Private fees apply to all new patients and any patient not seen in the last 12 months. **Bulk Billing** is strictly restricted to routine consultations for: - Existing regular bulk-billed patients (seen within the last 12 months)"
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Vaccine",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "flu-vaccine",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/flu-vaccine",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection/Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisations",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound Care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "dressing-wound-care",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/dressing-wound-care",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "lung-cancer-screening-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/lung-cancer-screening-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Travel Clinic",
+        "appointments": [
+          {
+            "display_name": "Pre-Travel Consultation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "pre-travel-consultation",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/pre-travel-consultation",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Antenatal",
+        "appointments": [
+          {
+            "display_name": "Antenatal Care",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "antenatal-care-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/antenatal-care-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pregnancy Support Counselling",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "pregnancy-support-counselling-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/pregnancy-support-counselling-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Planning & Management of Pregnancy",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "planning-management-of-pregnancy-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/planning-management-of-pregnancy-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Women's Health",
+        "appointments": [
+          {
+            "display_name": "Cervical Screening/Women's Heath Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "cervical-screeningwomens-heath-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/cervical-screeningwomens-heath-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Menopause/Perimenopause Health Assessment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "menopauseperimenopause-health-assessment",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/menopauseperimenopause-health-assessment",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Contraception",
+        "appointments": [
+          {
+            "display_name": "Implanon Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/implanon-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-removal-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/implanon-removal-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Skin Cancer Clinic",
+        "appointments": [
+          {
+            "display_name": "Skin Cancer Check Consultation",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng/a/skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-lisa-cheng"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "sub": "Sub-brand · Women's healthcare across every stage",
+      "href": "../aurora-women-and-babies-health/"
+    },
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Lisa Cheng",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-lisa-cheng/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001188634"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Yashodha Ediriweera",
+      "sub": "GP · Earlwood · English, Sinhalese",
+      "href": "../dr-yashodha-ediriweera/"
+    },
+    {
+      "name": "Dr Tao Geng",
+      "sub": "GP · Earlwood, Bangor · English, Mandarin, Shanghainese",
+      "href": "../dr-tao-geng/"
+    },
+    {
+      "name": "Dr Margaret Colwell",
+      "sub": "GP · Bangor · English",
+      "href": "../dr-margaret-colwell/"
+    },
+    {
+      "name": "Dr Huiling Li",
+      "sub": "GP · Sans Souci · English, Cantonese, Mandarin, Hokkienese",
+      "href": "../dr-huiling-li/"
+    }
+  ]
+}

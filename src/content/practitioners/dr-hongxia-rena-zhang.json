@@ -1,0 +1,147 @@
+{
+  "slug": "dr-hongxia-rena-zhang",
+  "page_type": "gp",
+  "has_online_booking": false,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-hx-rena-zhang",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 30
+  },
+  "identity": {
+    "full_name": "Dr Hongxia Rena Zhang",
+    "first_name": "Hongxia",
+    "last_name": "Zhang",
+    "salutation": "Dr",
+    "short_ref": "Dr Zhang",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "BMed, MMed, MD(Oncology), DipPallCare, FRACGP",
+    "post_nominal_dotted": "BMed · MMed · MD(Oncology) · DipPallCare · FRACGP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0001208416",
+    "abn": "74 633 990 360"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Rena%20Zhang.webp",
+    "alt": "Portrait of Dr Hongxia Rena Zhang, BMed, MMed, MD(Oncology), DipPallCare, FRACGP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Hongxia Rena Zhang | BMed, MMed, MD(Oncology), DipPallCare, FRACGP | Sans Souci | SMSG",
+    "description": "Dr Hongxia Rena Zhang (BMed, MMed, MD(Oncology), DipPallCare, FRACGP) practises at Sans Souci Doctors. Consultant Specialist GP.",
+    "canonical": "https://smsg.au/dr-hongxia-rena-zhang/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Sans Souci Doctors premises. Consultant Specialist GP.",
+    "ctas": []
+  },
+  "bio": {
+    "eyebrow": "About Dr Zhang",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Zhang.",
+    "paragraphs": [
+      "Dr Rena Zhang (Dr Hongxia) is an independant Specialist GP (ABN: 74 633 990 360) (MED0001208416) consulting at the Sans Souci centre.",
+      "Dr Zhang holds a Bachelor of Medicine, Master of Medicine, Doctorate of Medicine in Molecular Oncology research, and a Diploma in Palliative Medicine.",
+      "Dr Zhang has been delivering compassionate and dedicated care to communities, with her practice focuses on preventative medicine, supporting individuals to achieve and maintain their health and wellbeing. Her doctoral research background in molecular oncology research has enriched her understanding of complex medical conditions, further enhancing her ability to support patients in achieving their health goals.",
+      "With a strong interest in mental health, women’s health and preventative health assessments, Dr Zhang provides comprehensive, personalised care tailored to each patient’s needs, ensuring they feel supported at every stage of their health journey."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board of Australia"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Private fees apply to all patients on an ongoing basis. **Bulk Billing** is strictly restricted to routine consultations for: - Children aged 15 and under - Concession Card holders - DVA Card holders"
+  },
+  "booking": {
+    "mode": "phone_only",
+    "phone_fallback": {
+      "clinic_label": "Sans Souci Doctors",
+      "phone": "02 7923 9103"
+    },
+    "default_clinic": "sanssouci",
+    "categories": []
+  },
+  "footer_book_links": [],
+  "related_care": [
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Hongxia Rena Zhang",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-hongxia-rena-zhang/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001208416"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Aleeza Fatima",
+      "sub": "GP · Sans Souci · English, Urdu, Hindi, Punjabi",
+      "href": "../dr-aleeza-fatima/"
+    },
+    {
+      "name": "Dr John George",
+      "sub": "GP · Sans Souci · English, Arabic",
+      "href": "../dr-john-george/"
+    },
+    {
+      "name": "Dr Huiling Li",
+      "sub": "GP · Sans Souci · English, Cantonese, Mandarin, Hokkienese",
+      "href": "../dr-huiling-li/"
+    },
+    {
+      "name": "Dr James Marsh",
+      "sub": "GP · Sans Souci · English",
+      "href": "../dr-james-marsh/"
+    }
+  ]
+}

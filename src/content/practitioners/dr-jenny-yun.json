@@ -1,0 +1,450 @@
+{
+  "slug": "dr-jenny-yun",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-sw-jenny-yun",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 28
+  },
+  "identity": {
+    "full_name": "Dr Jenny Yun",
+    "first_name": "Jenny",
+    "last_name": "Yun",
+    "salutation": "Dr",
+    "short_ref": "Dr Yun",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MD, BBiomed, SCHP, FRACGP",
+    "post_nominal_dotted": "MD · BBiomed · SCHP · FRACGP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0002217577",
+    "abn": "42 453 942 719"
+  },
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Tuesday, Thursday, alt Saturday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "clarion",
+      "role": "primary"
+    },
+    {
+      "key": "sydneycosmedic",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "href": "../clarion-skin-cancer-clinic/",
+      "dot_color": "#B44468",
+      "role": "primary"
+    },
+    {
+      "label": "Sydney Cosmedic",
+      "href": "../sydney-cosmedic/",
+      "dot_color": "#B7967A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Jenny%20Yun.webp",
+    "alt": "Portrait of Dr Jenny Yun, MD, BBiomed, SCHP, FRACGP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Jenny Yun | MD, BBiomed, SCHP, FRACGP | Earlwood | SMSG",
+    "description": "Dr Jenny Yun (MD, BBiomed, SCHP, FRACGP) practises at Earlwood Medical Centre. Consultant Specialist GP. English, Korean.",
+    "canonical": "https://smsg.au/dr-jenny-yun/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Consultant Specialist GP. Consulting in English, Korean.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Yun",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Yun.",
+    "paragraphs": [
+      "Dr Jenny Yun is an independent Consultant Specialist GP (ABN: 42 453 942 719) (MED0002217577) consulting at the Earlwood centre.",
+      "Dr Jenny completed her Doctor of Medicine at the University of Melbourne. She began her medical career in Victoria, working at the Royal Melbourne Hospital and Peter MacCallum Cancer Centre before relocating to Sydney to undertake her General Practice training. She has also completed the Sydney Child Health Program.",
+      "Dr Yun enjoys all aspects of general practice, with particular interests in dermatology and women’s health. She holds a Certificate of Dermoscopy from the Skin Cancer College Australasia and is trained in Implanon insertion and removal.",
+      "Alongside her clinical work, Dr Yun is involved in academic medicine as a casual Associate Lecturer at the University of Sydney Medical School, where she contributes to teaching medical students and research. She has published eight articles in peer-reviewed journals.",
+      "Dr Yun is fluent in both English and Korean."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board of Australia",
+    "Consultant Specialist GP, with a specialist interest in Skin & Cosmetic Procedures",
+    "Associate Lecturer, University of Sydney"
+  ],
+  "awards": [
+    "SMSG Registrar of the Year Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": "private",
+    "source_note": "Private fees apply to all consultations on an ongoing basis."
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "iron-deficiency-assessment-and-planning",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/iron-deficiency-assessment-and-planning",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Iron Infusion",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "iron-infusion-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/iron-infusion-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Women's Health",
+        "appointments": [
+          {
+            "display_name": "Cervical Screening/Women's Heath Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "cervical-screeningwomens-heath-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/cervical-screeningwomens-heath-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Contraception",
+        "appointments": [
+          {
+            "display_name": "Implanon Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/implanon-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-removal-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/implanon-removal-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Pre-Procedural Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": "pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Skin Cancer Clinic",
+        "appointments": [
+          {
+            "display_name": "Skin Cancer Check Consultation",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun/a/skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-jenny-yun"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "sub": "Sub-brand · Skin cancer screening and treatment",
+      "href": "../clarion-skin-cancer-clinic/"
+    },
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Jenny Yun",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-jenny-yun/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0002217577"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Tao Geng",
+      "sub": "GP · Earlwood, Bangor · English, Mandarin, Shanghainese",
+      "href": "../dr-tao-geng/"
+    },
+    {
+      "name": "Dr Jaison Mangahis",
+      "sub": "GP · Earlwood · English, Tagalog",
+      "href": "../dr-jaison-mangahis/"
+    },
+    {
+      "name": "Dr Grant Yuan",
+      "sub": "GP · Earlwood · English, Mandarin",
+      "href": "../dr-grant-yuan/"
+    },
+    {
+      "name": "Dr Margaret Colwell",
+      "sub": "GP · Bangor · English",
+      "href": "../dr-margaret-colwell/"
+    }
+  ]
+}

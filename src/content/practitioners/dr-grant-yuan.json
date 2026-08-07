@@ -1,0 +1,609 @@
+{
+  "slug": "dr-grant-yuan",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-z-grant-yuan",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 27
+  },
+  "identity": {
+    "full_name": "Dr Grant Yuan",
+    "first_name": "Grant",
+    "last_name": "Yuan",
+    "salutation": "Dr",
+    "short_ref": "Dr Yuan",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, BSc, MS, ProfCertGenDerm, ProfCertMedNutr, FRACGP",
+    "post_nominal_dotted": "MBBS · BSc · MS · ProfCertGenDerm · ProfCertMedNutr · FRACGP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0001867041",
+    "abn": "28 780 713 370"
+  },
+  "languages": [
+    "English",
+    "Mandarin"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Monday, Wednesday, Friday, Saturday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "clarion",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "href": "../clarion-skin-cancer-clinic/",
+      "dot_color": "#B44468",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Grant%20Yuan.webp",
+    "alt": "Portrait of Dr Grant Yuan, MBBS, BSc, MS, ProfCertGenDerm, ProfCertMedNutr, FRACGP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Grant Yuan | MBBS, BSc, MS, ProfCertGenDerm, ProfCertMedNutr, FRACGP | Earlwood | SMSG",
+    "description": "Dr Grant Yuan (MBBS, BSc, MS, ProfCertGenDerm, ProfCertMedNutr, FRACGP) practises at Earlwood Medical Centre. Consultant Specialist GP. English, Mandarin.",
+    "canonical": "https://smsg.au/dr-grant-yuan/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Consultant Specialist GP. Consulting in English, Mandarin.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Yuan",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Yuan.",
+    "paragraphs": [
+      "Dr Grant Yuan is an independent Consultant Specialist GP (ABN: 28 780 713 370) (MED0001867041) consulting at the Earlwood centre.",
+      "Dr Grant Yuan completed his medical training at the University of Notre Dame in Sydney. He firmly believes patient-centred care, communication and good record-keeping are the way to look after his patients. He pays particular attention to child and elderly care. With a degree of Master of Surgery and a Certificate in Dermatology, he is strong in surgical and skin procedures. He strives to provide excellent services to his patients and welcomes feedback.",
+      "In addition to English, Dr Yuan also speaks fluent Mandarin."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board of Australia",
+    "Consultant Specialist GP, with a specialist interest in Skin & Cosmetic Procedures",
+    "MAXHealth Accredited Pre-Employment Medical Assessor"
+  ],
+  "awards": [
+    "SMSG Doctor of the Year Awardee 2020",
+    "SMSG Half-Decade Dedication Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Private fees apply to all new patients and any patient not seen in the last 12 months. **Bulk Billing** is strictly restricted to routine consultations for: - Existing regular bulk-billed patients (seen within the last 12 months) - Children aged 15 and under - Concession Card holders - DVA Card holders"
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Vaccine",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "flu-vaccine",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/flu-vaccine",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection/Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisations",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound Care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "dressing-wound-care",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/dressing-wound-care",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "iron-deficiency-assessment-and-planning",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/iron-deficiency-assessment-and-planning",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Iron Infusion",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "iron-infusion-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/iron-infusion-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "lung-cancer-screening-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/lung-cancer-screening-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Contraception",
+        "appointments": [
+          {
+            "display_name": "Implanon Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/implanon-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "implanon-removal-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/implanon-removal-womens-health-check-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Pre-Procedural Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": "pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Skin Cancer Clinic",
+        "appointments": [
+          {
+            "display_name": "Skin Cancer Check Consultation",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/skin-cancer-check-consultation-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation/CTP Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "workers-compensationctp-initial-physical-injury",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/workers-compensationctp-initial-physical-injury",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Workers Compensation/CTP Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Cosmetic",
+        "appointments": [
+          {
+            "display_name": "Cosmetics - Wrinkle Relaxation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "cosmetics-wrinkle-relaxation",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/cosmetics-wrinkle-relaxation",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Cosmetics - Bio Remodelling [Face]",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "cosmetics-bio-remodelling-face",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/cosmetics-bio-remodelling-face",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Cosmetics - Bio Remodelling [Neck]",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "cosmetics-bio-remodelling-neck",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/cosmetics-bio-remodelling-neck",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Cosmetics - Initial Assessment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "cosmetics-initial-assessment",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan/a/cosmetics-initial-assessment",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-grant-yuan"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "sub": "Sub-brand · Skin cancer screening and treatment",
+      "href": "../clarion-skin-cancer-clinic/"
+    },
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Grant Yuan",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-grant-yuan/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001867041"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Tao Geng",
+      "sub": "GP · Earlwood, Bangor · English, Mandarin, Shanghainese",
+      "href": "../dr-tao-geng/"
+    },
+    {
+      "name": "Dr Jaison Mangahis",
+      "sub": "GP · Earlwood · English, Tagalog",
+      "href": "../dr-jaison-mangahis/"
+    },
+    {
+      "name": "Dr Jenny Yun",
+      "sub": "GP · Earlwood · English, Korean",
+      "href": "../dr-jenny-yun/"
+    },
+    {
+      "name": "Dr Margaret Colwell",
+      "sub": "GP · Bangor · English",
+      "href": "../dr-margaret-colwell/"
+    }
+  ]
+}

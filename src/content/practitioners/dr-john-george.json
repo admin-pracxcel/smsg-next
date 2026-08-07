@@ -1,0 +1,411 @@
+{
+  "slug": "dr-john-george",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-john-george",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 7
+  },
+  "identity": {
+    "full_name": "Dr John George",
+    "first_name": "John",
+    "last_name": "George",
+    "salutation": "Dr",
+    "short_ref": "Dr George",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, MPH, ECFMG, FMGEMS, FRACGP",
+    "post_nominal_dotted": "MBBS · MPH · ECFMG · FMGEMS · FRACGP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0001169880",
+    "abn": "71 070 158 655"
+  },
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "clinics": {
+    "primary": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": "Monday"
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20John%20George.webp",
+    "alt": "Portrait of Dr John George, MBBS, MPH, ECFMG, FMGEMS, FRACGP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr John George | MBBS, MPH, ECFMG, FMGEMS, FRACGP | Sans Souci | SMSG",
+    "description": "Dr John George (MBBS, MPH, ECFMG, FMGEMS, FRACGP) practises at Sans Souci Doctors. Consultant Specialist GP. English, Arabic.",
+    "canonical": "https://smsg.au/dr-john-george/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Sans Souci Doctors premises. Consultant Specialist GP. Consulting in English, Arabic.",
+    "ctas": [
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr George",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr George.",
+    "paragraphs": [
+      "Dr John George is an independent Consultant Specialist GP (ABN: 71 070 158 655) (MED0001169880) consulting at Sans Souci Doctors.",
+      "Dr George graduated from Sudan in 1983, worked in different parts in East Africa as a medical practitioner. He developed an interest in infectious diseases prevention and control. He was selected for further training at the University of California, Berkley, USA, in the areas of communicable, epidemiology and childhood diseases.",
+      "He moved to Australia 1991, he continued his interest in primary health care and health promotion. Lately he has followed interests in Diabetes and Asthma management. Dr George interested in teaching, medical students (Notre Dame University) and GP registrars.",
+      "In addition to English, Dr George also speaks fluent Arabic."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board of Australia",
+    "RACGP Accredited Supervisor for Registrars in General Practice"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Dr John George has closed his books and is **not accepting new patients**. All existing patients will be privately charged on an ongoing basis. **Bulk Billing** is strictly restricted to routine consultations for existing patients who are: - Children aged 15 and under - Seniors aged 65 and over - Concession Card holders - DVA Card holders"
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "sanssouci",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "new-patient-standard-appointment",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/new-patient-standard-appointment",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-employment-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/pre-employment-medical-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Clinic",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "flu-vaccine",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/flu-vaccine",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "adult-injection-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/adult-injection-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "childhood-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/childhood-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "dressing-wound-care",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/dressing-wound-care",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "lung-cancer-screening-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/lung-cancer-screening-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Travel Clinic",
+        "appointments": [
+          {
+            "display_name": "Pre-Travel Consultation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-travel-consultation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/pre-travel-consultation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Women's Health",
+        "appointments": [
+          {
+            "display_name": "Cervical Screening / Womens Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "cervical-screening-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/cervical-screening-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Contraception",
+        "appointments": [
+          {
+            "display_name": "Implanon Removal + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-removal-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/implanon-removal-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "ear-syringing-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/ear-syringing-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "spirometry-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/spirometry-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Skin Cancer Clinic",
+        "appointments": [
+          {
+            "display_name": "Skin Cancer Check Consultation",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "skin-cancer-check-consultation-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george/a/skin-cancer-check-consultation-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-john-george"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr John George",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-john-george/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001169880"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Aleeza Fatima",
+      "sub": "GP · Sans Souci · English, Urdu, Hindi, Punjabi",
+      "href": "../dr-aleeza-fatima/"
+    },
+    {
+      "name": "Dr Huiling Li",
+      "sub": "GP · Sans Souci · English, Cantonese, Mandarin, Hokkienese",
+      "href": "../dr-huiling-li/"
+    },
+    {
+      "name": "Dr James Marsh",
+      "sub": "GP · Sans Souci · English",
+      "href": "../dr-james-marsh/"
+    },
+    {
+      "name": "Dr Jonathan Moore",
+      "sub": "GP · Sans Souci · English",
+      "href": "../dr-jonathan-moore/"
+    }
+  ]
+}

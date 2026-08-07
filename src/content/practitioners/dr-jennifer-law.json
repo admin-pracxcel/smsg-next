@@ -1,0 +1,167 @@
+{
+  "slug": "dr-jennifer-law",
+  "page_type": "specialist",
+  "has_online_booking": false,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-jennifer-law",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 41
+  },
+  "identity": {
+    "full_name": "Dr Jennifer Law",
+    "first_name": "Jennifer",
+    "last_name": "Law",
+    "salutation": "Dr",
+    "short_ref": "Dr Law",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS(Hons), BSc(Med), FRACP",
+    "post_nominal_dotted": "MBBS(Hons) · BSc(Med) · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Cardiologist",
+    "medical_specialty": "Cardiologist",
+    "ahpra": "MED0001187447",
+    "abn": "96 620 523 404"
+  },
+  "languages": [
+    "English",
+    "Cantonese"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Tuesday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Jennifer%20Law.webp",
+    "alt": "Portrait of Dr Jennifer Law, MBBS(Hons), BSc(Med), FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Jennifer Law | MBBS(Hons), BSc(Med), FRACP | Earlwood | SMSG",
+    "description": "Dr Jennifer Law (MBBS(Hons), BSc(Med), FRACP) practises at Earlwood Medical Centre. Cardiologist. English, Cantonese.",
+    "canonical": "https://smsg.au/dr-jennifer-law/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Cardiologist. Consulting in English, Cantonese.",
+    "ctas": []
+  },
+  "bio": {
+    "eyebrow": "About Dr Law",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Law.",
+    "paragraphs": [
+      "Dr Jennifer Law is a non-interventional Cardiologist (ABN: 96 620 523 404) (MED0001187447) consulting at the Earlwood centre. She has a special interest in transoesophageal echocardiography and advanced echo-related diagnostic testing.",
+      "After graduating from medicine at the University of New South Wales, Dr Law completed her specialist cardiology training at St Vincent's Hospital Sydney and Liverpool Hospital. She brings extensive clinical experience in both cardiology and complex general medicine, having served major regional NSW communities for a number of years.",
+      "During her two years as a consultant cardiologist at Wagga Wagga Base Hospital, and later in Albury, she collaborated with major metropolitan tertiary centres to offer high-level care. Notably, she established the first transoesophageal echo service for the Albury region and was instrumental in setting up the local cardiac catheterisation laboratory.",
+      "Now relocated to Sydney, Dr Law serves as a VMO Cardiologist at Fairfield Hospital and holds active admitting rights at Hurstville Private Hospital, the Mater Hospital, and Sydney Adventist Hospital."
+    ]
+  },
+  "fellowships": [
+    "VMO Cardiologist, Hurstville Private Hospital",
+    "VMO Cardiologist, Sydney Adventist Hospital",
+    "VMO Cardiologist, Fairfield Hospital",
+    "VMO Cardiologist, The Mater Private Hospital"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "phone_only",
+    "phone_fallback": {
+      "clinic_label": "Earlwood Medical Centre",
+      "phone": "02 9554 7788"
+    },
+    "default_clinic": "earlwood",
+    "categories": []
+  },
+  "footer_book_links": [],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Jennifer Law",
+    "jobTitle": "Cardiologist",
+    "medicalSpecialty": "Cardiologist",
+    "url": "https://smsg.au/dr-jennifer-law/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001187447"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Damian Lees",
+      "sub": "General Paediatrician · Earlwood · English",
+      "href": "../dr-damian-lees/"
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "slug": "dr-veronica-pham",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": null,
+    "bio_from": "smsg.au (scraped 2026-07-31)",
+    "provider_csv_row": 35
+  },
+  "identity": {
+    "full_name": "Dr Veronica Pham",
+    "first_name": "Veronica",
+    "last_name": "Pham",
+    "salutation": "Dr",
+    "short_ref": "Dr Pham",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "BSc(Biomed) MD",
+    "post_nominal_dotted": "BSc(Biomed) MD",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0002666470",
+    "abn": null
+  },
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "clinics": {
+    "primary": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": "Wednesday-Friday",
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20Reg%20-%20Dr%20Veronica%20Pham.webp",
+    "alt": "Portrait of Dr Veronica Pham, BSc(Biomed) MD, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Veronica Pham | BSc(Biomed) MD | Bangor | SMSG",
+    "description": "Dr Veronica Pham (BSc(Biomed) MD) practises at Bangor Medical Centre. Consultant Specialist GP. English, Vietnamese.",
+    "canonical": "https://smsg.au/dr-veronica-pham/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Bangor Medical Centre premises. Consultant Specialist GP. Consulting in English, Vietnamese.",
+    "ctas": [
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Pham",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Pham.",
+    "paragraphs": [
+      "Dr Veronica Pham (MED0002666470) completed her medical degree at the University of Queensland. She has worked in Princess Alexandria Hospital in Brisbane and Liverpool Hospital in Sydney before commencing her career in general practice. She has worked in Wagga Wagga as a GP Registrar. She is passionate about all areas of general practice, with particular interest in preventative health, chronic disease management, women's health, paediatrics and emergency medicine.",
+      "In her spare time she enjoys spending time with friends and family as well as travelling."
+    ]
+  },
+  "fellowships": [],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": "bulk_bill",
+    "source_note": "Dr Veronica Pham bulk bills for routine consultations for those with a valid Medicare card. All other practice private fees are applicable."
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "bangor",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "new-patient-standard-appointment",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/new-patient-standard-appointment",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "lung-cancer-screening-consult",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/lung-cancer-screening-consult",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Vaccine",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "flu-vaccine",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/flu-vaccine",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "adult-injection-immunisation",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/adult-injection-immunisation",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "childhood-immunisation",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/childhood-immunisation",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound Care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "dressing-wound-care",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/dressing-wound-care",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "iron-deficiency-assessment-and-planning",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/iron-deficiency-assessment-and-planning",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Antenatal",
+        "appointments": [
+          {
+            "display_name": "Antenatal Care",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "antenatal-care-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/antenatal-care-private-fees-apply",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Women's Health",
+        "appointments": [
+          {
+            "display_name": "Cervical Screening / Womens Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "cervical-screening-womens-health-check-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/cervical-screening-womens-health-check-private-fees-apply",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Menopause/Perimenopause Focused Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "menopauseperimenopause-focused-consult",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/menopauseperimenopause-focused-consult",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "ear-syringing-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/ear-syringing-private-fees-apply",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "spirometry-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/spirometry-private-fees-apply",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation/CTP Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "workers-compensationctp-initial-physical-injury",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/workers-compensationctp-initial-physical-injury",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Workers Compensation/CTP Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham/a/workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-veronica-pham"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Veronica Pham",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-veronica-pham/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0002666470"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Margaret Colwell",
+      "sub": "GP · Bangor · English",
+      "href": "../dr-margaret-colwell/"
+    },
+    {
+      "name": "Dr Jeremy Do",
+      "sub": "GP · Bangor · English, Vietnamese",
+      "href": "../dr-jeremy-do/"
+    },
+    {
+      "name": "Dr Mina Hanna",
+      "sub": "GP · Bangor · English, Arabic",
+      "href": "../dr-mina-hanna/"
+    },
+    {
+      "name": "Dr Daniel Ibrahim",
+      "sub": "GP · Bangor · English, Arabic",
+      "href": "../dr-daniel-ibrahim/"
+    }
+  ]
+}

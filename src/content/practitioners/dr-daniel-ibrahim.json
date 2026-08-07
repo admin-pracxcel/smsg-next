@@ -1,0 +1,430 @@
+{
+  "slug": "dr-daniel-ibrahim",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-daniel-ibrahim",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 10
+  },
+  "identity": {
+    "full_name": "Dr Daniel Ibrahim",
+    "first_name": "Daniel",
+    "last_name": "Ibrahim",
+    "salutation": "Dr",
+    "short_ref": "Dr Ibrahim",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "BMed MD, GCertSurg",
+    "post_nominal_dotted": "BMed MD · GCertSurg",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0002308606",
+    "abn": null
+  },
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "clinics": {
+    "primary": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": "Monday, Wednesday-Friday",
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20Reg%20-%20Dr%20Daniel%20Ibrahim.webp",
+    "alt": "Portrait of Dr Daniel Ibrahim, BMed MD, GCertSurg, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Daniel Ibrahim | BMed MD, GCertSurg | Bangor | SMSG",
+    "description": "Dr Daniel Ibrahim (BMed MD, GCertSurg) practises at Bangor Medical Centre. Consultant Specialist GP. English, Arabic.",
+    "canonical": "https://smsg.au/dr-daniel-ibrahim/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Bangor Medical Centre premises. Consultant Specialist GP. Consulting in English, Arabic.",
+    "ctas": [
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Ibrahim",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Ibrahim.",
+    "paragraphs": [
+      "Dr Daniel Ibrahim (MED0002308606) completed his medical degree at the University of New South Wales. He worked for a number of years at both St George and Sutherland Hospitals before commencing a career in General Practice. He has a particular interest in skin cancer medicine/surgical procedures, sports injuries, preventative health and chronic disease management.",
+      "Outside of work, Daniel enjoys watching and playing sports including football, as well as spending time with family."
+    ]
+  },
+  "fellowships": [],
+  "awards": [],
+  "additional_roles": [
+    "GP Registrar"
+  ],
+  "billing": {
+    "policy": "bulk_bill",
+    "source_note": "Dr Daniel Ibrahim bulk bills for routine consultations for those with a valid Medicare card. All other practice private fees are applicable."
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "bangor",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "new-patient-standard-appointment"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/new-patient-standard-appointment"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "lung-cancer-screening-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/lung-cancer-screening-consult"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Vaccine",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "flu-vaccine"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/flu-vaccine"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "adult-injection-immunisation"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/adult-injection-immunisation"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "childhood-immunisation"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/childhood-immunisation"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound Care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "dressing-wound-care"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/dressing-wound-care"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "iron-deficiency-assessment-and-planning"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/iron-deficiency-assessment-and-planning"
+            }
+          },
+          {
+            "display_name": "Iron Infusion",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "iron-infusion-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/iron-infusion-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "mental-health-care-plan-30mins-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/mental-health-care-plan-30mins-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "mental-health-care-plan-1-hr-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/mental-health-care-plan-1-hr-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Procedural Pre-Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "procedural-pre-consult-private-fees-may-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/procedural-pre-consult-private-fees-may-apply"
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "spirometry-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/spirometry-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "ear-syringing-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/ear-syringing-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "suturing-wound-repair-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/suturing-wound-repair-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation/CTP Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "workers-compensationctp-initial-physical-injury"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/workers-compensationctp-initial-physical-injury"
+            }
+          },
+          {
+            "display_name": "Workers Compensation/CTP Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "workers-compensationctp-initial-psychological-injury"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim/a/workers-compensationctp-initial-psychological-injury"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-daniel-ibrahim"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Daniel Ibrahim",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-daniel-ibrahim/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0002308606"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Margaret Colwell",
+      "sub": "GP · Bangor · English",
+      "href": "../dr-margaret-colwell/"
+    },
+    {
+      "name": "Dr Jeremy Do",
+      "sub": "GP · Bangor · English, Vietnamese",
+      "href": "../dr-jeremy-do/"
+    },
+    {
+      "name": "Dr Mina Hanna",
+      "sub": "GP · Bangor · English, Arabic",
+      "href": "../dr-mina-hanna/"
+    },
+    {
+      "name": "Dr David Ibrahim",
+      "sub": "GP · Bangor · English, Arabic",
+      "href": "../dr-david-ibrahim/"
+    }
+  ]
+}

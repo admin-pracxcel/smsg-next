@@ -1,0 +1,180 @@
+{
+  "slug": "dr-aye-thidar-htun",
+  "page_type": "specialist",
+  "has_online_booking": false,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-aye-thidar-htun",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 38
+  },
+  "identity": {
+    "full_name": "Dr Aye Thidar Htun",
+    "first_name": "Aye",
+    "last_name": "Htun",
+    "salutation": "Dr",
+    "short_ref": "Dr Htun",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, MSc, MHLM, MHP, FRANZCOG",
+    "post_nominal_dotted": "MBBS · MSc · MHLM · MHP · FRANZCOG",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Obstetrician & Gynaecologist",
+    "medical_specialty": "Obstetrician & Gynaecologist",
+    "ahpra": "MED0001679060",
+    "abn": "44 618 513 992"
+  },
+  "languages": [
+    "English",
+    "Burmese"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Monday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    },
+    {
+      "key": "aurora",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    },
+    {
+      "label": "Aurora Women & Babies Health",
+      "href": "../aurora-women-and-babies-health/",
+      "dot_color": "#D9A79A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Aye%20Thidar%20Htun.webp",
+    "alt": "Portrait of Dr Aye Thidar Htun, MBBS, MSc, MHLM, MHP, FRANZCOG, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Aye Thidar Htun | MBBS, MSc, MHLM, MHP, FRANZCOG | Earlwood | SMSG",
+    "description": "Dr Aye Thidar Htun (MBBS, MSc, MHLM, MHP, FRANZCOG) practises at Earlwood Medical Centre. Obstetrician & Gynaecologist. English, Burmese.",
+    "canonical": "https://smsg.au/dr-aye-thidar-htun/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Obstetrician & Gynaecologist. Consulting in English, Burmese.",
+    "ctas": []
+  },
+  "bio": {
+    "eyebrow": "About Dr Htun",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Htun.",
+    "paragraphs": [
+      "Dr Aye Thidar Htun is an Obstetrician and Gynaecologist (ABN: 44 618 513 992) (MED0001679060) consulting at the Earlwood centre.",
+      "Dr Htun believes in offering high quality and personalised care for all her patients. Being a mother herself, she understands the importance of choice in the birthing experience and pregnancy journey. In her obstetric practice, she involves the pregnant woman and their partner in the decision making regarding their pregnancy and birth. She is an enthusiastic, safe doctor who empowers women during their pregnancy journey. She also provides individualised gynaecological care to all women with a holistic and evidence-based approach.",
+      "Dr Htun holds a public appointment as Staff Specialist at Canterbury Hospital where she is a senior clinician within the Department of Obstetrics and Gynaecology. She is also a training supervisor for Royal Australian and New Zealand College of Obstetricians and Gynaecologists (RANZCOG). Dr Htun teaches Junior Medical Officers and medical students from University of Sydney and holds a Clinical Senior Lecturer position with the Faculty of Medicine, University of Sydney.",
+      "Following the completion of her medical degree from Institute of Medicine 1, Yangon, Myanmar, she migrated to Australia where she undertook majority of her specialist training at The Royal Hospital for Women in Sydney and completed her advanced training at Canterbury Hospital.",
+      "Dr Htun is a member of Antenatal Shared Care (ANSC) Advisory Group and currently is the President of Burmese Medical Association of Australia. She had also completed two post graduate degrees – Masters in Health Promotion and Masters in Health Management at University of Newcastle, Australia.",
+      "Dr Htun’s special interests are preconception, medical disorders in pregnancy, management of abnormal menstrual bleeding, abnormal cervical screening tests and family planning."
+    ]
+  },
+  "fellowships": [
+    "Clinical Senior Lecturer, University of Sydney",
+    "Training Supervisor, Royal Australian and New Zealand College of Obstetricians and Gynaecologists (RANZCOG)",
+    "Staff Specialist in Obstetrics & Gynaecology, Canterbury Hospital",
+    "President, Burmese Medical Association of Australia",
+    "Member, Antenatal Shared Care (ANSC) Advisory Group"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "phone_only",
+    "phone_fallback": {
+      "clinic_label": "Earlwood Medical Centre",
+      "phone": "02 9554 7788"
+    },
+    "default_clinic": "earlwood",
+    "categories": []
+  },
+  "footer_book_links": [],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Aye Thidar Htun",
+    "jobTitle": "Obstetrician & Gynaecologist",
+    "medicalSpecialty": "Obstetrician & Gynaecologist",
+    "url": "https://smsg.au/dr-aye-thidar-htun/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001679060"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    },
+    {
+      "name": "Dr Damian Lees",
+      "sub": "General Paediatrician · Earlwood · English",
+      "href": "../dr-damian-lees/"
+    }
+  ]
+}

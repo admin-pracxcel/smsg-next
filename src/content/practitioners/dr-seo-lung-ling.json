@@ -1,0 +1,200 @@
+{
+  "slug": "dr-seo-lung-ling",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-seo-ling",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 43
+  },
+  "identity": {
+    "full_name": "Dr Seo Lung Ling",
+    "first_name": "Seo",
+    "last_name": "Ling",
+    "salutation": "Dr",
+    "short_ref": "Dr Ling",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MBChB, MMed(Periop Med), MHLM, MPH, MGlobHlth, MIDI, MForensMH, MClinEpi(Dist), GCertPainMgt, FRACP",
+    "post_nominal_dotted": "MBChB · MMed(Periop Med) · MHLM · MPH · MGlobHlth · MIDI · MForensMH · MClinEpi(Dist) · GCertPainMgt · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Geriatrician & General Medicine Physician",
+    "medical_specialty": "Geriatrician & General Medicine Physician",
+    "ahpra": "MED0001210141",
+    "abn": "89 617 086 521"
+  },
+  "languages": [
+    "English",
+    "Cantonese",
+    "Mandarin",
+    "Hokkienese"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Weekly by Appointment",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Seo%20Ling.webp",
+    "alt": "Portrait of Dr Seo Lung Ling, MBChB, MMed(Periop Med), MHLM, MPH, MGlobHlth, MIDI, MForensMH, MClinEpi(Dist), GCertPainMgt, FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Seo Lung Ling | MBChB, MMed(Periop Med), MHLM, MPH, MGlobHlth, MIDI, MForensMH, MClinEpi(Dist), GCertPainMgt, FRACP | Earlwood | SMSG",
+    "description": "Dr Seo Lung Ling (MBChB, MMed(Periop Med), MHLM, MPH, MGlobHlth, MIDI, MForensMH, MClinEpi(Dist), GCertPainMgt, FRACP) practises at Earlwood Medical Centre. Geriatrician & General Medicine Physician. English, Cantonese, Mandarin, Hokkienese.",
+    "canonical": "https://smsg.au/dr-seo-lung-ling/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Geriatrician & General Medicine Physician. Consulting in English, Cantonese, Mandarin, Hokkienese.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/consultant-physician-geriatrician-dr-seo-ling"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Ling",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Ling.",
+    "paragraphs": [
+      "Dr Seo Lung Ling is a Geriatrician and General Medicine Physician (ABN: 89 617 086 521) (MED0001210141) consulting at the Earlwood centre.",
+      "Dr Seo Ling graduated from University of Glasgow, United Kingdom. He completed his pre-vocational training in both Scotland and New Zealand. Dr Ling moved to Australia in 2008 and commenced his physician training at St George Hospital and Sutherland Hospital. He subsequently specialised in geriatric medicine.",
+      "Dr Ling received extensive training in Acute, General and Geriatric Medicine in various hospitals in Sydney. He is a well-rounded Physician and Geriatrician. He received postgraduate training in pain management as well as perioperative medicine from Sydney University and Monash University respectively. His area of interest includes General Geriatrics, Psychogeriatrics, Ortho-geriatrics, Perioperative Medicine, Community Geriatrics, Cognitive Impairment, Behavioural and Psychological Symptoms of Dementia (BPSD) and General Medicine.",
+      "Dr Ling is a Fellow of the Royal Australasian College of Physicians (RACP) and a member of the Australian and New Zealand Society of Geriatric Medicine (ANZSGM). With his passion in clinical education and evidence based research, he is also a Clinical Senior Lecturer at the University of Wollongong.",
+      "Dr Ling speaks fluent Mandarin, Cantonese and Hokkienese in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Clinical Senior Lecturer, University of Wollongong",
+    "Staff Specialist in Geriatric Medicine, Wollongong Hospital"
+  ],
+  "awards": [
+    "SMSG Doctor of the Year Awardee 2022"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Geriatrics",
+        "appointments": [
+          {
+            "display_name": "Geriatrician - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "geriatrician-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/consultant-physician-geriatrician-dr-seo-ling/a/geriatrician-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/consultant-physician-geriatrician-dr-seo-ling"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Seo Lung Ling",
+    "jobTitle": "Geriatrician & General Medicine Physician",
+    "medicalSpecialty": "Geriatrician & General Medicine Physician",
+    "url": "https://smsg.au/dr-seo-lung-ling/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001210141"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    }
+  ]
+}

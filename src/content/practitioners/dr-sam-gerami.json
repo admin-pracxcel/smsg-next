@@ -1,0 +1,443 @@
+{
+  "slug": "dr-sam-gerami",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-sam-gerami",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 8
+  },
+  "identity": {
+    "full_name": "Dr Sam Gerami",
+    "first_name": "Sam",
+    "last_name": "Gerami",
+    "salutation": "Dr",
+    "short_ref": "Dr Gerami",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MChD, BBiomedSc, MPH, FRACGP",
+    "post_nominal_dotted": "MChD · BBiomedSc · MPH · FRACGP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0002572916",
+    "abn": "73 693 511 256"
+  },
+  "languages": [
+    "English",
+    "Farsi"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Saturday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Sam%20Gerami.webp",
+    "alt": "Portrait of Dr Sam Gerami, MChD, BBiomedSc, MPH, FRACGP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Sam Gerami | MChD, BBiomedSc, MPH, FRACGP | Earlwood | SMSG",
+    "description": "Dr Sam Gerami (MChD, BBiomedSc, MPH, FRACGP) practises at Earlwood Medical Centre. Consultant Specialist GP. English, Farsi.",
+    "canonical": "https://smsg.au/dr-sam-gerami/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Consultant Specialist GP. Consulting in English, Farsi.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Gerami",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Gerami.",
+    "paragraphs": [
+      "Dr Sam Gerami is an independent Consultant Specialist GP (ABN: 73 693 511 256) (MED0002572916) consulting at the Earlwood centre.",
+      "Dr Sam graduated from Australian National University Medical School and has worked as a doctor at Gosford and Wyong Hospitals, Royal Prince Alfred Hospital, and Dubbo Hospital, working across a range of specialities including Paediatrics, O&G, Surgery, and Internal Medicine. He continues to work at Royal Prince Alfred Hospital occasionally, and also holds an associate lecturer position at University of Sydney Medical School doing research and teaching for medical students.",
+      "Dr Sam is interested in all aspects of general practice and particularly enjoys looking after entire families. He prides himself on a non-judgemental, empathetic approach to every consultation. Outside of the clinic he likes to spend time with his family, go for a bike ride, or read.",
+      "Dr Sam speaks Farsi in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board of Australia",
+    "Associate Lecturer, University of Sydney"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Private fees apply to all new patients and any patient not seen in the last 12 months. **Bulk Billing** is strictly restricted to routine consultations for: - Children aged 15 and under - Concession Card holders - DVA Card holders"
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/new-patient-standard-appointment",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/commercial-driving-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/pre-employment-medical-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Vaccine",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "flu-vaccine",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/flu-vaccine",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection/Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/adult-injectionimmunisation",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisations",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/childhood-immunisations",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound Care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "dressing-wound-care",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/dressing-wound-care",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "iron-deficiency-assessment-and-planning",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/iron-deficiency-assessment-and-planning",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Iron Infusion",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "iron-infusion-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/iron-infusion-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Pre-Procedural Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": "pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/pre-procedural-consult-private-fees-may-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/spirometry-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/ear-syringing-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": "suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/suturing-wound-repair-private-fees-apply",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation/CTP Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "workers-compensationctp-initial-physical-injury",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/workers-compensationctp-initial-physical-injury",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Workers Compensation/CTP Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami/a/workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dr-sam-gerami"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Sam Gerami",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-sam-gerami/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0002572916"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Adj Prof Danforn Lim",
+      "sub": "GP · Earlwood · English, Cantonese, Mandarin, Hokkienese",
+      "href": "../dr-danforn-lim/"
+    },
+    {
+      "name": "Dr Lisa Cheng",
+      "sub": "GP · Earlwood · English, Cantonese, Basic Mandarin",
+      "href": "../dr-lisa-cheng/"
+    },
+    {
+      "name": "Dr Yashodha Ediriweera",
+      "sub": "GP · Earlwood · English, Sinhalese",
+      "href": "../dr-yashodha-ediriweera/"
+    },
+    {
+      "name": "Dr Tao Geng",
+      "sub": "GP · Earlwood, Bangor · English, Mandarin, Shanghainese",
+      "href": "../dr-tao-geng/"
+    }
+  ]
+}

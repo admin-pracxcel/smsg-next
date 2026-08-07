@@ -1,0 +1,193 @@
+{
+  "slug": "hana-rizk",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/hana-rizk",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 65
+  },
+  "identity": {
+    "full_name": "Hana Rizk",
+    "first_name": "Hana",
+    "last_name": "Rizk",
+    "salutation": null,
+    "short_ref": "Hana Rizk",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "BPodMed, BMedSc",
+    "post_nominal_dotted": "BPodMed · BMedSc",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Podiatrist",
+    "medical_specialty": "Podiatrist",
+    "ahpra": "POD0002693623",
+    "abn": "99 665 490 120"
+  },
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Tuesday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/placeholder-female.webp",
+    "alt": "Portrait of Hana Rizk, BPodMed, BMedSc, at SMSG",
+    "is_placeholder": true
+  },
+  "seo": {
+    "title": "Hana Rizk | BPodMed, BMedSc | Earlwood | SMSG",
+    "description": "Hana Rizk (BPodMed, BMedSc) practises at Earlwood Medical Centre. Podiatrist. English, Arabic.",
+    "canonical": "https://smsg.au/hana-rizk/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Podiatrist. Consulting in English, Arabic.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/podiatrist-hana-rizk"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Hana Rizk",
+    "heading_lead": "Meet",
+    "heading_warm": "Hana Rizk.",
+    "paragraphs": [
+      "Hana Rizk is a podiatrist (ABN: 99 665 490 120) (POD0002693623) consulting at the Earlwood centre.",
+      "Hana is a trusted and passionate podiatrist that graduated with a Bachelor of Podiatric Medicine from Western Sydney University, providing a comprehensive range of podiatric services including diabetic foot care, foot pain management, sports injuries, and minor surgeries. She strongly believes in empowering her patients with knowledge, helping them make informed decisions about their long-term foot health.",
+      "Taking the time to listen closely to your concerns, she tailors her clinical services to meet your specific individual needs. Her approach is completely centred on empathy, ensuring you feel comfortable and valued during every visit by combining her structural expertise with a warm and caring demeanour."
+    ]
+  },
+  "fellowships": [
+    "Registered Podiatrist, Podiatry Board of Australia"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Podiatry",
+        "appointments": [
+          {
+            "display_name": "Podiatrist - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "podiatrist-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/podiatrist-hana-rizk/a/podiatrist-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/podiatrist-hana-rizk"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Kids' Dr",
+      "sub": "Sub-brand · Paediatric care for infants through adolescents",
+      "href": "../kids-dr/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Hana Rizk",
+    "jobTitle": "Podiatrist",
+    "medicalSpecialty": "Podiatrist",
+    "url": "https://smsg.au/hana-rizk/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "POD0002693623"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": true,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Sandra Bell",
+      "sub": "Psychologist · Earlwood · English",
+      "href": "../sandra-bell/"
+    }
+  ]
+}

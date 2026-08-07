@@ -1,0 +1,225 @@
+{
+  "slug": "daniel-tran",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/daniel-tran",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 58
+  },
+  "identity": {
+    "full_name": "Daniel Tran",
+    "first_name": "Daniel",
+    "last_name": "Tran",
+    "salutation": null,
+    "short_ref": "Daniel Tran",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "BPhysio",
+    "post_nominal_dotted": "BPhysio",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Physiotherapist",
+    "medical_specialty": "Physiotherapist",
+    "ahpra": "PHY0002309055",
+    "abn": "78 688 610 746"
+  },
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": "Monday, Wednesday, Friday",
+      "bangor": null,
+      "sanssouci": "Tuesday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Daniel%20Tran.webp",
+    "alt": "Portrait of Daniel Tran, BPhysio, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Daniel Tran | BPhysio | Earlwood and Sans Souci | SMSG",
+    "description": "Daniel Tran (BPhysio) practises at Earlwood Medical Centre and Sans Souci Doctors. Physiotherapist. English, Vietnamese.",
+    "canonical": "https://smsg.au/daniel-tran/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre and Sans Souci Doctors premises. Physiotherapist. Consulting in English, Vietnamese.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/physiotherapist-daniel-tran"
+      },
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/physiotherapist-daniel-tran"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Daniel Tran",
+    "heading_lead": "Meet",
+    "heading_warm": "Daniel Tran.",
+    "paragraphs": [
+      "Daniel Tran is a Registered Physiotherapist (ABN: 78 688 610 746) (PHY0002309055) consulting at the Earlwood and Sans Souci centres.",
+      "He holds a Bachelor of Physiotherapy and brings valuable clinical experience in managing chronic pain and post-operative musculoskeletal rehabilitation, gained during his time practicing at Auburn and Westmead Hospitals. Having personally undergone knee surgery, Daniel possesses a deep, firsthand understanding of the rehabilitation process, utilising his own experiences to optimize his patients' recovery journeys.",
+      "With a strong interest in occupational health and worker's compensation, Daniel excels at designing structured pathways that facilitate a smooth, safe return to work for injured individuals.",
+      "Outside of his clinical practice, he is an avid NRL fan who passionately supports the St George Illawarra Dragons and enjoys playing Oztag in his spare time.",
+      "Daniel speaks fluent Vietnamese in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Accredited SIRA Physiotherapist"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Physiotherapy",
+        "appointments": [
+          {
+            "display_name": "Physiotherapy - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "physiotherapy-initial-consult",
+              "sanssouci": "physiotherapy-initial-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/physiotherapist-daniel-tran/a/physiotherapy-initial-consult",
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/physiotherapist-daniel-tran/a/physiotherapy-initial-consult",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Workers Compensation - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "workers-compensation-initial-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/physiotherapist-daniel-tran/a/workers-compensation-initial-consult",
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/physiotherapist-daniel-tran"
+    },
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/physiotherapist-daniel-tran"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Kids' Dr",
+      "sub": "Sub-brand · Paediatric care for infants through adolescents",
+      "href": "../kids-dr/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Daniel Tran",
+    "jobTitle": "Physiotherapist",
+    "medicalSpecialty": "Physiotherapist",
+    "url": "https://smsg.au/daniel-tran/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "PHY0002309055"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Hana Rizk",
+      "sub": "Podiatrist · Earlwood · English, Arabic",
+      "href": "../hana-rizk/"
+    },
+    {
+      "name": "Sandra Bell",
+      "sub": "Psychologist · Earlwood · English",
+      "href": "../sandra-bell/"
+    }
+  ]
+}

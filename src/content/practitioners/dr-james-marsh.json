@@ -1,0 +1,448 @@
+{
+  "slug": "dr-james-marsh",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-james-marsh",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 17
+  },
+  "identity": {
+    "full_name": "Dr James Marsh",
+    "first_name": "James",
+    "last_name": "Marsh",
+    "salutation": "Dr",
+    "short_ref": "Dr Marsh",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MD, BMedSc",
+    "post_nominal_dotted": "MD · BMedSc",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0002555136",
+    "abn": null
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": "Monday-Friday"
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20Reg%20-%20Dr%20James%20Marsh.webp",
+    "alt": "Portrait of Dr James Marsh, MD, BMedSc, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr James Marsh | MD, BMedSc | Sans Souci | SMSG",
+    "description": "Dr James Marsh (MD, BMedSc) practises at Sans Souci Doctors. Consultant Specialist GP. English.",
+    "canonical": "https://smsg.au/dr-james-marsh/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Sans Souci Doctors premises. Consultant Specialist GP.",
+    "ctas": [
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Marsh",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Marsh.",
+    "paragraphs": [
+      "Dr James Marsh (MED0002555136) completed his medical degree at the University of Melbourne. He has worked in several hospital rotations across a range of specialties, including Paediatrics, Psychiatry, and Emergency Medicine, before commencing his career in general practice as a GP Registrar. He is passionate about all areas of general practice, with particular interest in preventative health, chronic disease management, paediatrics and emergency medicine.",
+      "In his spare time he enjoys spending time with friends and family as well as in the outdoors."
+    ]
+  },
+  "fellowships": [],
+  "awards": [],
+  "additional_roles": [
+    "GP Registrar"
+  ],
+  "billing": {
+    "policy": "bulk_bill",
+    "source_note": "Dr James Marsh bulk bills for routine consultations for those with a valid Medicare card. All other practice private fees are applicable."
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "sanssouci",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "new-patient-standard-appointment",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/new-patient-standard-appointment",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-employment-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/pre-employment-medical-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Clinic",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "flu-vaccine",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/flu-vaccine",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "adult-injection-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/adult-injection-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "childhood-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/childhood-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "dressing-wound-care",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/dressing-wound-care",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Infusion",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "iron-infusion-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/iron-infusion-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "lung-cancer-screening-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/lung-cancer-screening-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "mental-health-care-plan-30mins-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/mental-health-care-plan-30mins-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "mental-health-care-plan-1-hr-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "ear-syringing-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/ear-syringing-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "spirometry-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/spirometry-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "suturing-wound-repair-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/suturing-wound-repair-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "workers-compensation-initial-physical-injury",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/workers-compensation-initial-physical-injury",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Workers Compensation Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "workers-compensation-initial-psychological-injury",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/workers-compensation-initial-psychological-injury",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Physiotherapy",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "workers-compensation-initial-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh/a/workers-compensation-initial-consult",
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-james-marsh"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr James Marsh",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-james-marsh/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0002555136"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Aleeza Fatima",
+      "sub": "GP · Sans Souci · English, Urdu, Hindi, Punjabi",
+      "href": "../dr-aleeza-fatima/"
+    },
+    {
+      "name": "Dr John George",
+      "sub": "GP · Sans Souci · English, Arabic",
+      "href": "../dr-john-george/"
+    },
+    {
+      "name": "Dr Huiling Li",
+      "sub": "GP · Sans Souci · English, Cantonese, Mandarin, Hokkienese",
+      "href": "../dr-huiling-li/"
+    },
+    {
+      "name": "Dr Jonathan Moore",
+      "sub": "GP · Sans Souci · English",
+      "href": "../dr-jonathan-moore/"
+    }
+  ]
+}

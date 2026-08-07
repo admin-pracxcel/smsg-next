@@ -1,0 +1,226 @@
+{
+  "slug": "julia-magrin",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/julia-magrin",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 63
+  },
+  "identity": {
+    "full_name": "Julia Magrin",
+    "first_name": "Julia",
+    "last_name": "Magrin",
+    "salutation": null,
+    "short_ref": "Julia Magrin",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MPsychCouns, BPsych",
+    "post_nominal_dotted": "MPsychCouns · BPsych",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Counsellor & Psychotherapist",
+    "medical_specialty": "Counsellor & Psychotherapist",
+    "ahpra": null,
+    "abn": "92 654 553 284"
+  },
+  "languages": [
+    "English",
+    "Portuguese"
+  ],
+  "clinics": {
+    "primary": "bangor",
+    "consulting_at": [
+      "bangor",
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": "Tuesdays & Wednesdays",
+      "sanssouci": "Mondays & Thursdays"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Julia%20Magrin.webp",
+    "alt": "Portrait of Julia Magrin, MPsychCouns, BPsych, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Julia Magrin | MPsychCouns, BPsych | Bangor and Sans Souci | SMSG",
+    "description": "Julia Magrin (MPsychCouns, BPsych) practises at Bangor Medical Centre and Sans Souci Doctors. Counsellor & Psychotherapist. English, Portuguese.",
+    "canonical": "https://smsg.au/julia-magrin/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Bangor Medical Centre and Sans Souci Doctors premises. Counsellor & Psychotherapist. Consulting in English, Portuguese.",
+    "ctas": [
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/counsellor-ms-julia-magrin"
+      },
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/counsellor-ms-julia-magrin"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Julia Magrin",
+    "heading_lead": "Meet",
+    "heading_warm": "Julia Magrin.",
+    "paragraphs": [
+      "Julia is a ACA registered Psychotherapist/Counsellor (ABN: 92 654 553 284) (29990) consulting at the Bangor & Sans Souci centres.",
+      "Julia’s academic journey began with a degree in Psychology in Brazil, and to further enrich her expertise, she pursued a Master of Psychotherapy and Counselling at Western Sydney University. This immersive experience equipped her with the necessary tools to practice as a trauma-informed therapist, offering a safe and validating space to explore client's stories and mind-body experiences.",
+      "She is an ACA registered Psychotherapist/Counsellor and a specialist in Schema Therapy, an approach that focus on recognising themes and patterns made of emotions, behaviours, thoughts, memories and sensations. This method aims to understand their impact on individuals' relationships with others and their perception of the world.",
+      "As a therapist, her approach centres around authenticity and empathy. She believes that a good therapeutic relationship is the key to create a safe space for change.",
+      "Julia speaks Portuguese in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Registered Counsellor, Australian Counselling Association (ACA)",
+    "Specialist in Schema Therapy"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "bangor",
+    "categories": [
+      {
+        "category_name": "Psychology",
+        "appointments": [
+          {
+            "display_name": "Counsellor - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "counsellor-initial-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/counsellor-ms-julia-magrin/a/counsellor-initial-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Counselling",
+        "appointments": [
+          {
+            "display_name": "Counsellor - Follow Up Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "counsellor-follow-up-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/counsellor-ms-julia-magrin/a/counsellor-follow-up-consult"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/counsellor-ms-julia-magrin"
+    },
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/counsellor-ms-julia-magrin"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Kids' Dr",
+      "sub": "Sub-brand · Paediatric care for infants through adolescents",
+      "href": "../kids-dr/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Julia Magrin",
+    "jobTitle": "Counsellor & Psychotherapist",
+    "medicalSpecialty": "Counsellor & Psychotherapist",
+    "url": "https://smsg.au/julia-magrin/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ]
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Hana Rizk",
+      "sub": "Podiatrist · Earlwood · English, Arabic",
+      "href": "../hana-rizk/"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "slug": "angela-smalios",
+  "page_type": "allied_health",
+  "has_online_booking": false,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/angela-smalios",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 67
+  },
+  "identity": {
+    "full_name": "Angela Smalios",
+    "first_name": "Angela",
+    "last_name": "Smalios",
+    "salutation": null,
+    "short_ref": "Angela Smalios",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "BSpHSc",
+    "post_nominal_dotted": "BSpHSc",
+    "practitioner_type": "External partner (TLC visiting)",
+    "role_title": "Speech Therapy Assistant, TLC",
+    "medical_specialty": "Speech Therapy Assistant, TLC",
+    "ahpra": null,
+    "abn": "59 644 943 555"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Saturday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Angela%20Smalios.webp",
+    "alt": "Portrait of Angela Smalios, BSpHSc, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Angela Smalios | BSpHSc | Earlwood | SMSG",
+    "description": "Angela Smalios (BSpHSc) practises at Earlwood Medical Centre. Speech Therapy Assistant, TLC. English.",
+    "canonical": "https://smsg.au/angela-smalios/"
+  },
+  "hero": {
+    "lede": "External partner (TLC visiting). Consulting from SMSG premises. Speech Therapy Assistant, TLC.",
+    "ctas": []
+  },
+  "bio": {
+    "eyebrow": "About Angela Smalios",
+    "heading_lead": "Meet",
+    "heading_warm": "Angela Smalios.",
+    "paragraphs": [
+      "Angela Smalios is a dedicated Speech Therapy Assistant practicing independently through the TLC Centre (ABN: 59 644 943 555), with over seven years of experience in the allied health sector.. She is passionate about supporting children and adolescents to develop their communication skills, confidence, and independence within a nurturing and engaging therapeutic environment.",
+      "Angela holds a degree in Speech, Hearing and Language Sciences from Macquarie University and is currently in the final stages of her studies to become a qualified Speech Pathologist. Her academic knowledge, combined with her hands-on clinical experience, allows her to deliver high-quality, evidence-informed support to clients and their families.",
+      "Angela has a natural affinity for working with young people and brings warmth, patience, and enthusiasm to every session. Being an aunt to eight nieces and nephews has further enriched her ability to connect with children and understand the importance of fostering strong, supportive relationships in their developmental journey."
+    ]
+  },
+  "fellowships": [
+    "**smsg.au source:** [angela-smalios](https://www.smsg.au/allied-health-other-medical-providers/angela-smalios)",
+    "#### Speech Therapy Assistant, TLC",
+    "###### Angela Smalios",
+    "BSpHSc"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "phone_only",
+    "phone_fallback": {
+      "clinic_label": "Earlwood Medical Centre",
+      "phone": "02 9554 7788"
+    },
+    "default_clinic": "earlwood",
+    "categories": []
+  },
+  "footer_book_links": [],
+  "related_care": [
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Angela Smalios",
+    "jobTitle": "Speech Therapy Assistant, TLC",
+    "medicalSpecialty": "Speech Therapy Assistant, TLC",
+    "url": "https://smsg.au/angela-smalios/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ]
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Antonio Kim",
+      "sub": "Physiotherapist · Earlwood · English, Korean",
+      "href": "../antonio-kim/"
+    },
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Dr Janet Hung",
+      "sub": "Director, Synergy Medical · Earlwood · English",
+      "href": "../dr-janet-hung/"
+    }
+  ]
+}

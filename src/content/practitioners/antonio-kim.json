@@ -1,0 +1,183 @@
+{
+  "slug": "antonio-kim",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/kh-antonio-kim",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 57
+  },
+  "identity": {
+    "full_name": "Antonio Kim",
+    "first_name": "Antonio",
+    "last_name": "Kim",
+    "salutation": null,
+    "short_ref": "Antonio Kim",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "BAppSc(Physiotherapy)",
+    "post_nominal_dotted": "BAppSc(Physiotherapy)",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Physiotherapist",
+    "medical_specialty": "Physiotherapist",
+    "ahpra": "PHY0001355000",
+    "abn": "82 277 933 512"
+  },
+  "languages": [
+    "English",
+    "Korean"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Monday, Wednesday, Friday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Tony%20Kim.webp",
+    "alt": "Portrait of Antonio Kim, BAppSc(Physiotherapy), at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Antonio Kim | BAppSc(Physiotherapy) | Earlwood | SMSG",
+    "description": "Antonio Kim (BAppSc(Physiotherapy)) practises at Earlwood Medical Centre. Physiotherapist. English, Korean.",
+    "canonical": "https://smsg.au/antonio-kim/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Physiotherapist. Consulting in English, Korean.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/physiotherapist-antonio-kim"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Antonio Kim",
+    "heading_lead": "Meet",
+    "heading_warm": "Antonio Kim.",
+    "paragraphs": [
+      "Antonio Kim (Kyung Ho Kim) is a Registered Physiotherapist (ABN: 82 277 933 512) (PHY0001355000) consulting at the Earlwood centre.",
+      "He holds a Bachelor of Applied Science in Physiotherapy and brings extensive clinical experience practicing across both private clinics and specialized aged care facilities, where he has focused heavily on upgrading the physical health and quality of life for elderly residents.",
+      "Antonio has a proven track record of supporting diverse sports teams with on-field acute care, strapping, and physical rehabilitation. His comprehensive clinical practice covers a wide spectrum of musculoskeletal and corporate conditions, including acute sporting injuries, postural dysfunctions, complex neck and back pain, tendonitis, work-related occupational injuries, and pre- and post-operative knee reconstructions.",
+      "He takes an active, evidence-based approach to patient care, combining targeted manual therapies with customized exercise prescription to facilitate long-term recovery. Antonio is a member of the Australian Physiotherapy Association (APA), Musculoskeletal Physiotherapy Australia (MPA), and Sports Physiotherapy Australia (SPA)."
+    ]
+  },
+  "fellowships": [
+    "Accredited MAXHealth & SIRA Physiotherapist",
+    "Member, Australian Physiotherapy Association (APA)",
+    "Member, Musculoskeletal Physiotherapy Australia (MPA)",
+    "Member, Sports Physiotherapy Australia (SPA)"
+  ],
+  "awards": [
+    "SMSG Foundation Excellence Awardee 2019",
+    "SMSG Ten-Year Triumph Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Physiotherapy",
+        "appointments": [
+          {
+            "display_name": "Physiotherapy - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "physiotherapy-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/physiotherapist-antonio-kim/a/physiotherapy-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/physiotherapist-antonio-kim"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Antonio Kim",
+    "jobTitle": "Physiotherapist",
+    "medicalSpecialty": "Physiotherapist",
+    "url": "https://smsg.au/antonio-kim/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "PHY0001355000"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Angela Smalios",
+      "sub": "Speech Therapy Assistant, TLC · Earlwood · English",
+      "href": "../angela-smalios/"
+    },
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Dr Janet Hung",
+      "sub": "Director, Synergy Medical · Earlwood · English",
+      "href": "../dr-janet-hung/"
+    }
+  ]
+}

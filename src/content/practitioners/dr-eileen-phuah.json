@@ -1,0 +1,593 @@
+{
+  "slug": "dr-eileen-phuah",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-eileen-phuah",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 24
+  },
+  "identity": {
+    "full_name": "Dr Eileen Phuah",
+    "first_name": "Eileen",
+    "last_name": "Phuah",
+    "salutation": "Dr",
+    "short_ref": "Dr Phuah",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, DCH, DRANZCOG, CertSexual Health, FRACGP",
+    "post_nominal_dotted": "MBBS · DCH · DRANZCOG · CertSexual Health · FRACGP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0001793520",
+    "abn": "73 390 071 400"
+  },
+  "languages": [
+    "English",
+    "Malay"
+  ],
+  "clinics": {
+    "primary": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "aurora",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "href": "../aurora-women-and-babies-health/",
+      "dot_color": "#D9A79A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Eileen%20Phuah.webp",
+    "alt": "Portrait of Dr Eileen Phuah, MBBS, DCH, DRANZCOG, CertSexual Health, FRACGP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Eileen Phuah | MBBS, DCH, DRANZCOG, CertSexual Health, FRACGP | Sans Souci | SMSG",
+    "description": "Dr Eileen Phuah (MBBS, DCH, DRANZCOG, CertSexual Health, FRACGP) practises at Sans Souci Doctors. Consultant Specialist GP. English, Malay.",
+    "canonical": "https://smsg.au/dr-eileen-phuah/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Sans Souci Doctors premises. Consultant Specialist GP. Consulting in English, Malay.",
+    "ctas": [
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Phuah",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Phuah.",
+    "paragraphs": [
+      "Dr Eileen Phuah is an independent Consultant Specialist GP (ABN: 73 390 071 400) (MED0001793520) consulting at the Sans Souci centre.",
+      "Dr Eileen Phuah graduated in medicine from the University of New South Wales. She undertook a year of research on childhood leukaemia in medical school. Subsequently, she completed her internship and residency at the Launceston General Hospital in Tasmania and Westmead Hospital in Sydney. Her research areas spanned intubation in emergency departments through gestational diabetes (GDM) in pregnancy. As a doctor with a passion for global population health, Dr Eileen has chosen to do her clinical elective in Kenya and the Philippines and clinical rotation in women’s health in Sri Lanka.",
+      "Dr Eileen enjoys looking after patients’ general health and disease prevention. She is especially interested in women & children’s health and sexual health medicine, completed postgraduate training in all three areas, and has attained the Diploma of Child Health, Diploma in Obstetrics & Gynaecology and Sexual Health Medicine Certificate.",
+      "Outside of medicine, she enjoys travelling, scuba diving, spending time with family and friends completing DIY projects.",
+      "Dr Eileen speaks Malay in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board of Australia",
+    "Accredited Antenatal Shared Care GP (RHW, RPAH, Canterbury, St George & Sutherland)"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": "bulk_bill",
+    "source_note": "Dr Eileen Phuah bulk bills for routine consultations for those with a valid Medicare card. All other practice private fees are applicable."
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "sanssouci",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "new-patient-standard-appointment",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/new-patient-standard-appointment",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-employment-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/pre-employment-medical-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Clinic",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "flu-vaccine",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/flu-vaccine",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "adult-injection-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/adult-injection-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "childhood-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/childhood-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "dressing-wound-care",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/dressing-wound-care",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "lung-cancer-screening-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/lung-cancer-screening-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Travel Clinic",
+        "appointments": [
+          {
+            "display_name": "Pre-Travel Consultation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-travel-consultation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/pre-travel-consultation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "mental-health-care-plan-30mins-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/mental-health-care-plan-30mins-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "mental-health-care-plan-1-hr-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Antenatal",
+        "appointments": [
+          {
+            "display_name": "Antenatal Care",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "antenatal-care-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/antenatal-care-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Planning & Management of Pregnancy",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "planning-management-of-pregnancy-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/planning-management-of-pregnancy-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pregnancy Support Counselling",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pregnancy-support-counselling-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/pregnancy-support-counselling-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Women's Health",
+        "appointments": [
+          {
+            "display_name": "Cervical Screening / Womens Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "cervical-screening-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/cervical-screening-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Menopause/Perimenopause Focused Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "menopauseperimenopause-focused-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/menopauseperimenopause-focused-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Contraception",
+        "appointments": [
+          {
+            "display_name": "Implanon Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/implanon-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-removal-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/implanon-removal-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Pre-Procedural Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-procedural-consult-private-fees-may-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/pre-procedural-consult-private-fees-may-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "ear-syringing-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/ear-syringing-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "spirometry-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/spirometry-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "suturing-wound-repair-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/suturing-wound-repair-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "workers-compensation-initial-physical-injury",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/workers-compensation-initial-physical-injury",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Workers Compensation Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "workers-compensation-initial-psychological-injury",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah/a/workers-compensation-initial-psychological-injury",
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-eileen-phuah"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "sub": "Sub-brand · Women's healthcare across every stage",
+      "href": "../aurora-women-and-babies-health/"
+    },
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Eileen Phuah",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-eileen-phuah/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001793520"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Huiling Li",
+      "sub": "GP · Sans Souci · English, Cantonese, Mandarin, Hokkienese",
+      "href": "../dr-huiling-li/"
+    },
+    {
+      "name": "Dr Marloes Nordkamp",
+      "sub": "GP · Sans Souci, Earlwood · English, Dutch",
+      "href": "../dr-marloes-nordkamp/"
+    },
+    {
+      "name": "Dr Michelle Yeung",
+      "sub": "GP · Sans Souci · English, Mandarin",
+      "href": "../dr-michelle-yeung/"
+    },
+    {
+      "name": "Dr Lisa Cheng",
+      "sub": "GP · Earlwood · English, Cantonese, Basic Mandarin",
+      "href": "../dr-lisa-cheng/"
+    }
+  ]
+}

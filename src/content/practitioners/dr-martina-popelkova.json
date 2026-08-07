@@ -1,0 +1,194 @@
+{
+  "slug": "dr-martina-popelkova",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-martina-popelkova",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 46
+  },
+  "identity": {
+    "full_name": "Dr Martina Popelkova",
+    "first_name": "Martina",
+    "last_name": "Popelkova",
+    "salutation": "Dr",
+    "short_ref": "Dr Popelkova",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MD, FRACP",
+    "post_nominal_dotted": "MD · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "General Paediatrician",
+    "medical_specialty": "General Paediatrician",
+    "ahpra": "MED0001198087",
+    "abn": "50 204 078 895"
+  },
+  "languages": [
+    "English",
+    "Czech",
+    "Russian"
+  ],
+  "clinics": {
+    "primary": "sanssouci",
+    "consulting_at": [
+      "sanssouci",
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": null,
+      "combined": "Monday, Wednesday, Thursday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    },
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    },
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Martina%20Popelkova.webp",
+    "alt": "Portrait of Dr Martina Popelkova, MD, FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Martina Popelkova | MD, FRACP | Sans Souci and Earlwood | SMSG",
+    "description": "Dr Martina Popelkova (MD, FRACP) practises at Sans Souci Doctors and Earlwood Medical Centre. General Paediatrician. English, Czech, Russian.",
+    "canonical": "https://smsg.au/dr-martina-popelkova/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Sans Souci Doctors and Earlwood Medical Centre premises. General Paediatrician. Consulting in English, Czech, Russian.",
+    "ctas": [
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/paediatrician-dr-martina-popelkova"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Popelkova",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Popelkova.",
+    "paragraphs": [
+      "Dr Martina Popelkova is a General Paediatrician (ABN: 50 204 078 895) (MED0001198087) consulting at the Sans Souci centre.",
+      "Dr Martina is a Consultant Paediatrician. She completed her medical degree at Masaryk University, Brno, the Czech Republic. Dr Martina has extensive paediatric experience in Australia, including Paediatric and Neonatal emergency, Adolescent medicine, and behavioural and developmental Paediatrics. Before becoming a Fellow of the Royal Australasian College of Physicians, Dr Martina completed paediatric training at Sydney Children's Hospital in Randwick and practised at various metropolitan and rural hospitals.",
+      "Dr Martina is a mother of three beautiful children. She used to be a scout leader, skydiver and also played piano. She is a great believer in a healthy, happy, active lifestyle for parents and children.",
+      "Dr Martina has a special clinical interest in complex behavioural matters, including Eating disorders, ADHD, ODD, Autism Spectrum Disorder, and all aspects of General Paediatrics clinical matters from birth to eighteen years of age.",
+      "In addition to English, Dr Martina speaks fluent Czech and understands Russian."
+    ]
+  },
+  "fellowships": [],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "doctor_level_only",
+    "phone_fallback": null,
+    "default_clinic": "sanssouci",
+    "categories": [],
+    "note": "Automed CSV rows for this practitioner have DOCTOR_LEVEL_ONLY status: no per-appointment breakdown available. Downstream template should skip the booking accordion and use the hero CTAs + footer_book_links as the only booking entry points."
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/paediatrician-dr-martina-popelkova"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Martina Popelkova",
+    "jobTitle": "General Paediatrician",
+    "medicalSpecialty": "General Paediatrician",
+    "url": "https://smsg.au/dr-martina-popelkova/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001198087"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": true,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": [
+      "CSV clinics=['earlwood', 'sanssouci'] vs bio location='Sans Souci'"
+    ],
+    "doctor_level_only_booking": true
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Moe Moe Thinn",
+      "sub": "Developmental & General Paediatrician · Sans Souci · English, Burmese",
+      "href": "../dr-moe-moe-thinn/"
+    },
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    }
+  ]
+}

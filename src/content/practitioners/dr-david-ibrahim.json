@@ -1,0 +1,402 @@
+{
+  "slug": "dr-david-ibrahim",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-david-ibrahim",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 11
+  },
+  "identity": {
+    "full_name": "Dr David Ibrahim",
+    "first_name": "David",
+    "last_name": "Ibrahim",
+    "salutation": "Dr",
+    "short_ref": "Dr Ibrahim",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MD, BMedSc",
+    "post_nominal_dotted": "MD · BMedSc",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0002438943",
+    "abn": null
+  },
+  "languages": [
+    "English",
+    "Arabic"
+  ],
+  "clinics": {
+    "primary": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": "Tuesday, Friday",
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20Reg%20-%20Dr%20David%20Ibrahim.webp",
+    "alt": "Portrait of Dr David Ibrahim, MD, BMedSc, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr David Ibrahim | MD, BMedSc | Bangor | SMSG",
+    "description": "Dr David Ibrahim (MD, BMedSc) practises at Bangor Medical Centre. Consultant Specialist GP. English, Arabic.",
+    "canonical": "https://smsg.au/dr-david-ibrahim/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Bangor Medical Centre premises. Consultant Specialist GP. Consulting in English, Arabic.",
+    "ctas": [
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Ibrahim",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Ibrahim.",
+    "paragraphs": [
+      "Dr David Ibrahim (MED0002438943) is dedicated to compassionate patient care. He holds a Bachelor of Medical Science from Griffith University and a Doctor of Medicine from Sydney University. His interests include; chronic disease management, aged care, men's health, sporting injuries, and medication reviews.",
+      "Outside of work, he prioritises family time, especially with his wife and newborn son, volunteering at my local parish, and staying active through soccer and bike-riding."
+    ]
+  },
+  "fellowships": [],
+  "awards": [],
+  "additional_roles": [
+    "GP Registrar"
+  ],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Effective from **1 June 2026**, private fees apply to all new patients and any patient not seen in the last 12 months. **Bulk Billing** is strictly restricted to routine consultations for: - Existing regular bulk-billed patients (seen within the last 12 months prior to 1 June 2026) - Children aged 15 and under - Concession Card holders - DVA Card holders"
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "bangor",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "new-patient-standard-appointment"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/new-patient-standard-appointment"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "lung-cancer-screening-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/lung-cancer-screening-consult"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Vaccine",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "flu-vaccine"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/flu-vaccine"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "adult-injection-immunisation"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/adult-injection-immunisation"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "childhood-immunisation"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/childhood-immunisation"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound Care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "dressing-wound-care"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/dressing-wound-care"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "iron-deficiency-assessment-and-planning"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/iron-deficiency-assessment-and-planning"
+            }
+          },
+          {
+            "display_name": "Iron Infusion",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "iron-infusion-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/iron-infusion-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "mental-health-care-plan-30mins-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/mental-health-care-plan-30mins-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "mental-health-care-plan-1-hr-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/mental-health-care-plan-1-hr-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "ear-syringing-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/ear-syringing-private-fees-apply"
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "spirometry-private-fees-apply"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/spirometry-private-fees-apply"
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation/CTP Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "workers-compensationctp-initial-physical-injury"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/workers-compensationctp-initial-physical-injury"
+            }
+          },
+          {
+            "display_name": "Workers Compensation/CTP Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "workers-compensationctp-initial-psychological-injury"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim/a/workers-compensationctp-initial-psychological-injury"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-david-ibrahim"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr David Ibrahim",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-david-ibrahim/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0002438943"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Margaret Colwell",
+      "sub": "GP · Bangor · English",
+      "href": "../dr-margaret-colwell/"
+    },
+    {
+      "name": "Dr Jeremy Do",
+      "sub": "GP · Bangor · English, Vietnamese",
+      "href": "../dr-jeremy-do/"
+    },
+    {
+      "name": "Dr Mina Hanna",
+      "sub": "GP · Bangor · English, Arabic",
+      "href": "../dr-mina-hanna/"
+    },
+    {
+      "name": "Dr Daniel Ibrahim",
+      "sub": "GP · Bangor · English, Arabic",
+      "href": "../dr-daniel-ibrahim/"
+    }
+  ]
+}

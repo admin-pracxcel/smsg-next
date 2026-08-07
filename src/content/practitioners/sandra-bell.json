@@ -1,0 +1,205 @@
+{
+  "slug": "sandra-bell",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/sandra-bell",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 59
+  },
+  "identity": {
+    "full_name": "Sandra Bell",
+    "first_name": "Sandra",
+    "last_name": "Bell",
+    "salutation": null,
+    "short_ref": "Sandra Bell",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "GradDipPsych, BSc(Psych), BA (PolSci)",
+    "post_nominal_dotted": "GradDipPsych · BSc(Psych) · BA (PolSci)",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Psychologist",
+    "medical_specialty": "Psychologist",
+    "ahpra": "PSY0001339458",
+    "abn": "17 426 812 073"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Saturday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    },
+    {
+      "key": "aurora",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    },
+    {
+      "label": "Aurora Women & Babies Health",
+      "href": "../aurora-women-and-babies-health/",
+      "dot_color": "#D9A79A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Sandra%20Bell.webp",
+    "alt": "Portrait of Sandra Bell, GradDipPsych, BSc(Psych), BA (PolSci), at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Sandra Bell | GradDipPsych, BSc(Psych), BA (PolSci) | Earlwood | SMSG",
+    "description": "Sandra Bell (GradDipPsych, BSc(Psych), BA (PolSci)) practises at Earlwood Medical Centre. Psychologist. English.",
+    "canonical": "https://smsg.au/sandra-bell/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Psychologist.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/psychologist-ms-sandra-bell"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Sandra Bell",
+    "heading_lead": "Meet",
+    "heading_warm": "Sandra Bell.",
+    "paragraphs": [
+      "Sandra (Sandi) Bell is a Registered Psychologist (ABN: 17 426 812 073) (PSY0001339458) with over 25 years of experience in therapeutic counselling and psychological assessment, now consulting at the Earlwood Medical Centre.",
+      "She holds a Graduate Diploma in Psychology, a Bachelor of Science in Psychology, and a Bachelor of Arts in Political Science. Sandi supports children, adolescents, adults, and families, providing inclusive, trauma-informed, and neurodiversity-affirming care. She recognises each person’s unique strengths and challenges, working collaboratively to ensure clients feel seen, supported, and empowered.",
+      "As a neurodiversity-affirming clinician, Sandi respects individual differences and strengths, while also identifying areas of difficulty requiring understanding and support in order to help each person grow and thrive. She aligns with the principles of the Safe House Framework, Reframing Autism, and the ADHD Foundation.",
+      "With extensive experience in the education sector, Sandra brings valuable insight into the psychological and developmental needs of school-aged children. Sandra is skilled in cognitive, achievement, behavioural, and developmental assessments, providing comprehensive reports with recommendations tailored to support learning, wellbeing and mental health.",
+      "Sandra draws from a range of evidence-based therapeutic approaches including CBT, DBT, ACT, EMDR, Narrative Therapy and Solution Focused Brief Therapy. She is also trained in the Collaborative Proactive Solutions (CPS) model, which supports skill development, reduces conflict, and leads to improved behaviour and relationships. Her work is grounded in compassion, empathy, and the belief that with the right support everyone can find their own way to connect, develop, and thrive."
+    ]
+  },
+  "fellowships": [
+    "Registered Psychologist, Psychologist Board of Australia",
+    "Member, Australian Association of Psychologists Member"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Psychology",
+        "appointments": [
+          {
+            "display_name": "Psychologist - Face to Face",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "psychologist-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/psychologist-ms-sandra-bell/a/psychologist-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/psychologist-ms-sandra-bell"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Kids' Dr",
+      "sub": "Sub-brand · Paediatric care for infants through adolescents",
+      "href": "../kids-dr/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Sandra Bell",
+    "jobTitle": "Psychologist",
+    "medicalSpecialty": "Psychologist",
+    "url": "https://smsg.au/sandra-bell/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "PSY0001339458"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Hana Rizk",
+      "sub": "Podiatrist · Earlwood · English, Arabic",
+      "href": "../hana-rizk/"
+    }
+  ]
+}

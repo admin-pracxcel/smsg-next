@@ -1,0 +1,191 @@
+{
+  "slug": "dr-moe-moe-thinn",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-moe-moe-thinn",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 49
+  },
+  "identity": {
+    "full_name": "Dr Moe Moe Thinn",
+    "first_name": "Moe",
+    "last_name": "Thinn",
+    "salutation": "Dr",
+    "short_ref": "Dr Thinn",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, MPH, BSc(Med), GradDipPaed, FRACP",
+    "post_nominal_dotted": "MBBS · MPH · BSc(Med) · GradDipPaed · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Developmental & General Paediatrician",
+    "medical_specialty": "Developmental & General Paediatrician",
+    "ahpra": "MED0001187561",
+    "abn": "97 891 685 726"
+  },
+  "languages": [
+    "English",
+    "Burmese"
+  ],
+  "clinics": {
+    "primary": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": "Friday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    },
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    },
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Moe%20Moe%20Thinn.webp",
+    "alt": "Portrait of Dr Moe Moe Thinn, MBBS, MPH, BSc(Med), GradDipPaed, FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Moe Moe Thinn | MBBS, MPH, BSc(Med), GradDipPaed, FRACP | Sans Souci | SMSG",
+    "description": "Dr Moe Moe Thinn (MBBS, MPH, BSc(Med), GradDipPaed, FRACP) practises at Sans Souci Doctors. Developmental & General Paediatrician. English, Burmese.",
+    "canonical": "https://smsg.au/dr-moe-moe-thinn/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Sans Souci Doctors premises. Developmental & General Paediatrician. Consulting in English, Burmese.",
+    "ctas": [
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/paediatrician-dr-moe-moe-thinn"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Thinn",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Thinn.",
+    "paragraphs": [
+      "Dr Moe Moe Thinn is a Developmental and General Paediatrician (ABN: 97 891 685 726) (MED0001187561) consulting at the Sans Souci Centre. She is one of the very few paediatricians in Australia with dual specialities recognition in Community Child Health and General Paediatrics.",
+      "Dr Moe Moe completed her medical degree and Postgraduate Diploma in Child Health through the University of New South Wales (UNSW), later earning a Master of Public Health from Monash University. She has accumulated over a decade of extensive clinical experience in paediatrics, practicing across diverse metropolitan and rural hospital networks within the Sydney Children’s Hospital Network.",
+      "Driven by a deep passion for promoting the long-term wellbeing of children and their families, her clinical expertise centers on managing complex developmental and behavioural conditions.",
+      "Alongside her clinical practice, Dr Moe Moe is actively involved in medical education and research. She has served as a Conjoint Lecturer at UNSW Medicine and holds an appointment as an Honorary Senior Lecturer at the University of Wollongong, where she regularly teaches and examines medical students. She remains deeply committed to ongoing academic research and international charity work."
+    ]
+  },
+  "fellowships": [
+    "Dual Specialist Recognition – General Paediatrics & Community Child Health (RACP)",
+    "Honorary Senior Lecturer, University of Wollongong",
+    "Staff Specialist in Developmental Paediatrics, Illawarra Shoalhaven Diagnostic & Assessment Service"
+  ],
+  "awards": [
+    "SMSG Doctor of the Year Awardee 2022",
+    "SMSG Half-Decade Dedication Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "doctor_level_only",
+    "phone_fallback": null,
+    "default_clinic": "sanssouci",
+    "categories": [],
+    "note": "Automed CSV rows for this practitioner have DOCTOR_LEVEL_ONLY status: no per-appointment breakdown available. Downstream template should skip the booking accordion and use the hero CTAs + footer_book_links as the only booking entry points."
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/paediatrician-dr-moe-moe-thinn"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Moe Moe Thinn",
+    "jobTitle": "Developmental & General Paediatrician",
+    "medicalSpecialty": "Developmental & General Paediatrician",
+    "url": "https://smsg.au/dr-moe-moe-thinn/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001187561"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": [],
+    "doctor_level_only_booking": true
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Martina Popelkova",
+      "sub": "General Paediatrician · Sans Souci, Earlwood · English, Czech, Russian",
+      "href": "../dr-martina-popelkova/"
+    },
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    }
+  ]
+}

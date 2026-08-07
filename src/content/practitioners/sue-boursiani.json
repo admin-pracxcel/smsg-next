@@ -1,0 +1,226 @@
+{
+  "slug": "sue-boursiani",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/sue-boursiani",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 60
+  },
+  "identity": {
+    "full_name": "Sue Boursiani",
+    "first_name": "Sue",
+    "last_name": "Boursiani",
+    "salutation": null,
+    "short_ref": "Sue Boursiani",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MEd(Counselling Psych), BA(Psych), DipEd",
+    "post_nominal_dotted": "MEd(Counselling Psych) · BA(Psych) · DipEd",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Psychologist",
+    "medical_specialty": "Psychologist",
+    "ahpra": "PSY0001067955",
+    "abn": "86 398 817 050"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": "Saturday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    },
+    {
+      "key": "aurora",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    },
+    {
+      "label": "Aurora Women & Babies Health",
+      "href": "../aurora-women-and-babies-health/",
+      "dot_color": "#D9A79A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Sue%20Boursiani.webp",
+    "alt": "Portrait of Sue Boursiani, MEd(Counselling Psych), BA(Psych), DipEd, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Sue Boursiani | MEd(Counselling Psych), BA(Psych), DipEd | Earlwood and Sans Souci | SMSG",
+    "description": "Sue Boursiani (MEd(Counselling Psych), BA(Psych), DipEd) practises at Earlwood Medical Centre and Sans Souci Doctors. Psychologist. English.",
+    "canonical": "https://smsg.au/sue-boursiani/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre and Sans Souci Doctors premises. Psychologist.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/psychologist-sue-boursiani"
+      },
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/psychometric-assessor-sue-boursiani"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Sue Boursiani",
+    "heading_lead": "Meet",
+    "heading_warm": "Sue Boursiani.",
+    "paragraphs": [
+      "Sue Boursiani is a Registered Psychologist (ABN: 86 398 817 050) (PSY0001067955) consulting at the Earlwood and Sans Souci centres. She holds a Master of Education in Counselling Psychology, a Bachelor of Arts in Psychology, and a Diploma of Education.",
+      "Sue is a passionate psychologist with over 25 years’ experience working with young children, adolescents, and adults with a wide range of learning, behavioural and mental health issues. She provides psychological services that are inclusive, culturally aware, safe, and welcoming.",
+      "Sue has an extensive background in education & understand the psychological needs of school aged children. She has expertise in a number of standardised cognitive assessments, academic assessments, and emotional/behavioural assessments to assist with accurate diagnosis and understanding of a child's needs. Sue’s personal style is empathetic, and values driven. She draws from a range of evidence-based interventions to address individual needs, including: \\- Cognitive Behavioural Therapy \\- Acceptance and Commitment Therapy \\- Schema Therapy \\- Solution-Focused Brief Therapy \\- Dialectical Behaviour Therapy",
+      "Sue has experience and interest working with a number of presentations including depression, anxiety (including OCD), post-traumatic stress, deliberate self-harm, emotional dysregulation, academic and work-related stress, and relationship difficulties. As a trained Child Consultant, Sue also brings meaningful and safe inclusion of the children’s voice to positively shape post-separation parenting. Sue believes in a collaborative and flexible approach, that focuses on building a strong therapeutic alliance and tailors treatment approaches to the specific needs of individuals."
+    ]
+  },
+  "fellowships": [
+    "Registered Psychologist, Psychologist Board of Australia",
+    "Member, Australian Association of Psychologists",
+    "NSW Government Approved Work & Development Order Sponsor"
+  ],
+  "awards": [
+    "SMSG Foundation Excellence Awardee 2019",
+    "SMSG Ten-Year Triumph Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Psychology",
+        "appointments": [
+          {
+            "display_name": "Psychologist - Face to Face",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "psychologist-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/psychologist-sue-boursiani/a/psychologist-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/psychologist-sue-boursiani"
+    },
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/psychometric-assessor-sue-boursiani"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Kids' Dr",
+      "sub": "Sub-brand · Paediatric care for infants through adolescents",
+      "href": "../kids-dr/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Sue Boursiani",
+    "jobTitle": "Psychologist",
+    "medicalSpecialty": "Psychologist",
+    "url": "https://smsg.au/sue-boursiani/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "PSY0001067955"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": [],
+    "therapy_modalities_note": "Uses CBT, ACT, Schema Therapy, Solution-Focused Brief Therapy and DBT. These are treatment modalities (not fellowships) and belong in bio prose, not the fellowships block.",
+    "bio_boilerplate_removed": "Removed \"committed to providing\" phrase (banned corporate register)."
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Hana Rizk",
+      "sub": "Podiatrist · Earlwood · English, Arabic",
+      "href": "../hana-rizk/"
+    }
+  ]
+}

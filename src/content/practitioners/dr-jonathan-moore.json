@@ -1,0 +1,534 @@
+{
+  "slug": "dr-jonathan-moore",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-jonathan-moore",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 19
+  },
+  "identity": {
+    "full_name": "Dr Jonathan Moore",
+    "first_name": "Jonathan",
+    "last_name": "Moore",
+    "salutation": "Dr",
+    "short_ref": "Dr Moore",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, BSc(Anat&Physio), ECFMG, FRACGP",
+    "post_nominal_dotted": "MBBS · BSc(Anat&Physio) · ECFMG · FRACGP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0001155520",
+    "abn": "38167751331"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": "Monday-Wednesday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "clarion",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "href": "../clarion-skin-cancer-clinic/",
+      "dot_color": "#B44468",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Jonathan%20Moore.webp",
+    "alt": "Portrait of Dr Jonathan Moore, MBBS, BSc(Anat&Physio), ECFMG, FRACGP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Jonathan Moore | MBBS, BSc(Anat&Physio), ECFMG, FRACGP | Sans Souci | SMSG",
+    "description": "Dr Jonathan Moore (MBBS, BSc(Anat&Physio), ECFMG, FRACGP) practises at Sans Souci Doctors. Consultant Specialist GP. English.",
+    "canonical": "https://smsg.au/dr-jonathan-moore/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Sans Souci Doctors premises. Consultant Specialist GP.",
+    "ctas": [
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Moore",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Moore.",
+    "paragraphs": [
+      "Dr Jonathan Moore is an independent Consultant Specialist GP (ABN: 38167751331) (MED0001155520) consulting at Sans Souci Doctors.",
+      "Dr Moore graduated from the University of New South Wales and spent his resident years at Royal Prince Alfred Hospital. Dr Moore did terms in cardiology, respiratory medicine, emergency medicine, plastic surgery and urology. Dr Moore did resident rotations to South Western Sydney Area hospitals and surgical registrar terms at Dubbo and RPAH Hospitals. Dr Moore transitioned into General Practice and obtained his fellowship of the Royal Australian College of General Practice. Dr Moore continued work doing regular surgical assisting in plastic surgery until 2020 and continues to work regularly at The Melanoma Institute of Australia. Dr Moore has a strong interest in the diagnosis and management of skin cancer.",
+      "Outside of Medicine Dr Moore has been actively involved in sailing, Motorsport and remains an avid cyclist. He enjoys travel and time with his family and grandchildren."
+    ]
+  },
+  "fellowships": [
+    "Consultant Specialist GP",
+    "Specialist in General Practice, Medical Board of Australia",
+    "RACGP Accredited Supervisor for Registrars in General Practice"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Private fees apply to all patients on an ongoing basis. **Bulk Billing** is strictly restricted to routine consultations for: - Children aged 15 and under - Seniors aged 65 and over - Concession Card holders - DVA Card holders"
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "sanssouci",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-employment-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/pre-employment-medical-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Clinic",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "flu-vaccine",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/flu-vaccine",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "adult-injection-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/adult-injection-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "childhood-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/childhood-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "dressing-wound-care",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/dressing-wound-care",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "iron-deficiency-assessment-and-planning",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/iron-deficiency-assessment-and-planning",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Iron Infusion",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "iron-infusion-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/iron-infusion-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "lung-cancer-screening-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/lung-cancer-screening-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Travel Clinic",
+        "appointments": [
+          {
+            "display_name": "Pre-Travel Consultation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-travel-consultation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/pre-travel-consultation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "mental-health-care-plan-30mins-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/mental-health-care-plan-30mins-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "mental-health-care-plan-1-hr-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Women's Health",
+        "appointments": [
+          {
+            "display_name": "Menopause/Perimenopause Focused Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "menopauseperimenopause-focused-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/menopauseperimenopause-focused-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Contraception",
+        "appointments": [
+          {
+            "display_name": "Implanon Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/implanon-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-removal-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/implanon-removal-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Pre-Procedural Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-procedural-consult-private-fees-may-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/pre-procedural-consult-private-fees-may-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "ear-syringing-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/ear-syringing-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "spirometry-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/spirometry-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "suturing-wound-repair-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/suturing-wound-repair-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Skin Cancer Clinic",
+        "appointments": [
+          {
+            "display_name": "Skin Cancer Check Consultation",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "skin-cancer-check-consultation-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore/a/skin-cancer-check-consultation-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-jonathan-moore"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Clarion Skin Cancer Clinic",
+      "sub": "Sub-brand · Skin cancer screening and treatment",
+      "href": "../clarion-skin-cancer-clinic/"
+    },
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Jonathan Moore",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-jonathan-moore/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001155520"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Marloes Nordkamp",
+      "sub": "GP · Sans Souci, Earlwood · English, Dutch",
+      "href": "../dr-marloes-nordkamp/"
+    },
+    {
+      "name": "Dr Margaret Colwell",
+      "sub": "GP · Bangor · English",
+      "href": "../dr-margaret-colwell/"
+    },
+    {
+      "name": "Dr Tao Geng",
+      "sub": "GP · Earlwood, Bangor · English, Mandarin, Shanghainese",
+      "href": "../dr-tao-geng/"
+    },
+    {
+      "name": "Dr Jaison Mangahis",
+      "sub": "GP · Earlwood · English, Tagalog",
+      "href": "../dr-jaison-mangahis/"
+    }
+  ]
+}

@@ -1,0 +1,649 @@
+{
+  "slug": "dr-huiling-li",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/gps/dr-huiling-li",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 14
+  },
+  "identity": {
+    "full_name": "Dr Huiling Li",
+    "first_name": "Huiling",
+    "last_name": "Li",
+    "salutation": "Dr",
+    "short_ref": "Dr Li",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "BMed, BN, MAMSC(LM), FRACGP",
+    "post_nominal_dotted": "BMed · BN · MAMSC(LM) · FRACGP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0001198098",
+    "abn": "79 483 658 858"
+  },
+  "languages": [
+    "English",
+    "Cantonese",
+    "Mandarin",
+    "Hokkienese"
+  ],
+  "clinics": {
+    "primary": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": "Monday-Thursday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "aurora",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "href": "../aurora-women-and-babies-health/",
+      "dot_color": "#D9A79A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP%20-%20Dr%20Huiling%20Li.webp",
+    "alt": "Portrait of Dr Huiling Li, BMed, BN, MAMSC(LM), FRACGP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Huiling Li | BMed, BN, MAMSC(LM), FRACGP | Sans Souci | SMSG",
+    "description": "Dr Huiling Li (BMed, BN, MAMSC(LM), FRACGP) practises at Sans Souci Doctors. Consultant Specialist GP. English, Cantonese, Mandarin, Hokkienese.",
+    "canonical": "https://smsg.au/dr-huiling-li/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Sans Souci Doctors premises. Consultant Specialist GP. Consulting in English, Cantonese, Mandarin, Hokkienese.",
+    "ctas": [
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Li",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Li.",
+    "paragraphs": [
+      "Dr Huiling Li is an independent Consultant Specialist GP (ABN: 79 483 658 858) (MED0001198098) consulting at Sans Souci Doctors.",
+      "Dr Huiling Li has been practising in local areas for more than a decade and is a Fellow of the Royal Australian College of General Practitioners and a Registered Specialist in General Practice with the Medical Board of Australia.",
+      "Dr Li has a particular interest in Women's and Children's health, Infertility, Travel Medicine, Preventative medicine, and Minor Surgical Procedures. Being a dedicated Christian, Dr Li is passionate about making a difference in one's life through her work. In the community, Dr Li is the Chair of the Advisory Council of the Australasian Medical Services Coalition (AMSC) and the inaugural President of the Sun Yet-Sen University of Medical Sciences Sydney Alumni Association. With her strong track record of voluntary work in the community, in 2019, Dr Li was recognized and presented by Mr Mark Coure MP for the St George Community Award in the category of Individual Volunteer Achievement Award. With her exemplary service to the organization, she was also awarded the President Appreciation Award of the Australian Chinese Medical Association in 2019.",
+      "Dr Li speaks fluent Cantonese, Mandarin, Hokkienese and English."
+    ]
+  },
+  "fellowships": [
+    "Specialist in General Practice, Medical Board of Australia",
+    "Accredited Antenatal Shared Care GP (St. George)",
+    "MAXHealth Accredited Pre-Employment Medical Assessor"
+  ],
+  "awards": [
+    "SMSG Doctor of the Year Awardee 2020",
+    "SMSG Half-Decade Dadication Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": "mixed",
+    "source_note": "Private fees apply to all new patients and any patient not seen in the last 12 months. **Bulk Billing** is strictly restricted to routine consultations for: - Existing regular bulk-billed patients (seen within the last 12 months) - Children aged 15 and under - Seniors aged 65 and over - Concession Card holders - DVA Card holders"
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "sanssouci",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "new-patient-standard-appointment",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/new-patient-standard-appointment",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Commercial Driving Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/commercial-driving-medical-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pre-Employment Medical",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-employment-medical-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/pre-employment-medical-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Clinic",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "flu-vaccine",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/flu-vaccine",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "adult-injection-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/adult-injection-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Childhood Immunisation",
+        "appointments": [
+          {
+            "display_name": "Childhood Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "childhood-immunisation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/childhood-immunisation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "dressing-wound-care",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/dressing-wound-care",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "iron-deficiency-assessment-and-planning",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/iron-deficiency-assessment-and-planning",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Iron Infusion",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "iron-infusion-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/iron-infusion-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "lung-cancer-screening-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/lung-cancer-screening-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Travel Clinic",
+        "appointments": [
+          {
+            "display_name": "Pre-Travel Consultation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-travel-consultation",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/pre-travel-consultation",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "mental-health-care-plan-30mins-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/mental-health-care-plan-30mins-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "mental-health-care-plan-1-hr-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Antenatal",
+        "appointments": [
+          {
+            "display_name": "Antenatal Care",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "antenatal-care-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/antenatal-care-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Planning & Management of Pregnancy",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "planning-management-of-pregnancy-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/planning-management-of-pregnancy-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Pregnancy Support Counselling",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pregnancy-support-counselling-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/pregnancy-support-counselling-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Women's Health",
+        "appointments": [
+          {
+            "display_name": "Cervical Screening / Womens Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "cervical-screening-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/cervical-screening-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Menopause/Perimenopause Focused Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "menopauseperimenopause-focused-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/menopauseperimenopause-focused-consult",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Contraception",
+        "appointments": [
+          {
+            "display_name": "Implanon Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/implanon-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Insertion + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/implanon-removal-insertion-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Implanon Removal + Women's Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "implanon-removal-womens-health-check-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/implanon-removal-womens-health-check-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Pre-Procedural Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "pre-procedural-consult-private-fees-may-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/pre-procedural-consult-private-fees-may-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "ear-syringing-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/ear-syringing-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "spirometry-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/spirometry-private-fees-apply",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "suturing-wound-repair-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/suturing-wound-repair-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Skin Cancer Clinic",
+        "appointments": [
+          {
+            "display_name": "Skin Cancer Check Consultation",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "skin-cancer-check-consultation-private-fees-apply",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/skin-cancer-check-consultation-private-fees-apply",
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "workers-compensation-initial-physical-injury",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/workers-compensation-initial-physical-injury",
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Workers Compensation Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": "workers-compensation-initial-psychological-injury",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li/a/workers-compensation-initial-psychological-injury",
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/dr-huiling-li"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Aurora Women & Babies Health",
+      "sub": "Sub-brand · Women's healthcare across every stage",
+      "href": "../aurora-women-and-babies-health/"
+    },
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Huiling Li",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-huiling-li/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001198098"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Marloes Nordkamp",
+      "sub": "GP · Sans Souci, Earlwood · English, Dutch",
+      "href": "../dr-marloes-nordkamp/"
+    },
+    {
+      "name": "Dr Eileen Phuah",
+      "sub": "GP · Sans Souci · English, Malay",
+      "href": "../dr-eileen-phuah/"
+    },
+    {
+      "name": "Dr Michelle Yeung",
+      "sub": "GP · Sans Souci · English, Mandarin",
+      "href": "../dr-michelle-yeung/"
+    },
+    {
+      "name": "Dr Lisa Cheng",
+      "sub": "GP · Earlwood · English, Cantonese, Basic Mandarin",
+      "href": "../dr-lisa-cheng/"
+    }
+  ]
+}

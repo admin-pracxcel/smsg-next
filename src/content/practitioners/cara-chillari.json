@@ -1,0 +1,223 @@
+{
+  "slug": "cara-chillari",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/cara-chillari",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 61
+  },
+  "identity": {
+    "full_name": "Cara Chillari",
+    "first_name": "Cara",
+    "last_name": "Chillari",
+    "salutation": null,
+    "short_ref": "Cara Chillari",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBusPsych, BPsych, DipPsychPrac",
+    "post_nominal_dotted": "MBusPsych · BPsych · DipPsychPrac",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Psychologist",
+    "medical_specialty": "Psychologist",
+    "ahpra": "PSY0001733562",
+    "abn": "79 314 319 696"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": null,
+      "combined": "Tuesday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    },
+    {
+      "key": "aurora",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    },
+    {
+      "label": "Aurora Women & Babies Health",
+      "href": "../aurora-women-and-babies-health/",
+      "dot_color": "#D9A79A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Cara%20Chillari.webp",
+    "alt": "Portrait of Cara Chillari, MBusPsych, BPsych, DipPsychPrac, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Cara Chillari | MBusPsych, BPsych, DipPsychPrac | Earlwood and Sans Souci | SMSG",
+    "description": "Cara Chillari (MBusPsych, BPsych, DipPsychPrac) practises at Earlwood Medical Centre and Sans Souci Doctors. Psychologist. English.",
+    "canonical": "https://smsg.au/cara-chillari/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre and Sans Souci Doctors premises. Psychologist.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/psychologist-cara-chillari"
+      },
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/psychometric-assessor-cara-chillari"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Cara Chillari",
+    "heading_lead": "Meet",
+    "heading_warm": "Cara Chillari.",
+    "paragraphs": [
+      "Cara Chillari is a psychologist (ABN: 79 314 319 696) (PSY0001733562) consulting at the Earlwood centre.",
+      "Cara is a registered psychologist with a wide variety of experience working with individuals and their families across the lifespan - from childhood, adolescence and adulthood. Cara uses a strengths based, empathic and professional approach to assist individuals with achieving their goals. She has worked in community health settings (including headspace), private practice settings and schools, assisting people from various socio-cultural backgrounds and with a range of mental health issues.",
+      "Cara has facilitated individualised programs and therapy for clients and their families, in addition to developing and facilitating groups using evidence based practice to improve mental health and wellbeing of individuals in the community. Cara is passionate about catering to fit the individual needs of clients using a range of therapeutic approaches including; Cognitive Behaviour Therapy, Interpersonal Therapy, Acceptance Commitment Therapy and Solution Focused Brief Therapy."
+    ]
+  },
+  "fellowships": [
+    "Registered Psychologist, Psychologist Board Australia",
+    "Member, Australian Association of Psychologists",
+    "NSW Government Approved Work & Development Order Sponsor"
+  ],
+  "awards": [
+    "SMSG Half-Decade Dedication Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Psychology",
+        "appointments": [
+          {
+            "display_name": "Psychologist - Face to Face",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "psychologist-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/psychologist-cara-chillari/a/psychologist-face-to-face",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/psychologist-cara-chillari"
+    },
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/psychometric-assessor-cara-chillari"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Kids' Dr",
+      "sub": "Sub-brand · Paediatric care for infants through adolescents",
+      "href": "../kids-dr/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Cara Chillari",
+    "jobTitle": "Psychologist",
+    "medicalSpecialty": "Psychologist",
+    "url": "https://smsg.au/cara-chillari/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "PSY0001733562"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": true,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Hana Rizk",
+      "sub": "Podiatrist · Earlwood · English, Arabic",
+      "href": "../hana-rizk/"
+    },
+    {
+      "name": "Sandra Bell",
+      "sub": "Psychologist · Earlwood · English",
+      "href": "../sandra-bell/"
+    }
+  ]
+}

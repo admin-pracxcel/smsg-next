@@ -1,0 +1,199 @@
+{
+  "slug": "dr-christina-lai",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-christina-lai",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 40
+  },
+  "identity": {
+    "full_name": "Dr Christina Lai",
+    "first_name": "Christina",
+    "last_name": "Lai",
+    "salutation": "Dr",
+    "short_ref": "Dr Lai",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, PhD, BMed(UNSW), FRACP",
+    "post_nominal_dotted": "MBBS · PhD · BMed(UNSW) · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Nephrologist & General Medicine Physician",
+    "medical_specialty": "Nephrologist & General Medicine Physician",
+    "ahpra": "MED0001602956",
+    "abn": "49 369 076 383"
+  },
+  "languages": [
+    "English",
+    "Cantonese",
+    "Mandarin"
+  ],
+  "clinics": {
+    "primary": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": "Wednesday",
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Christina%20Lai.webp",
+    "alt": "Portrait of Dr Christina Lai, MBBS, PhD, BMed(UNSW), FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Christina Lai | MBBS, PhD, BMed(UNSW), FRACP | Bangor | SMSG",
+    "description": "Dr Christina Lai (MBBS, PhD, BMed(UNSW), FRACP) practises at Bangor Medical Centre. Nephrologist & General Medicine Physician. English, Cantonese, Mandarin.",
+    "canonical": "https://smsg.au/dr-christina-lai/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Bangor Medical Centre premises. Nephrologist & General Medicine Physician. Consulting in English, Cantonese, Mandarin.",
+    "ctas": [
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/nephrologist-dr-christina-lai"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Lai",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Lai.",
+    "paragraphs": [
+      "Dr Christina Lai is a Nephrologist and General Medicine Physician (ABN: 49 369 076 383) (MED0001602956) consulting at the Bangor centre.",
+      "Dr. Christina Lai is a patient-centred nephrologist and a general physician passionate about empowering patients and families to fully engage in their medical care through active listening, expressing empathy and education. Dr Lai graduated from the University of New South Wales in Sydney and completed her basic physicians training at St. Vincent’s Hospital. She was awarded her Fellowship with the Royal Australian College of Physicians (FRACP) upon completing her specialist training in renal medicine through Liverpool Hospital, Concord Hospital and Royal Prince Alfred Hospital.",
+      "Dr Lai has special interest in treating patients with acute kidney injury, hypertension, renal stone disease, cardiorenal syndrome and chronic kidney diseases, including those requiring dialysis and transplantation. Dr Lai also previously conducted a series of talks on SBS Cantonese Radio on common kidney problems.",
+      "Dr Lai speaks fluent Cantonese and Mandarin in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Director of Trainees in Unaccredited Positions, Concord Repatriation General Hospital",
+    "Staff Specialist in Nephrology, Concord Repatriation General Hospital",
+    "VMO Nephrologist, The Mater Private Hospital",
+    "VMO Nephrologist, Strathfield Private Hospital",
+    "VMO Nephrologist, Northern Beaches Hospital"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "bangor",
+    "categories": [
+      {
+        "category_name": "Specialist",
+        "appointments": [
+          {
+            "display_name": "Nephrologist - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "nephrologist-initial-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/nephrologist-dr-christina-lai/a/nephrologist-initial-consult"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/nephrologist-dr-christina-lai"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Christina Lai",
+    "jobTitle": "Nephrologist & General Medicine Physician",
+    "medicalSpecialty": "Nephrologist & General Medicine Physician",
+    "url": "https://smsg.au/dr-christina-lai/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001602956"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Amanda Khor",
+      "sub": "Geriatrician & General Medicine Physician · Bangor, Sans Souci · English",
+      "href": "../dr-amanda-khor/"
+    },
+    {
+      "name": "Dr Elaine Yap",
+      "sub": "Geriatrician & General Medicine Physician · Bangor · English, Mandarin",
+      "href": "../dr-elaine-yap/"
+    },
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    }
+  ]
+}

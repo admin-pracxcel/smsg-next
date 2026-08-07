@@ -1,0 +1,210 @@
+{
+  "slug": "dr-qin-liu",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-qin-liu",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 44
+  },
+  "identity": {
+    "full_name": "Dr Qin Liu",
+    "first_name": "Qin",
+    "last_name": "Liu",
+    "salutation": "Dr",
+    "short_ref": "Dr Liu",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, FRACP, FRCPA",
+    "post_nominal_dotted": "MBBS · FRACP · FRCPA",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Haematologist",
+    "medical_specialty": "Haematologist",
+    "ahpra": "MED0001660715",
+    "abn": "44 350 919 384"
+  },
+  "languages": [
+    "English",
+    "Mandarin"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Monday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Qin%20Liu.webp",
+    "alt": "Portrait of Dr Qin Liu, MBBS, FRACP, FRCPA, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Qin Liu | MBBS, FRACP, FRCPA | Earlwood | SMSG",
+    "description": "Dr Qin Liu (MBBS, FRACP, FRCPA) practises at Earlwood Medical Centre. Haematologist. English, Mandarin.",
+    "canonical": "https://smsg.au/dr-qin-liu/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Haematologist. Consulting in English, Mandarin.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/haematologist-dr-qin-liu"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Liu",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Liu.",
+    "paragraphs": [
+      "Dr Qin Liu is a Haematologist (ABN: 44 350 919 384) (MED0001660715) consulting at the Earlwood centre.",
+      "Dr Qin Liu is a specialist haematologist who cares for patients with both malignant and non-malignant haematological conditions with a special interest in lymphoma. She also has experience with laboratory and obstetrics haematology.",
+      "Dr Liu graduated in Medicine from The University of New South Wales. After completing general physicians training at the St George Hospital, she went on to complete specialist training in haematology and haematopathology in St George Hospital, St Vincent’s Hospital, Wollongong Hospital and The Canberra Hospital. She completed a Lymphoma Fellowship at Princess Margaret Cancer Centre in Toronto, Canada.",
+      "Dr Liu is also a staff specialist haematologist at St George and Sutherland Hospital and is an active member of the Lymphoma MDT meeting. She is a member of the Eviq lymphoma committee.",
+      "Dr Liu speaks Mandarin in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Staff Specialist in Haematology, St. George Public Hospital",
+    "Staff Specialist in Haematology, The Sutherland Hospital"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Specialist",
+        "appointments": [
+          {
+            "display_name": "Haematologist - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "haematologist-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/haematologist-dr-qin-liu/a/haematologist-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Haematologist - Follow Up Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "haematologist-follow-up-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/haematologist-dr-qin-liu/a/haematologist-follow-up-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/haematologist-dr-qin-liu"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Qin Liu",
+    "jobTitle": "Haematologist",
+    "medicalSpecialty": "Haematologist",
+    "url": "https://smsg.au/dr-qin-liu/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001660715"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    }
+  ]
+}

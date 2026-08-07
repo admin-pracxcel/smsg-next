@@ -1,0 +1,276 @@
+{
+  "slug": "dr-clarissa-susanto",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-clarissa-susanto",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 48
+  },
+  "identity": {
+    "full_name": "Dr Clarissa Susanto",
+    "first_name": "Clarissa",
+    "last_name": "Susanto",
+    "salutation": "Dr",
+    "short_ref": "Dr Susanto",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, BSc(Med), FRACP",
+    "post_nominal_dotted": "MBBS · BSc(Med) · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Respiratory & Sleep Medicine Physician",
+    "medical_specialty": "Respiratory & Sleep Medicine Physician",
+    "ahpra": "MED0001191927",
+    "abn": "26 748 680 976"
+  },
+  "languages": [
+    "English",
+    "Bahasa"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": null,
+      "combined": "Wednesday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Clarissa%20Susanto.webp",
+    "alt": "Portrait of Dr Clarissa Susanto, MBBS, BSc(Med), FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Clarissa Susanto | MBBS, BSc(Med), FRACP | Earlwood and Bangor | SMSG",
+    "description": "Dr Clarissa Susanto (MBBS, BSc(Med), FRACP) practises at Earlwood Medical Centre and Bangor Medical Centre. Respiratory & Sleep Medicine Physician. English, Bahasa.",
+    "canonical": "https://smsg.au/dr-clarissa-susanto/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre and Bangor Medical Centre premises. Respiratory & Sleep Medicine Physician. Consulting in English, Bahasa.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/resp-sleep-med-physician-dr-clarissa-susanto"
+      },
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/resp-sleep-med-physician-dr-clarissa-susanto"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Susanto",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Susanto.",
+    "paragraphs": [
+      "Dr Clarissa Susanto is a Respiratory and Sleep Medicine Physician (ABN: 26 748 680 976) (MED0001191927) consulting at the Earlwood & Bangor centres.",
+      "Dr Clarissa Susanto is a graduate of the University of New South Wales and completed her specialist training at Prince of Wales Hospital and Concord Hospital. She is a Staff Specialist in the Department of Respiratory and Sleep Medicine at Sutherland Hospital and is also accredited at Hurstville Private Hospital.",
+      "She has broad experience in the management of general and complex respiratory and sleep conditions, including airways disease, lung cancer, pulmonary infections, interstitial lung diseases, respiratory failure, sleep-related breathing disorders, hypersomnolence disorders, parasomnias and insomnias. She is accredited in performing bronchoscopy procedures including Endobronchial Ultrasound (EBUS).",
+      "Dr Susanto believes in the importance of open communication and education to ensure that the patient fully understands their condition and their treatment plan. Patient involvement in the management plan is pivotal to her delivery of care.",
+      "Dr Susanto is fluent in Bahasa Indonesia in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Co-Director of Physician Education, St George & Sutherland Basic Physicians Training Network",
+    "Local Clinical Examiner, Royal Australasian College of Physicians (RACP)",
+    "Staff Specialist in Respiratory Medicine, The Sutherland Hospital",
+    "Bronchoscopy & EBUS Proceduralist, Hurstville Private Hospital"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Respiratory Clinic",
+        "appointments": [
+          {
+            "display_name": "Respiratory & Sleep Med Physician - Sleep Medicine Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "respiratory-sleep-med-physician-sleep-medicine-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/resp-sleep-med-physician-dr-clarissa-susanto/a/respiratory-sleep-med-physician-sleep-medicine-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          },
+          {
+            "display_name": "Respiratory & Sleep Med Physician - Respiratory Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "respiratory-sleep-med-physician-respiratory-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/resp-sleep-med-physician-dr-clarissa-susanto/a/respiratory-sleep-med-physician-respiratory-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Specialist",
+        "appointments": [
+          {
+            "display_name": "Respiratory & Sleep Med Physician - Sleep Medicine Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "respiratory-sleep-med-physician-sleep-medicine-initial-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/resp-sleep-med-physician-dr-clarissa-susanto/a/respiratory-sleep-med-physician-sleep-medicine-initial-consult"
+            }
+          },
+          {
+            "display_name": "Respiratory & Sleep Med Physician - Respiratory Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "respiratory-sleep-med-physician-respiratory-initial-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/resp-sleep-med-physician-dr-clarissa-susanto/a/respiratory-sleep-med-physician-respiratory-initial-consult"
+            }
+          },
+          {
+            "display_name": "Respiratory & Sleep Med Physician - Follow Up Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "respiratory-sleep-med-physician-follow-up-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/resp-sleep-med-physician-dr-clarissa-susanto/a/respiratory-sleep-med-physician-follow-up-consult"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/resp-sleep-med-physician-dr-clarissa-susanto"
+    },
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/resp-sleep-med-physician-dr-clarissa-susanto"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Clarissa Susanto",
+    "jobTitle": "Respiratory & Sleep Medicine Physician",
+    "medicalSpecialty": "Respiratory & Sleep Medicine Physician",
+    "url": "https://smsg.au/dr-clarissa-susanto/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001191927"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": true,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "slug": "dr-jeremy-do",
+  "page_type": "gp",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": null,
+    "bio_from": "smsg.au (scraped 2026-07-31)",
+    "provider_csv_row": 33
+  },
+  "identity": {
+    "full_name": "Dr Jeremy Do",
+    "first_name": "Jeremy",
+    "last_name": "Do",
+    "salutation": "Dr",
+    "short_ref": "Dr Do",
+    "pronouns": "he/him"
+  },
+  "credentials": {
+    "post_nominal": "MBBS(Hons)",
+    "post_nominal_dotted": "MBBS(Hons)",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Consultant Specialist GP",
+    "medical_specialty": "Consultant Specialist GP",
+    "ahpra": "MED0002334445",
+    "abn": null
+  },
+  "languages": [
+    "English",
+    "Vietnamese"
+  ],
+  "clinics": {
+    "primary": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": "Monday-Friday",
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/GP Reg - Dr Jeremy Do.webp",
+    "alt": "Portrait of Dr Jeremy Do, MBBS(Hons), at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Jeremy Do | MBBS(Hons) | Bangor | SMSG",
+    "description": "Dr Jeremy Do (MBBS(Hons)) practises at Bangor. GP Registrar.",
+    "canonical": "https://smsg.au/dr-jeremy-do/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Bangor Medical Centre premises. GP Registrar.",
+    "ctas": [
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Do",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Do.",
+    "paragraphs": [
+      "Dr Jeremy Do (MED0002334445) completed his medical degree at Monash University in Melbourne. He has worked several hospital in the Central Coast and Westmead before starting his General Practice career. He has particular interests in cardiovascular health, men's health and chronic disease management.",
+      "Outside of work, Jeremy has been a passionate rock climber and boulderer for over a decade."
+    ]
+  },
+  "fellowships": [],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": "bulk_bill",
+    "source_note": "Dr Jeremy Do bulk bills for routine consultations for those with a valid Medicare card. All other practice private fees are applicable."
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "bangor",
+    "categories": [
+      {
+        "category_name": "General Practitioner",
+        "appointments": [
+          {
+            "display_name": "New Patient - Standard Appointment",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "new-patient-standard-appointment",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/new-patient-standard-appointment",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Smoking Cessation Advice",
+        "appointments": [
+          {
+            "display_name": "Lung Cancer Screening Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "lung-cancer-screening-consult",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/lung-cancer-screening-consult",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Flu Vaccine",
+        "appointments": [
+          {
+            "display_name": "Flu Vaccine",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "flu-vaccine",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/flu-vaccine",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Injections",
+        "appointments": [
+          {
+            "display_name": "Adult Injection / Immunisation",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "adult-injection-immunisation",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/adult-injection-immunisation",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Wound Management",
+        "appointments": [
+          {
+            "display_name": "Dressing / Wound Care",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "dressing-wound-care",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/dressing-wound-care",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Iron Infusion",
+        "appointments": [
+          {
+            "display_name": "Iron Deficiency Assessment and Planning",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "iron-deficiency-assessment-and-planning",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/iron-deficiency-assessment-and-planning",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Mental Health",
+        "appointments": [
+          {
+            "display_name": "Mental Health Care Plan - 30mins",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/mental-health-care-plan-30mins-private-fees-apply",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Mental Health Care Plan - 1 hr",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/mental-health-care-plan-1-hr-private-fees-apply",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Women's Health",
+        "appointments": [
+          {
+            "display_name": "Cervical Screening / Womens Health Check",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "cervical-screening-womens-health-check-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/cervical-screening-womens-health-check-private-fees-apply",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Menopause/Perimenopause Focused Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "menopauseperimenopause-focused-consult",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/menopauseperimenopause-focused-consult",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Procedure",
+        "appointments": [
+          {
+            "display_name": "Procedural Pre-Consult",
+            "tag": "Private fees may apply",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "procedural-pre-consult-private-fees-may-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/procedural-pre-consult-private-fees-may-apply",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Ear Syringing",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "ear-syringing-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/ear-syringing-private-fees-apply",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Spirometry",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "spirometry-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/spirometry-private-fees-apply",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Suturing / Wound Repair",
+            "tag": "Private fees",
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "suturing-wound-repair-private-fees-apply",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/suturing-wound-repair-private-fees-apply",
+              "sanssouci": null
+            }
+          }
+        ]
+      },
+      {
+        "category_name": "Worker's Compensation",
+        "appointments": [
+          {
+            "display_name": "Workers Compensation/CTP Initial - Physical Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "workers-compensationctp-initial-physical-injury",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/workers-compensationctp-initial-physical-injury",
+              "sanssouci": null
+            }
+          },
+          {
+            "display_name": "Workers Compensation/CTP Initial - Psychological Injury",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "bangor": "workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do/a/workers-compensationctp-initial-psychological-injury",
+              "sanssouci": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dr-jeremy-do"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "General Practitioners",
+      "sub": "See the full team directory",
+      "href": "../team/general-practitioners/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "General Practitioners",
+    "team_type_href": "../team/general-practitioners/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Jeremy Do",
+    "jobTitle": "Consultant Specialist GP",
+    "medicalSpecialty": "Consultant Specialist GP",
+    "url": "https://smsg.au/dr-jeremy-do/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0002334445"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": [
+      "Provider CSV row lists Sans Souci; live smsg.au (scraped 2026-07-31) lists Bangor. Live smsg.au wins."
+    ]
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Margaret Colwell",
+      "sub": "GP · Bangor · English",
+      "href": "../dr-margaret-colwell/"
+    },
+    {
+      "name": "Dr Mina Hanna",
+      "sub": "GP · Bangor · English, Arabic",
+      "href": "../dr-mina-hanna/"
+    },
+    {
+      "name": "Dr Daniel Ibrahim",
+      "sub": "GP · Bangor · English, Arabic",
+      "href": "../dr-daniel-ibrahim/"
+    },
+    {
+      "name": "Dr David Ibrahim",
+      "sub": "GP · Bangor · English, Arabic",
+      "href": "../dr-david-ibrahim/"
+    }
+  ]
+}

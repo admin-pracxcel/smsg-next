@@ -1,0 +1,157 @@
+{
+  "slug": "dr-danae-lim",
+  "page_type": "cosmetic",
+  "has_online_booking": false,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/dr-danae-lim",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 66
+  },
+  "identity": {
+    "full_name": "Dr Danae Lim",
+    "first_name": "Danae",
+    "last_name": "Lim",
+    "salutation": "Dr",
+    "short_ref": "Dr Lim",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, BMedSc, MAMSC(LM)",
+    "post_nominal_dotted": "MBBS · BMedSc · MAMSC(LM)",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Registered Medical Practitioner, practicing cosmetic procedures",
+    "medical_specialty": "Registered Medical Practitioner, practicing cosmetic procedures",
+    "ahpra": "MED0001188982",
+    "abn": "94 636 002 640"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Dr%20Danae%20Lim.webp",
+    "alt": "Portrait of Dr Danae Lim, MBBS, BMedSc, MAMSC(LM), at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Danae Lim | MBBS, BMedSc, MAMSC(LM) | Earlwood | SMSG",
+    "description": "Dr Danae Lim (MBBS, BMedSc, MAMSC(LM)) practises at Earlwood Medical Centre. Registered Medical Practitioner, practicing cosmetic procedures.",
+    "canonical": "https://smsg.au/dr-danae-lim/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Registered Medical Practitioner, practicing cosmetic procedures.",
+    "ctas": []
+  },
+  "bio": {
+    "eyebrow": "About Dr Lim",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Lim.",
+    "paragraphs": [
+      "Dr Danae Lim (Dr Chee Zhen Lim) is a cosmetic doctor (ABN: 94 636 002 640) (MED0001188982) with particular interest in Asian aesthetics. She has more than 20 years of clinical experience and is a graduate of the University of Sydney, first training with the Hunter New England Area Health Service, later moving on to the Greater Southern Area Health Service as an emergency medical officer before undergoing extensive training in cosmetic medicine.",
+      "Passionate about studying the natural beauty of individuals, Dr Lim enjoys full consultation regarding the ageing processes, skincare and the use of aesthetic medical modalities, including but not limited to energy-based devices, contouring procedures and thread lifts, performing all treatments personally. Another of Dr Lim's area of interest is non-surgical hair regrowth treatments and she is an experienced consultant for the Bioscor International Group. She has also released her own line of cosmedical products with added interest in fragrance development.",
+      "Dr Lim is a patient advocate, holds regular educational seminars on public health issues and cosmetic medicine, and was the co-founder of the Australasian College of Asian Aesthetics. She is also a Bioscor Trusted Partner for hair regrowth treatments, a consultant speaker for Galderma Australia, Candela Medical, Crown Aesthetics/Advanced Skin Technology respectively, an accredited MINT thread lift national trainer, national trainer for Inmode Australia and a clinical trial investigator.",
+      "​"
+    ]
+  },
+  "fellowships": [
+    "Registered Medical Practitioner, practicing cosmetic procedures",
+    "Member, Australian Society of Cosmetic Chemists (ASCC)",
+    "National Trainer, MINT Thread Lift & InMode Australia",
+    "Consultant Speaker, Galderma Australia, Candela Medical, Crown Aesthetics & Advanced Skin Technology",
+    "Trusted Partner, Bioscor International Group"
+  ],
+  "awards": [
+    "Physician of Excellence Award Recipient, InMode Australia"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "phone_only",
+    "phone_fallback": {
+      "clinic_label": "Earlwood Medical Centre",
+      "phone": "02 9554 7788"
+    },
+    "default_clinic": "earlwood",
+    "categories": []
+  },
+  "footer_book_links": [],
+  "related_care": [
+    {
+      "label": "Earlwood Medical Centre",
+      "sub": "Location · Where Dr Lim consults",
+      "href": "../earlwood-medical-centre/"
+    },
+    {
+      "label": "The Team",
+      "sub": "See the full SMSG team directory",
+      "href": "../team/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "The Team",
+    "team_type_href": "../team/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Danae Lim",
+    "jobTitle": "Registered Medical Practitioner, practicing cosmetic procedures",
+    "medicalSpecialty": "Registered Medical Practitioner, practicing cosmetic procedures",
+    "url": "https://smsg.au/dr-danae-lim/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001188982"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Angela Smalios",
+      "sub": "Speech Therapy Assistant, TLC · Earlwood · English",
+      "href": "../angela-smalios/"
+    },
+    {
+      "name": "Antonio Kim",
+      "sub": "Physiotherapist · Earlwood · English, Korean",
+      "href": "../antonio-kim/"
+    },
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    }
+  ]
+}

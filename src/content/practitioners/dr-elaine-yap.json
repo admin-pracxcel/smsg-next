@@ -1,0 +1,195 @@
+{
+  "slug": "dr-elaine-yap",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-elaine-yap",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 52
+  },
+  "identity": {
+    "full_name": "Dr Elaine Yap",
+    "first_name": "Elaine",
+    "last_name": "Yap",
+    "salutation": "Dr",
+    "short_ref": "Dr Yap",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, MRCP, FRACP",
+    "post_nominal_dotted": "MBBS · MRCP · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Geriatrician & General Medicine Physician",
+    "medical_specialty": "Geriatrician & General Medicine Physician",
+    "ahpra": "MED0001679060",
+    "abn": "15 258 877 647"
+  },
+  "languages": [
+    "English",
+    "Mandarin"
+  ],
+  "clinics": {
+    "primary": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": "Tuesday",
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Elaine%20Yap.webp",
+    "alt": "Portrait of Dr Elaine Yap, MBBS, MRCP, FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Elaine Yap | MBBS, MRCP, FRACP | Bangor | SMSG",
+    "description": "Dr Elaine Yap (MBBS, MRCP, FRACP) practises at Bangor Medical Centre. Geriatrician & General Medicine Physician. English, Mandarin.",
+    "canonical": "https://smsg.au/dr-elaine-yap/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Bangor Medical Centre premises. Geriatrician & General Medicine Physician. Consulting in English, Mandarin.",
+    "ctas": [
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/geriatrician-dr-elaine-yap"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Yap",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Yap.",
+    "paragraphs": [
+      "Dr Elaine Yap is a Geriatrician (ABN: 15 258 877 647) (MED0001679060) consulting at the Bangor centre.",
+      "She completed her medical degree (MBBS) in Newcastle upon Tyne, UK, and successfully obtained her Membership of the Royal College of Physicians (MRCP UK) by examination before moving to Australia, where she achieved her Fellowship of the Royal Australasian College of Physicians (FRACP). Dr Yap brings a wealth of international experience, having practiced across leading health networks in the United Kingdom, Melbourne, and New South Wales,including extensive work within the Northern and Wessex Deaneries in the UK, as well as Monash Health, Sutherland, St George, Wollongong, Concord, and Royal Prince Alfred Hospitals in Australia.",
+      "Dr Yap has a dedicated interest in academic medicine. She served as a clinical Research Fellow at the University of Sydney from 2017 to 2018, and her geriatric research project was highly honoured with the prestigious Tony Broe Award for Best Oral Presentation in 2021.",
+      "Her clinical expertise spans cognitive disorders, dementia management, healthy ageing, falls prevention, bone health, and polypharmacy. Grounded in a holistic and compassionate approach to aged care, Dr Yap is deeply committed to maintaining independence and optimizing the quality of life for older adults. Outside of her practice, she enjoys running, hiking, cooking, painting, and dancing, alongside raising her two young children.",
+      "Dr Yap speaks Mandarin, Cantonese, and Malay in addition to English."
+    ]
+  },
+  "fellowships": [],
+  "awards": [
+    "Tony Broe Award for Best Oral Presentation in Geriatric Research 2021"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "bangor",
+    "categories": [
+      {
+        "category_name": "Specialist",
+        "appointments": [
+          {
+            "display_name": "Geriatrician - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "geriatrician-initial-consult"
+            },
+            "clinic_urls": {
+              "earlwood": null,
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/geriatrician-dr-elaine-yap/a/geriatrician-initial-consult"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/geriatrician-dr-elaine-yap"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Elaine Yap",
+    "jobTitle": "Geriatrician & General Medicine Physician",
+    "medicalSpecialty": "Geriatrician & General Medicine Physician",
+    "url": "https://smsg.au/dr-elaine-yap/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001679060"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Amanda Khor",
+      "sub": "Geriatrician & General Medicine Physician · Bangor, Sans Souci · English",
+      "href": "../dr-amanda-khor/"
+    },
+    {
+      "name": "Dr Christina Lai",
+      "sub": "Nephrologist & General Medicine Physician · Bangor · English, Cantonese, Mandarin",
+      "href": "../dr-christina-lai/"
+    },
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    }
+  ]
+}

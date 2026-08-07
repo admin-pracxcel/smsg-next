@@ -1,0 +1,1019 @@
+[
+  {
+    "slug": "angela-smalios",
+    "full_name": "Angela Smalios",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": false,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "antonio-kim",
+    "full_name": "Antonio Kim",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "cara-chillari",
+    "full_name": "Cara Chillari",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "kidsdr",
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "daniel-tran",
+    "full_name": "Daniel Tran",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "kidsdr"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-ahmad-shafiq-suffian-wee",
+    "full_name": "Dr Ahmad Shafiq Suffian Wee",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "smsg.au",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-aleeza-fatima",
+    "full_name": "Dr Aleeza Fatima",
+    "page_type": "gp",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": false,
+    "bio_source": "missing",
+    "portrait_placeholder": true,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-alexander-lewis",
+    "full_name": "Dr Alexander Lewis",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-amanda-khor",
+    "full_name": "Dr Amanda Khor",
+    "page_type": "specialist",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor",
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-anita-ma",
+    "full_name": "Dr Anita Ma",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "missing",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-avishka-perera",
+    "full_name": "Dr Avishka Perera",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-aye-thidar-htun",
+    "full_name": "Dr Aye Thidar Htun",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": false,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia",
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-chelsie-tan",
+    "full_name": "Dr Chelsie Tan",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-christina-lai",
+    "full_name": "Dr Christina Lai",
+    "page_type": "specialist",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-clarissa-susanto",
+    "full_name": "Dr Clarissa Susanto",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-damian-lees",
+    "full_name": "Dr Damian Lees",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": false,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia",
+      "kidsdr"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-danae-lim",
+    "full_name": "Dr Danae Lim",
+    "page_type": "cosmetic",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": false,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "sydneycosmedic"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-danforn-lim",
+    "full_name": "Adj Prof Danforn Lim",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-daniel-ibrahim",
+    "full_name": "Dr Daniel Ibrahim",
+    "page_type": "gp",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-daniel-wong",
+    "full_name": "Dr Daniel L Wong",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-david-ibrahim",
+    "full_name": "Dr David Ibrahim",
+    "page_type": "gp",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-duncan-loi",
+    "full_name": "Dr Duncan Loi",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-eileen-phuah",
+    "full_name": "Dr Eileen Phuah",
+    "page_type": "gp",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-elaine-yap",
+    "full_name": "Dr Elaine Yap",
+    "page_type": "specialist",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-grant-yuan",
+    "full_name": "Dr Grant Yuan",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "clarion"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-hongxia-rena-zhang",
+    "full_name": "Dr Hongxia Rena Zhang",
+    "page_type": "gp",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "has_online_booking": false,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-huiling-li",
+    "full_name": "Dr Huiling Li",
+    "page_type": "gp",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-jaison-mangahis",
+    "full_name": "Dr Jaison Mangahis",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "clarion"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-james-marsh",
+    "full_name": "Dr James Marsh",
+    "page_type": "gp",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-janet-hung",
+    "full_name": "Dr Janet Hung",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": false,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-jennifer-law",
+    "full_name": "Dr Jennifer Law",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": false,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-jenny-yun",
+    "full_name": "Dr Jenny Yun",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "clarion",
+      "sydneycosmedic"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-jeremy-do",
+    "full_name": "Dr Jeremy Do",
+    "page_type": "gp",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "has_online_booking": false,
+    "bio_source": "missing",
+    "portrait_placeholder": true,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-john-george",
+    "full_name": "Dr John George",
+    "page_type": "gp",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-jonathan-moore",
+    "full_name": "Dr Jonathan Moore",
+    "page_type": "gp",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "clarion"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-laura-phua",
+    "full_name": "Dr Laura Phua",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-lisa-cheng",
+    "full_name": "Dr Lisa Cheng",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-margaret-colwell",
+    "full_name": "Dr Margaret Colwell",
+    "page_type": "gp",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "aurora",
+      "clarion"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-mark-kazzi",
+    "full_name": "Dr Mark Kazzi",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-marloes-nordkamp",
+    "full_name": "Dr Marloes Nordkamp",
+    "page_type": "gp",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci",
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "aurora",
+      "clarion"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-martina-popelkova",
+    "full_name": "Dr Martina Popelkova",
+    "page_type": "specialist",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci",
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia",
+      "kidsdr"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-masuma-parveen",
+    "full_name": "Dr Masuma Parveen",
+    "page_type": "gp",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": true,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-michelle-yeung",
+    "full_name": "Dr Michelle Yeung",
+    "page_type": "gp",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-mike-zhang",
+    "full_name": "Dr Mike Zhang",
+    "page_type": "gp",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-mina-hanna",
+    "full_name": "Dr Mina Hanna",
+    "page_type": "gp",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-moe-moe-thinn",
+    "full_name": "Dr Moe Moe Thinn",
+    "page_type": "specialist",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia",
+      "kidsdr"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-qin-liu",
+    "full_name": "Dr Qin Liu",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-sam-gerami",
+    "full_name": "Dr Sam Gerami",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-seo-lung-ling",
+    "full_name": "Dr Seo Lung Ling",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-shahzadi-nadia",
+    "full_name": "Dr Shahzadi Nadia",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-shaleen-sivanes",
+    "full_name": "Dr Shaleen Sivanes",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-tao-geng",
+    "full_name": "Dr Tao Geng",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "aurora",
+      "clarion"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-teresa-chang",
+    "full_name": "Dr Teresa Chang",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-thaw-dar-htet",
+    "full_name": "Dr Thaw Dar Htet",
+    "page_type": "specialist",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "excelsia",
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-therese-pham",
+    "full_name": "Dr Therese Pham",
+    "page_type": "gp",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": false,
+    "bio_source": "missing",
+    "portrait_placeholder": true,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-veronica-pham",
+    "full_name": "Dr Veronica Pham",
+    "page_type": "gp",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor"
+    ],
+    "has_online_booking": false,
+    "bio_source": "missing",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "dr-yashodha-ediriweera",
+    "full_name": "Dr Yashodha Ediriweera",
+    "page_type": "gp",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "hana-rizk",
+    "full_name": "Hana Rizk",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": true,
+    "sub_brand_keys": [
+      "kidsdr"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "julia-magrin",
+    "full_name": "Julia Magrin",
+    "page_type": "allied_health",
+    "primary_clinic": "bangor",
+    "consulting_at": [
+      "bangor",
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "kidsdr"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "nita-hidalgo",
+    "full_name": "Nita Hidalgo",
+    "page_type": "allied_health",
+    "primary_clinic": "sanssouci",
+    "consulting_at": [
+      "sanssouci",
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "sandra-bell",
+    "full_name": "Sandra Bell",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "kidsdr",
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "sarah-impellizzeri",
+    "full_name": "Sarah Impellizzeri",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "kidsdr"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "stephanie-yu",
+    "full_name": "Wing Tung Stephanie Yu",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "kidsdr"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "sue-boursiani",
+    "full_name": "Sue Boursiani",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "kidsdr",
+      "aurora"
+    ],
+    "folder_exists": true
+  },
+  {
+    "slug": "thao-tammy-trang",
+    "full_name": "Thao Tammy Trang",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [],
+    "folder_exists": true
+  },
+  {
+    "slug": "xue-fei-fay-yu",
+    "full_name": "Dr Xue-Fei Fay Yu PhD",
+    "page_type": "allied_health",
+    "primary_clinic": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "bangor"
+    ],
+    "has_online_booking": true,
+    "bio_source": "practitioner-bios.md",
+    "portrait_placeholder": false,
+    "sub_brand_keys": [
+      "kidsdr"
+    ],
+    "folder_exists": true
+  }
+]

@@ -1,0 +1,211 @@
+{
+  "slug": "xue-fei-fay-yu",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/dr-xf-fay-yu-phd",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 55
+  },
+  "identity": {
+    "full_name": "Dr Xue-Fei Fay Yu PhD",
+    "first_name": "Xue-Fei",
+    "last_name": "Yu",
+    "salutation": "Dr",
+    "short_ref": "Dr Yu",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "PhD, MNutriDiet, BSc(Food, Nutrition & Health)",
+    "post_nominal_dotted": "PhD · MNutriDiet · BSc(Food · Nutrition & Health)",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Dietitian",
+    "medical_specialty": "Dietitian",
+    "ahpra": null,
+    "abn": "86 354 545 090"
+  },
+  "languages": [
+    "English",
+    "Cantonese",
+    "Mandarin"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "bangor"
+    ],
+    "consulting_days": {
+      "earlwood": "Saturday",
+      "bangor": "Monday",
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Dr%20Fay%20Yu.webp",
+    "alt": "Portrait of Dr Xue-Fei Fay Yu PhD, PhD, MNutriDiet, BSc(Food, Nutrition & Health), at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Xue-Fei Fay Yu PhD | PhD, MNutriDiet, BSc(Food, Nutrition & Health) | Earlwood and Bangor | SMSG",
+    "description": "Dr Xue-Fei Fay Yu PhD (PhD, MNutriDiet, BSc(Food, Nutrition & Health)) practises at Earlwood Medical Centre and Bangor Medical Centre. Dietitian. English, Cantonese, Mandarin.",
+    "canonical": "https://smsg.au/xue-fei-fay-yu/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre and Bangor Medical Centre premises. Dietitian. Consulting in English, Cantonese, Mandarin.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dietitian-dr-fay-yu"
+      },
+      {
+        "label": "Book at Bangor",
+        "clinic": "bangor",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dietitian-dr-fay-yu"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Yu",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Yu.",
+    "paragraphs": [
+      "Dr Xue-Fei (Fay) Yu is an Accredited Practising Dietitian and Accredited Nutritionist (ABN: 86 354 545 090) (APD010136) consulting at the Earlwood and Bangor centres. She holds a Bachelor of Science, a Master of Nutrition and Dietetics, and a PhD. Dr Fay brings extensive clinical experience across both community organizations and private practice settings throughout the ACT and New South Wales.",
+      "Backed by a strong background in academic research, Dr Fay has spearheaded randomised controlled trials evaluating the therapeutic role of vitamin D supplementation in diabetes management. She specialises in the dietary management of complex chronic diseases,including diabetes, hyperlipidaemia (high cholesterol), cardiovascular conditions, and obesity,while offering expert guidance in food allergies, intolerances, coeliac disease, and life-stage nutrition for youth, pregnant women, and the elderly.",
+      "Alongside her clinical practice, Dr Fay actively serves on the Advisory Council of the Australasian Medical Services Coalition. She is deeply passionate about empowering adults and children alike to achieve optimal health and self-belief through accessible, delicious nutrition and sustainable exercise.",
+      "She speaks fluent Cantonese and Mandarin in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Accredited Practising Dietitian",
+    "Member, Dietitians Australia",
+    "Advisory Council Member, Australasian Medical Services Coalition"
+  ],
+  "awards": [
+    "SMSG Foundation Excellence Awardee 2023",
+    "SMSG Ten-Year Triumph Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Dietitian",
+        "appointments": [
+          {
+            "display_name": "Dietitian - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "dietitian-initial-consult",
+              "sanssouci": null,
+              "bangor": "dietitian-initial-consult"
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dietitian-dr-fay-yu/a/dietitian-initial-consult",
+              "sanssouci": null,
+              "bangor": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dietitian-dr-fay-yu/a/dietitian-initial-consult"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/dietitian-dr-fay-yu"
+    },
+    {
+      "clinic_label": "Bangor Medical Centre",
+      "sub": "Shop 6, 121 Yala Road · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/d/dietitian-dr-fay-yu"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Kids' Dr",
+      "sub": "Sub-brand · Paediatric care for infants through adolescents",
+      "href": "../kids-dr/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Dr Xue-Fei Fay Yu PhD",
+    "jobTitle": "Dietitian",
+    "medicalSpecialty": "Dietitian",
+    "url": "https://smsg.au/xue-fei-fay-yu/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Bangor Medical Centre"
+      }
+    ]
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Hana Rizk",
+      "sub": "Podiatrist · Earlwood · English, Arabic",
+      "href": "../hana-rizk/"
+    },
+    {
+      "name": "Sandra Bell",
+      "sub": "Psychologist · Earlwood · English",
+      "href": "../sandra-bell/"
+    }
+  ]
+}

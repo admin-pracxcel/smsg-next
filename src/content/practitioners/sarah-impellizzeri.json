@@ -1,0 +1,187 @@
+{
+  "slug": "sarah-impellizzeri",
+  "page_type": "allied_health",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/sarah-impellizzeri",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 53
+  },
+  "identity": {
+    "full_name": "Sarah Impellizzeri",
+    "first_name": "Sarah",
+    "last_name": "Impellizzeri",
+    "salutation": null,
+    "short_ref": "Sarah Impellizzeri",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MSLP, BSpHLSc, BSc(BioMedSc)",
+    "post_nominal_dotted": "MSLP · BSpHLSc · BSc(BioMedSc)",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Speech Pathologist",
+    "medical_specialty": "Speech Pathologist",
+    "ahpra": null,
+    "abn": "25 903 691 228"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": "Saturday",
+      "bangor": null,
+      "sanssouci": "Friday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "kidsdr",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Kids' Dr",
+      "href": "../kids-dr/",
+      "dot_color": "#E7B36B",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Sarah%20impellizzeri.webp",
+    "alt": "Portrait of Sarah Impellizzeri, MSLP, BSpHLSc, BSc(BioMedSc), at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Sarah Impellizzeri | MSLP, BSpHLSc, BSc(BioMedSc) | Earlwood and Sans Souci | SMSG",
+    "description": "Sarah Impellizzeri (MSLP, BSpHLSc, BSc(BioMedSc)) practises at Earlwood Medical Centre and Sans Souci Doctors. Speech Pathologist. English.",
+    "canonical": "https://smsg.au/sarah-impellizzeri/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre and Sans Souci Doctors premises. Speech Pathologist.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/speech-pathologist-sarah-impellizzeri"
+      },
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/speech-pathologist-sarah-impellizzeri"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Sarah Impellizzeri",
+    "heading_lead": "Meet",
+    "heading_warm": "Sarah Impellizzeri.",
+    "paragraphs": [
+      "Sarah Impellizzeri is a Certified Practising Speech Pathologist (ABN: 25 903 691 228) (SPA Member No: 34286) who holds a Master of Speech-Language Pathology from the University of Sydney, alongside degrees in Speech, Hearing, and Language Sciences, and Biomedical Science. As a Medicare-registered practitioner and a dedicated member of Speech Pathology Australia, she provides evidence-based care that meets the highest professional standards.",
+      "Sarah's primary focus is on paediatric speech pathology, working with children across a wide range of speech and language needs, including articulation, language development, fluency, and social communication. While her main expertise lies in working with children, Sarah also has experience supporting adults with complex conditions such as neurodegenerative conditions.",
+      "Sarah believes in a person-centred approach to therapy, understanding the importance of tailoring her treatment to the unique needs of each individual. She takes the time to listen, understand, and collaborate with families and care teams to create an individualised treatment plan that empowers her clients to build their communication skills and achieve their goals.",
+      "Outside of her clinical work, Sarah also works as a Project Manager / Product Owner in the development of a clinical reporting software, and volunteers as Executive Assistant for a not-for-profit organisation focused on child protection. In her personal time, she enjoys cooking and spending time with her dog, Barkley."
+    ]
+  },
+  "fellowships": [
+    "Certified Practising Speech Pathologist, Speech Pathology Australia"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "doctor_level_only",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [],
+    "note": "Automed CSV rows for this practitioner have DOCTOR_LEVEL_ONLY status: no per-appointment breakdown available. Downstream template should skip the booking accordion and use the hero CTAs + footer_book_links as the only booking entry points."
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/speech-pathologist-sarah-impellizzeri"
+    },
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/speech-pathologist-sarah-impellizzeri"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Kids' Dr",
+      "sub": "Sub-brand · Paediatric care for infants through adolescents",
+      "href": "../kids-dr/"
+    },
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Sarah Impellizzeri",
+    "jobTitle": "Speech Pathologist",
+    "medicalSpecialty": "Speech Pathologist",
+    "url": "https://smsg.au/sarah-impellizzeri/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ]
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": [],
+    "doctor_level_only_booking": true,
+    "bio_boilerplate_removed": "Removed \"committed to providing\" phrase (banned corporate register)."
+  },
+  "also_on_team": [
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    },
+    {
+      "name": "Dr Xue-Fei Fay Yu PhD",
+      "sub": "Dietitian · Earlwood, Bangor · English, Cantonese, Mandarin",
+      "href": "../xue-fei-fay-yu/"
+    },
+    {
+      "name": "Hana Rizk",
+      "sub": "Podiatrist · Earlwood · English, Arabic",
+      "href": "../hana-rizk/"
+    }
+  ]
+}

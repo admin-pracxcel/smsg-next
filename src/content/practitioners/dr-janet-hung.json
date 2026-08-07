@@ -1,0 +1,146 @@
+{
+  "slug": "dr-janet-hung",
+  "page_type": "allied_health",
+  "has_online_booking": false,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/allied-health-other-medical-providers/dr-janet-hung",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 54
+  },
+  "identity": {
+    "full_name": "Dr Janet Hung",
+    "first_name": "Janet",
+    "last_name": "Hung",
+    "salutation": "Dr",
+    "short_ref": "Dr Hung",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "DBA(Hons), MAMSC",
+    "post_nominal_dotted": "DBA(Hons) · MAMSC",
+    "practitioner_type": "External partner (Synergy Medical)",
+    "role_title": "Director, Synergy Medical",
+    "medical_specialty": "Director, Synergy Medical",
+    "ahpra": null,
+    "abn": "38 223 718 679"
+  },
+  "languages": [
+    "English"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [],
+  "cross_brand_pills": [],
+  "portrait": {
+    "src": "../website-images/practitioner-images/AHP%20-%20Dr%20Janet%20Hung.webp",
+    "alt": "Portrait of Dr Janet Hung, DBA(Hons), MAMSC, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Janet Hung | DBA(Hons), MAMSC | Earlwood | SMSG",
+    "description": "Dr Janet Hung (DBA(Hons), MAMSC) practises at Earlwood Medical Centre. Director, Synergy Medical. English.",
+    "canonical": "https://smsg.au/dr-janet-hung/"
+  },
+  "hero": {
+    "lede": "External partner (Synergy Medical). Consulting from SMSG premises. Director, Synergy Medical.",
+    "ctas": []
+  },
+  "bio": {
+    "eyebrow": "About Dr Hung",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Hung.",
+    "paragraphs": [
+      "Dr Janet Hung is a Registered Occupational Therapist and the Director of Synergy Medical (ABN: 38 223 718 679), a government-approved vocational rehabilitation provider specializing in worker's compensation, motor vehicle accidents, and personal injury claims.",
+      "The organisation is dedicated to delivering high-quality, cost-effective injury management solutions, enabling clients to swiftly and securely resume their work and daily activities.",
+      "By focusing on a client-centred, highly individualized approach, Dr Hung and her team actively collaborate with other healthcare providers to eliminate barriers hindering a client's recovery and ensure a seamless transition back to daily life.",
+      "Comprehensive Services Offered: \\- Workplace & Functional Assessments – Comprehensive evaluations to determine physical capacities and ergonomic safety. \\- Vocational Assessments & Job Seeking Support – Tailored strategies to facilitate career transitions and re-entry into the workforce. \\- Case Management Services – Person-centred support coordinating closely with medical practitioners and insurance bodies.",
+      "Specialised Clinical Frameworks: \\- WorkCover Claims: Synergy Medical excels in managing workplace injury claims, assigning seasoned rehabilitation specialists to handle initial needs assessments, medical conferencing, and ergonomic evaluations. \\- Third-Party Insurance (CTP): For individuals injured in motor vehicle accidents, Dr Hung designs personalized recovery strategies, actively collaborating with CTP insurers, doctors, and claimants to restore pre-injury lifestyles. \\- NDIS Registered Services: As an NDIS provider, the team delivers various registered services, including Specialist Positive Behaviour Support, assist products for personal care/safety, and custom prostheses and orthoses. \\- Work Health & Safety (WHS) Solutions: Offering expert consultations, virtual audits (via Zoom or FaceTime), and on-site workplace risk assessments to help businesses comply with the latest regulations and foster safer work environments.",
+      "Comprising a diverse team of multilingual health professionals,including accredited occupational therapists, rehabilitation counsellors, exercise physiologists, physiotherapists, and social workers,Synergy Medical remains deeply committed to the health, compliance, and long-term recovery of every client.",
+      "​"
+    ]
+  },
+  "fellowships": [
+    "Registered Occupational Therapist",
+    "Director, Synergy Medical",
+    "SIRA Accredited & NDIS Service Provider"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "phone_only",
+    "phone_fallback": {
+      "clinic_label": "Earlwood Medical Centre",
+      "phone": "02 9554 7788"
+    },
+    "default_clinic": "earlwood",
+    "categories": []
+  },
+  "footer_book_links": [],
+  "related_care": [
+    {
+      "label": "Allied Health",
+      "sub": "See the full team directory",
+      "href": "../team/allied-health/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Allied Health",
+    "team_type_href": "../team/allied-health/"
+  },
+  "json_ld": {
+    "type": "MedicalProfessional",
+    "name": "Dr Janet Hung",
+    "jobTitle": "Director, Synergy Medical",
+    "medicalSpecialty": "Director, Synergy Medical",
+    "url": "https://smsg.au/dr-janet-hung/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ]
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Angela Smalios",
+      "sub": "Speech Therapy Assistant, TLC · Earlwood · English",
+      "href": "../angela-smalios/"
+    },
+    {
+      "name": "Antonio Kim",
+      "sub": "Physiotherapist · Earlwood · English, Korean",
+      "href": "../antonio-kim/"
+    },
+    {
+      "name": "Cara Chillari",
+      "sub": "Psychologist · Earlwood, Sans Souci · English",
+      "href": "../cara-chillari/"
+    },
+    {
+      "name": "Daniel Tran",
+      "sub": "Physiotherapist · Earlwood, Sans Souci · English, Vietnamese",
+      "href": "../daniel-tran/"
+    }
+  ]
+}

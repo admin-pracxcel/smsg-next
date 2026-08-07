@@ -1,0 +1,199 @@
+{
+  "slug": "dr-shahzadi-nadia",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-shahzadi-nadia",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 45
+  },
+  "identity": {
+    "full_name": "Dr Shahzadi Nadia",
+    "first_name": "Shahzadi",
+    "last_name": "Nadia",
+    "salutation": "Dr",
+    "short_ref": "Dr Nadia",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, DCH, CertPeriMed, CertEM, FRACP",
+    "post_nominal_dotted": "MBBS · DCH · CertPeriMed · CertEM · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Geriatrician & General Medicine Physician",
+    "medical_specialty": "Geriatrician & General Medicine Physician",
+    "ahpra": "MED0001679060",
+    "abn": "28 508 048 507"
+  },
+  "languages": [
+    "English",
+    "Pashto",
+    "Urdu",
+    "Hindi"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood"
+    ],
+    "consulting_days": {
+      "earlwood": "Friday",
+      "bangor": null,
+      "sanssouci": null
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Shazadi%20Nadia.webp",
+    "alt": "Portrait of Dr Shahzadi Nadia, MBBS, DCH, CertPeriMed, CertEM, FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Shahzadi Nadia | MBBS, DCH, CertPeriMed, CertEM, FRACP | Earlwood | SMSG",
+    "description": "Dr Shahzadi Nadia (MBBS, DCH, CertPeriMed, CertEM, FRACP) practises at Earlwood Medical Centre. Geriatrician & General Medicine Physician. English, Pashto, Urdu, Hindi.",
+    "canonical": "https://smsg.au/dr-shahzadi-nadia/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre premises. Geriatrician & General Medicine Physician. Consulting in English, Pashto, Urdu, Hindi.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/physician-geriatrician-dr-shahzadi-nadia"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Nadia",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Nadia.",
+    "paragraphs": [
+      "Dr Shahzadi Nadia is a Geriatrician & General Medicine Physician (ABN: 28 508 048 507 ) (MED0001679060) consulting at the Earlwood centre.",
+      "Dr Shahzadi Nadia is a compassionate and dedicated consultant geriatrician committed to improving the health, independence, and quality of life of older adults. With extensive experience in both hospital and community settings, she provides holistic, evidence-based, and person-centred care that addresses the complex needs of ageing patients.",
+      "Dr Nadia completed her specialist training in Geriatric Medicine through the Illawarra Shoalhaven Local Health District and the St George Network (including Kareena Private Hospital). She is a Fellow of the Royal Australasian College of Physicians (FRACP) and holds postgraduate qualifications in Perioperative Medicine from Monash University/Alfred Hospital and in Emergency Medicine from the Australasian College for Emergency Medicine (ACEM).",
+      "Clinical Interests: \\- Frailty and functional independence \\- Fall prevention \\- Osteoporosis management \\- Dementia & delirium care \\- Depression in older adults \\- Perioperative medicine and palliative care",
+      "Dr Nadia speaks Pashto, Urdu & Hindi in addition to English."
+    ]
+  },
+  "fellowships": [
+    "Fellow of the Royal Australasian College of Physicians (FRACP)",
+    "Postgraduate qualifications in Perioperative Medicine (Monash University / Alfred Hospital)",
+    "Postgraduate qualifications in Emergency Medicine (ACEM)"
+  ],
+  "awards": [],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Geriatrics",
+        "appointments": [
+          {
+            "display_name": "Geriatrician - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "geriatrician-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/physician-geriatrician-dr-shahzadi-nadia/a/geriatrician-initial-consult",
+              "sanssouci": null,
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/physician-geriatrician-dr-shahzadi-nadia"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Shahzadi Nadia",
+    "jobTitle": "Geriatrician & General Medicine Physician",
+    "medicalSpecialty": "Geriatrician & General Medicine Physician",
+    "url": "https://smsg.au/dr-shahzadi-nadia/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001679060"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": false,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Teresa Chang",
+      "sub": "Nephrologist · Earlwood, Sans Souci · English, Mandarin",
+      "href": "../dr-teresa-chang/"
+    },
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "slug": "dr-teresa-chang",
+  "page_type": "specialist",
+  "has_online_booking": true,
+  "sources": {
+    "smsg_url": "https://www.smsg.au/specialists/dr-teresa-chang",
+    "bio_from": "practitioner-bios.md",
+    "provider_csv_row": 36
+  },
+  "identity": {
+    "full_name": "Dr Teresa Chang",
+    "first_name": "Teresa",
+    "last_name": "Chang",
+    "salutation": "Dr",
+    "short_ref": "Dr Chang",
+    "pronouns": "she/her"
+  },
+  "credentials": {
+    "post_nominal": "MBBS, BSc(Med), GCertClinEpid, ISN Cert. Nephropathology, FRACP",
+    "post_nominal_dotted": "MBBS · BSc(Med) · GCertClinEpid · ISN Cert. Nephropathology · FRACP",
+    "practitioner_type": "Independent practitioner",
+    "role_title": "Nephrologist",
+    "medical_specialty": "Nephrologist",
+    "ahpra": "MED0001629238",
+    "abn": "60 604 293 083"
+  },
+  "languages": [
+    "English",
+    "Mandarin"
+  ],
+  "clinics": {
+    "primary": "earlwood",
+    "consulting_at": [
+      "earlwood",
+      "sanssouci"
+    ],
+    "consulting_days": {
+      "earlwood": null,
+      "bangor": null,
+      "sanssouci": null,
+      "combined": "Monday"
+    }
+  },
+  "sub_brands": [
+    {
+      "key": "excelsia",
+      "role": "primary"
+    }
+  ],
+  "cross_brand_pills": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "href": "../excelsia-specialist-centre/",
+      "dot_color": "#6E1F3A",
+      "role": "primary"
+    }
+  ],
+  "portrait": {
+    "src": "../website-images/practitioner-images/Spec%20-%20Dr%20Teresa%20Chang.webp",
+    "alt": "Portrait of Dr Teresa Chang, MBBS, BSc(Med), GCertClinEpid, ISN Cert. Nephropathology, FRACP, at SMSG",
+    "is_placeholder": false
+  },
+  "seo": {
+    "title": "Dr Teresa Chang | MBBS, BSc(Med), GCertClinEpid, ISN Cert. Nephropathology, FRACP | Earlwood and Sans Souci | SMSG",
+    "description": "Dr Teresa Chang (MBBS, BSc(Med), GCertClinEpid, ISN Cert. Nephropathology, FRACP) practises at Earlwood Medical Centre and Sans Souci Doctors. Nephrologist. English, Mandarin.",
+    "canonical": "https://smsg.au/dr-teresa-chang/"
+  },
+  "hero": {
+    "lede": "Independent practitioner working from our Earlwood Medical Centre and Sans Souci Doctors premises. Nephrologist. Consulting in English, Mandarin.",
+    "ctas": [
+      {
+        "label": "Book at Earlwood",
+        "clinic": "earlwood",
+        "style": "primary",
+        "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/nephrologist-dr-teresa-chang"
+      },
+      {
+        "label": "Book at Sans Souci",
+        "clinic": "sanssouci",
+        "style": "outline",
+        "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/nephrologist-dr-teresa-chang"
+      }
+    ]
+  },
+  "bio": {
+    "eyebrow": "About Dr Chang",
+    "heading_lead": "Meet",
+    "heading_warm": "Dr Chang.",
+    "paragraphs": [
+      "Dr Teresa Chang is a Nephrologist (ABN: 60 604 293 083) (MED0001629238) consulting at the Earlwood / Sans Souci centres.",
+      "Dr Teresa Chang graduated from the University of New South Wales (UNSW). She completed a Certificate in Nephropathology through the International Society of Nephrology and Graduate Certificate in Clinical Epidemiology through the University of Newcastle. Dr Teresa has done her physician training at St Vincent’s Hospital and her specialist training at St George, Wollongong, Prince of Wales, Royal North Shore and Liverpool Hospitals.",
+      "Dr Teresa is a Fellow of Royal Australian College of Physicians and a Member of the Australia New Zealand Society of Nephrology. Her areas of interest include chronic kidney disease and its complications, diabetic nephropathy, geriatric kidney disease, glomerular diseases, proteinuria, haematuria, hypertension investigations and management, ambulatory blood pressure monitoring, fluid and electrolyte management.",
+      "Dr Teresa's treatment plans are tailored and individualised and she maintains close communication with the patients and their primary care providers."
+    ]
+  },
+  "fellowships": [
+    "Senior Staff Specialist in Nephrology, Wollongong Hospital",
+    "Member, ANZ Society of Nephrology"
+  ],
+  "awards": [
+    "SMSG Doctor of the Year Awardee 2024",
+    "SMSG Half-Decade Dedication Awardee 2024"
+  ],
+  "additional_roles": [],
+  "billing": {
+    "policy": null,
+    "source_note": null
+  },
+  "booking": {
+    "mode": "online",
+    "phone_fallback": null,
+    "default_clinic": "earlwood",
+    "categories": [
+      {
+        "category_name": "Specialist",
+        "appointments": [
+          {
+            "display_name": "Nephrologist - Initial Consult",
+            "tag": null,
+            "clinic_slugs": {
+              "earlwood": "nephrologist-initial-consult",
+              "sanssouci": "nephrologist-initial-consult",
+              "bangor": null
+            },
+            "clinic_urls": {
+              "earlwood": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/nephrologist-dr-teresa-chang/a/nephrologist-initial-consult",
+              "sanssouci": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/nephrologist-dr-teresa-chang/a/nephrologist-initial-consult",
+              "bangor": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "footer_book_links": [
+    {
+      "clinic_label": "Earlwood Medical Centre",
+      "sub": "352-354 Homer Street · Mon-Sat",
+      "href": "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/d/nephrologist-dr-teresa-chang"
+    },
+    {
+      "clinic_label": "Sans Souci Doctors",
+      "sub": "39 Campbell Street · Mon-Fri",
+      "href": "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/d/nephrologist-dr-teresa-chang"
+    }
+  ],
+  "related_care": [
+    {
+      "label": "Excelsia Specialist Centre",
+      "sub": "Sub-brand · Consultant specialists across ten specialties",
+      "href": "../excelsia-specialist-centre/"
+    },
+    {
+      "label": "Specialists",
+      "sub": "See the full team directory",
+      "href": "../team/specialists/"
+    }
+  ],
+  "breadcrumb": {
+    "team_type_label": "Specialists",
+    "team_type_href": "../team/specialist-physicians-surgeons/"
+  },
+  "json_ld": {
+    "type": "Physician",
+    "name": "Dr Teresa Chang",
+    "jobTitle": "Nephrologist",
+    "medicalSpecialty": "Nephrologist",
+    "url": "https://smsg.au/dr-teresa-chang/",
+    "workLocation": [
+      {
+        "type": "MedicalClinic",
+        "name": "Earlwood Medical Centre"
+      },
+      {
+        "type": "MedicalClinic",
+        "name": "Sans Souci Doctors"
+      }
+    ],
+    "identifier": {
+      "type": "PropertyValue",
+      "propertyID": "AHPRA",
+      "value": "MED0001629238"
+    }
+  },
+  "flags": {
+    "bio_missing": false,
+    "portrait_placeholder": false,
+    "consulting_days_needs_split": true,
+    "no_bookings_but_expected": false,
+    "review_cross_brand_pills": null,
+    "roster_vs_bio_mismatches": []
+  },
+  "also_on_team": [
+    {
+      "name": "Dr Thaw Dar Htet",
+      "sub": "Endocrinologist · Earlwood, Bangor · English, Burmese",
+      "href": "../dr-thaw-dar-htet/"
+    },
+    {
+      "name": "Dr Aye Thidar Htun",
+      "sub": "Obstetrician & Gynaecologist · Earlwood · English, Burmese",
+      "href": "../dr-aye-thidar-htun/"
+    },
+    {
+      "name": "Dr Jennifer Law",
+      "sub": "Cardiologist · Earlwood · English, Cantonese",
+      "href": "../dr-jennifer-law/"
+    },
+    {
+      "name": "Dr Damian Lees",
+      "sub": "General Paediatrician · Earlwood · English",
+      "href": "../dr-damian-lees/"
+    }
+  ]
+}
