@@ -18,6 +18,17 @@ export const metadata: Metadata = {
   icons: {
     icon: "/website-images/smsg-favicon.webp",
   },
+  // Pre-launch: block indexing sitewide. Flip to `index: true, follow: true`
+  // (and update src/app/robots.ts) when Sim greenlights launch.
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: {
+      index: false,
+      follow: false,
+      noimageindex: true,
+    },
+  },
 };
 
 export const viewport: Viewport = {
