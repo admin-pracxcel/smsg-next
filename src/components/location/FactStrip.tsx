@@ -12,10 +12,16 @@ export interface Fact {
   note: string;
 }
 
-export function FactStrip({ facts }: { facts: [Fact, Fact, Fact, Fact] }) {
+export function FactStrip({ facts }: { facts: Fact[] }) {
+  const cols =
+    facts.length <= 2
+      ? "md:grid-cols-2"
+      : facts.length === 3
+      ? "md:grid-cols-3"
+      : "md:grid-cols-4";
   return (
     <div className="fact-strip">
-      <div className="max-w-[1360px] mx-auto grid grid-cols-2 md:grid-cols-4 w-full">
+      <div className={`max-w-[1360px] mx-auto grid grid-cols-2 ${cols} w-full`}>
         {facts.map((f) => (
           <div className="fact-cell" key={f.label}>
             <div className="allcaps text-ink-3">{f.label}</div>

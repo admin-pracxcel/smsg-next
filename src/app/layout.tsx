@@ -6,6 +6,7 @@ import { HeaderContainer } from "@/components/HeaderContainer";
 import { SiteFooter } from "@/components/SiteFooter";
 import { RevealOnScroll } from "@/components/RevealOnScroll";
 import { PageLoader } from "@/components/PageLoader";
+import { FloatingContactButton } from "@/components/FloatingContactButton";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://smsg.au"),
@@ -70,6 +71,7 @@ export default function RootLayout({
         </HeaderContainer>
         <main>{children}</main>
         <SiteFooter />
+        <FloatingContactButton />
         <RevealOnScroll />
         <PageLoader />
       </body>

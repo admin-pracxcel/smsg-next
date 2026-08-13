@@ -17,14 +17,13 @@ import {
   EditorialLink,
 } from "@/components/location/LocationFeesAndAfterHours";
 import { LocationContact } from "@/components/location/LocationContact";
-import { LocationDarkBookCTA } from "@/components/location/LocationDarkBookCTA";
 import { buildEarlwoodSchema } from "./schema";
 
 export const metadata: Metadata = {
   title:
     "Earlwood Medical Centre | Family GPs, Specialists and Saturday Appointments | SMSG",
   description:
-    "Family GPs, visiting specialists, allied health and Saturday centres at 352-354 Homer Street Earlwood. Sixteen GPs and thirteen specialists across ten disciplines.",
+    "Family GPs, visiting specialists, allied health and Saturday centres at 352-354 Homer Street Earlwood.",
 };
 
 const EARLWOOD = "earlwood" as const;
@@ -57,7 +56,7 @@ export default function EarlwoodPage() {
         eyebrowLocation="Location · Earlwood 2206"
         titleLead="Earlwood"
         titleItalic="Medical Centre."
-        lede="Family medicine, visiting specialists and allied health, at the corner of Homer Street where our practice was founded in 2014."
+        lede="Family medicine, visiting specialists and allied health, at the heart of Earlwood, Homer Street where our practice was founded in 2014."
         hoursLines={["Mon-Fri 9am-6pm", "Sat 9am-3pm · Sun closed"]}
         phoneDisplay={PHONE_DISPLAY}
         phoneTel={PHONE_TEL}
@@ -74,19 +73,19 @@ export default function EarlwoodPage() {
       <FactStrip
         facts={[
           {
-            label: "GPs on site",
-            value: "15",
-            note: "Consultant specialist GPs and specialist GPs",
+            label: "Founded",
+            value: "2014",
+            note: "The founding centre of the SMSG group",
           },
           {
-            label: "Visiting specialists",
-            value: "13",
-            note: "Across ten specialties, no city trip needed",
+            label: "Days open",
+            value: "6",
+            note: "Only SMSG centre that opens Saturdays",
           },
           {
             label: "Saturday hours",
             value: "9 - 3",
-            note: "Only SMSG centre that opens Saturdays",
+            note: "Weekend appointments book quickly",
           },
           {
             label: "Languages spoken",
@@ -101,7 +100,7 @@ export default function EarlwoodPage() {
         headingLead="The whole of SMSG,"
         headingItalic="in one address."
         paragraphs={[
-          "Earlwood Medical Centre was founded in 2014 as the founding centre of the SMSG group, and has been part of Sydney's health landscape ever since. It's our flagship location and where you'll find the widest cross-section of the SMSG team, with sixteen GPs, thirteen visiting specialists, and the full allied health group all consulting under one roof.",
+          "Earlwood Medical Centre was founded in 2014 as the founding centre of the SMSG group, and has been part of Sydney's health landscape ever since. It's our flagship location and where you'll find the widest cross-section of the SMSG team, with family GPs, visiting specialists, and the full allied health group all consulting under one roof.",
           "Whether you're new to the area, looking for a doctor who speaks your language, or after specialist care you'd otherwise need a hospital referral for, Earlwood is the location that can most likely accommodate. It's also the only SMSG centre that opens on Saturdays, which makes it the go-to for anyone working weekdays, for parents catching up on children's appointments outside of school hours, and for patients coming in from further afield.",
         ]}
         bgImageSrc="/website-images/corridor-warm.webp"
@@ -160,20 +159,20 @@ export default function EarlwoodPage() {
         sectionEyebrow="Our team at Earlwood"
         sectionHeadingLead="Family GPs, specialists, allied health,"
         sectionHeadingItalic="coordinated."
-        sectionSupporting="Sixteen family GPs, thirteen visiting specialists and a full allied health team, all working from the same file so your care stays joined up."
+        sectionSupporting="Family GPs, visiting specialists and a full allied health team, all working from the same file so your care stays joined up."
         sectionImageSrc="/website-images/treatment-room.webp"
         sectionImageAlt="A treatment room inside Earlwood Medical Centre"
         gps={{
           eyebrow: "Family GPs",
-          headingLead: "Fifteen doctors,",
-          headingItalic: "eleven languages.",
+          headingLead: "Family GPs,",
+          headingItalic: "many languages.",
           body: "Our GPs at Earlwood are independent practitioners delivering their own care from the Earlwood premises, and several cross-book with Bangor or Sans Souci, so if your regular clinician isn't in on the day, someone else on the team will have your file open and ready. Between them the team speaks Mandarin, Cantonese, Shanghainese, Malay, Arabic, Dutch, Danish, Sinhalese, Taiwanese, Hokkien and Hakka. If you'd prefer a GP who speaks your first language, our reception team can help you match.",
         }}
         specialists={{
           eyebrow: "Visiting specialists",
           headingLead: "Excelsia physicians and surgeons,",
           headingItalic: "no city trip.",
-          body: "Earlwood is our largest specialist hub. Excelsia consultants hold visiting centres with us across nine disciplines: cardiology, endocrinology, gastroenterology, geriatrics, haematology, nephrology, respiratory and sleep medicine, paediatric medicine, and general medicine. You can see many specialists here without needing a hospital referral queue or a trip into the city, and a GP referral is required for the Medicare rebate on specialist consultations.",
+          body: "Earlwood is our largest specialist hub. Excelsia consultants hold visiting centres with us across a range of multi-disciplinary specialties. You can see many specialists here without needing a hospital referral queue or a trip into the city, and a GP referral is required for the Medicare rebate on specialist consultations.",
           ctaLabel: "See Excelsia Specialist Centre",
           ctaHref: routes.subBrand("excelsia"),
         }}
@@ -193,44 +192,33 @@ export default function EarlwoodPage() {
         headingLead="The full SMSG service list,"
         headingItalic="under one roof."
         supporting="Because Earlwood houses the widest team, it also runs the widest set of services. Everything below is available in-centre without a hospital referral."
+        layout="list"
         tiles={[
-          {
-            num: "01",
-            title: "General practice",
-            body: "Preventive health, chronic disease management, mental health care plans, health assessments, immunisations, and travel medicine.",
-          },
+          { num: "01", title: "General practice" },
           {
             num: "02",
-            title: "Women's health",
-            body: "Aurora Women & Babies Health is largest at Earlwood. Antenatal shared care, contraception, menopause care, cervical screening and breastfeeding support.",
+            title: "Women's health · Aurora",
             href: routes.subBrand("aurora"),
-            linkLabel: "Explore Aurora",
           },
           {
             num: "03",
             title: "Procedures and minor surgery",
-            body: "Iron infusions, hormonal IUD insertion and removal, contraceptive implants, cryotherapy, skin excisions and cyst removal, performed in-centre.",
             href: "/iud-hormonal-implant/",
-            linkLabel: "IUD service page",
           },
           {
             num: "04",
-            title: "Cosmetic and aesthetic care",
-            body: "Sydney Cosmedic operates out of Earlwood, with medically-qualified practitioners delivering non-surgical cosmetic care.",
+            title: "Cosmetic and aesthetic care · Sydney Cosmedic",
             href: routes.subBrand("sydneycosmedic"),
-            linkLabel: "Sydney Cosmedic",
           },
           {
             num: "05",
-            title: "Kids' health",
-            body: "Kids' Dr practitioners including psychology and psychometric assessment providers consult at Earlwood.",
+            title: "Kids' health · Kids' Dr",
             href: routes.subBrand("kidsdr"),
-            linkLabel: "Kids' Dr",
           },
+          { num: "06", title: "Diagnostics on-site" },
           {
-            num: "06",
-            title: "Diagnostics on-site",
-            body: "ECG and spirometry, on-site pathology collection, audiology and hearing tests, and echocardiogram appointments.",
+            num: "07",
+            title: "Rehabilitation, in affiliation with Synergy Medical",
           },
         ]}
       />
@@ -239,7 +227,7 @@ export default function EarlwoodPage() {
         eyebrow="Booking, prescriptions and referrals"
         headingLead="Every practitioner here"
         headingItalic="is bookable online."
-        supporting="Repeat prescriptions and referral renewals can be requested through Automed without needing to come in. Most are turned around within one business day."
+        supporting="Repeat prescriptions and referral renewals can be requested through Automed without needing to come in. Most are turned around within three business days."
         actions={[
           {
             title: "Book an appointment",
@@ -248,7 +236,7 @@ export default function EarlwoodPage() {
           },
           {
             title: "Request a repeat prescription",
-            sub: "One business day turnaround",
+            sub: "Three business days turnaround",
             href: "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/scripts/loc/4",
           },
           {
@@ -264,7 +252,7 @@ export default function EarlwoodPage() {
           },
           {
             title: "Register with MyMedicare",
-            sub: "Voluntary Medicare enrolment",
+            sub: "Voluntary MyMedicare enrolment",
             href: external.automedRegistration(EARLWOOD),
           },
           {
@@ -379,16 +367,12 @@ export default function EarlwoodPage() {
           href: GOOGLE_MAP_URL,
           summary: "4.6 stars · 713 reviews",
         }}
-      />
-
-      <LocationDarkBookCTA
-        clinic={EARLWOOD}
-        eyebrow="Book at Earlwood"
-        headingLead="Ready when"
-        headingItalic="you are."
-        supporting={`Online booking is the fastest way. If the appointment type you need isn't visible online, call the reception team on ${PHONE_DISPLAY} and they'll fit you in.`}
-        phoneDisplay={PHONE_DISPLAY}
-        phoneTel={PHONE_TEL}
+        bookOverride={{
+          eyebrow: "Book at Earlwood",
+          headingLead: "Ready when",
+          headingItalic: "you are.",
+          supporting: `Online booking is the fastest way. If the appointment type you need isn't visible online, call the reception team on ${PHONE_DISPLAY} and they'll fit you in.`,
+        }}
       />
 
       <JsonLd data={schema as unknown as Parameters<typeof JsonLd>[0]["data"]} />

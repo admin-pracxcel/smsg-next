@@ -14,15 +14,15 @@ export function buildIudSchema() {
         name: "Hormonal IUD and Contraceptive Implant",
         url: "https://smsg.au/iud-hormonal-implant",
         description:
-          "Long-acting reversible contraception (LARC), including hormonal IUD and contraceptive implant, inserted and removed by experienced female GPs at Aurora Women & Babies Health within SMSG.",
+          "Long-acting reversible contraception (LARC), including hormonal IUD and contraceptive implant, inserted and removed by experienced Aurora GPs within SMSG.",
         procedureType: "https://schema.org/TherapeuticProcedure",
         bodyLocation: ["Uterus", "Upper arm subdermal"],
         howPerformed:
-          "In-clinic procedure by an experienced female GP, with a preliminary consultation and follow-up review.",
+          "In-clinic procedure by an experienced GP, with a preliminary consultation.",
         preparation:
           "Preliminary consultation with your GP to discuss history, options, and timing within the cycle.",
         followup:
-          "Short review appointment scheduled a few weeks after insertion.",
+          "Optional short review after insertion, arranged if you'd like one.",
         provider: [
           {
             "@type": "Physician",
@@ -33,7 +33,6 @@ export function buildIudSchema() {
           { "@type": "Physician", name: "Dr Chelsie Tan", medicalSpecialty: "GeneralPractice" },
           { "@type": "Physician", name: "Dr Huiling Li", medicalSpecialty: "GeneralPractice" },
           { "@type": "Physician", name: "Dr Marloes Nordkamp", medicalSpecialty: "GeneralPractice" },
-          { "@type": "Physician", name: "Dr Margaret Colwell", medicalSpecialty: "GeneralPractice" },
           { "@type": "Physician", name: "Dr Jonathan Moore", medicalSpecialty: "GeneralPractice" },
         ],
       },

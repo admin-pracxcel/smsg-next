@@ -40,35 +40,35 @@ const DIRECTORY_TILES = [
     title: "General Practitioners",
     href: routes.teamGPs(),
     body: "Family medicine, women's health, skin cancer medicine, cosmetic medicine. Consultant Specialist GPs and Specialist GPs across all three centres.",
-    count: "33 GPs",
+    count: "Family GPs",
   },
   {
     num: "02",
     title: "Specialist Physicians & Surgeons",
     href: routes.teamSpecialists(),
     body: "Consultant physicians and surgeons across cardiology, endocrinology, gastroenterology, geriatrics, haematology, nephrology, respiratory and sleep medicine, paediatric medicine, and general medicine.",
-    count: "17 specialists · 9 specialties",
+    count: "Consultant specialists",
   },
   {
     num: "03",
     title: "Allied Health",
     href: routes.teamAlliedHealth(),
     body: "Psychology, counselling, physiotherapy, dietetics, speech pathology and podiatry across SMSG. External partners for occupational therapy and visiting speech therapy.",
-    count: "12 practitioners · 2 partners",
+    count: "Allied practitioners and partners",
   },
   {
     num: "04",
     title: "Nursing Team",
     href: routes.teamNursing(),
     body: "Registered Nurses and Endorsed Enrolled Nurses supporting immunisations, treatment room procedures, chronic disease management, ECG, spirometry and clinical coordination.",
-    count: "7 nurses",
+    count: "Registered and enrolled nurses",
   },
   {
     num: "05",
     title: "Administration",
     href: routes.teamAdmin(),
     body: "Patient Support Officers and Supervisors across SMSG, the first point of contact for bookings, referrals, prescription renewals, results and everything in between.",
-    count: "19 across SMSG",
+    count: "Across SMSG",
   },
 ] as const;
 
@@ -133,41 +133,6 @@ export default function TeamHubPage() {
                 </Link>
               </div>
 
-              <div className="mt-10 grid grid-cols-3 gap-6 md:gap-8 max-w-[520px]">
-                <div className="border-t border-black/15 pt-4">
-                  <div
-                    className="font-display text-[26px] md:text-[30px] leading-none"
-                    style={{ fontVariationSettings: "'SOFT' 100,'opsz' 60" }}
-                  >
-                    62
-                  </div>
-                  <div className="text-[11.5px] text-ink-3 uppercase tracking-[0.14em] mt-2">
-                    Clinicians
-                  </div>
-                </div>
-                <div className="border-t border-black/15 pt-4">
-                  <div
-                    className="font-display text-[26px] md:text-[30px] leading-none"
-                    style={{ fontVariationSettings: "'SOFT' 100,'opsz' 60" }}
-                  >
-                    7
-                  </div>
-                  <div className="text-[11.5px] text-ink-3 uppercase tracking-[0.14em] mt-2">
-                    Nurses
-                  </div>
-                </div>
-                <div className="border-t border-black/15 pt-4">
-                  <div
-                    className="font-display text-[26px] md:text-[30px] leading-none"
-                    style={{ fontVariationSettings: "'SOFT' 100,'opsz' 60" }}
-                  >
-                    19
-                  </div>
-                  <div className="text-[11.5px] text-ink-3 uppercase tracking-[0.14em] mt-2">
-                    Administration
-                  </div>
-                </div>
-              </div>
             </div>
 
             <div className="md:col-span-5 order-1 md:order-2">
@@ -182,7 +147,7 @@ export default function TeamHubPage() {
                   priority
                 />
                 <div className="plate-under">
-                  <span>62 clinicians</span>
+                  <span>Independent practitioners</span>
                   <span className="sep" />
                   <span>Three centres</span>
                 </div>

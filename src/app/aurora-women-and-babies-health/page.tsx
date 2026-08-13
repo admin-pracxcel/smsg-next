@@ -47,7 +47,7 @@ export default function AuroraHubPage() {
         subBrand="aurora"
         eyebrow="Where Aurora operates"
         headingLead="Aurora runs"
-        headingItalic="across all three centres."
+        headingItalic="across our SMSG centres."
         supporting="The mix of services and clinicians varies slightly by location. Here's what's on offer where."
         bullets={{
           earlwood: [
@@ -55,20 +55,20 @@ export default function AuroraHubPage() {
             "Hormonal IUD and implant insertion and removal",
             "Antenatal shared care with all partner hospitals",
             "Saturday appointments available",
-            "Visiting speech pathology through TLC (Saturdays), tenant service delivered on site",
+            "Visiting speech pathology",
           ],
           bangor: [
-            "Aurora GPs including Dr Margaret Colwell and Dr Tao Geng",
+            "Aurora GPs",
             "Antenatal shared care",
             "Hormonal IUD and implant insertion and removal",
             "Dr Thaw Dar Htet for endocrine consultations",
           ],
           sanssouci: [
-            "Aurora GPs including Dr Huiling Li and Dr Michelle Yeung",
+            "Aurora GPs",
             "Antenatal shared care",
             "Cervical screening",
             "IUD removal on-site; for new insertions, visit our Earlwood or Bangor Aurora doctors",
-            "Visiting speech pathology through TLC, tenant service delivered on site",
+            "Visiting speech pathology",
           ],
         }}
         addressByClinic={{

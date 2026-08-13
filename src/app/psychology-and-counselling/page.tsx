@@ -22,7 +22,7 @@ const MOSS_DOT_STYLE: React.CSSProperties = { background: "var(--moss)" };
 const GLANCE_ROWS = [
   { label: "Suitable for", value: "Adults, adolescents and children" },
   { label: "Duration", value: "45 to 60 minutes per session" },
-  { label: "Team", value: "Three psychologists, a clinical psychologist, two counsellors" },
+  { label: "Team", value: "Psychologists and counsellors" },
   { label: "Referral", value: "Not required; MHCP needed for Medicare rebate" },
 ];
 
@@ -57,7 +57,7 @@ const LOCATIONS = [
 const BOOK_TILES: Array<{ key: "earlwood" | "bangor" | "sanssouci"; sub: string }> = [
   { key: "earlwood", sub: "Full psychology and counselling team on-site" },
   { key: "bangor", sub: "Counselling with Julia Magrin" },
-  { key: "sanssouci", sub: "Psychology and counselling across four practitioners" },
+  { key: "sanssouci", sub: "Psychology and counselling on-site" },
 ];
 
 export default function PsychologyAndCounsellingPage() {
@@ -84,9 +84,9 @@ export default function PsychologyAndCounsellingPage() {
               <h1 className="font-display h-service max-w-[18ch] mt-6">Psychology and{" "}<span className="italic font-display-warm">counselling.</span></h1>
               <p className="mt-7 lede max-w-[54ch] text-ink-2">
                 Psychology and counselling across all three SMSG centres for
-                adults, adolescents and children. Six practitioners covering a
-                range of therapy modalities. Book on a Mental Health Care Plan
-                for the Medicare rebate, or directly if you prefer.
+                adults, adolescents and children. A team covering a range of
+                therapy modalities. Book on a Mental Health Care Plan for the
+                Medicare rebate, or directly if you prefer.
               </p>
               <div className="mt-9 flex flex-wrap items-center gap-3">
                 <a href="/patient-information/book-online/" className="btn-primary">Book with a practitioner<Arrow /></a>

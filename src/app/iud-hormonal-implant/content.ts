@@ -10,7 +10,7 @@ import type { ClinicKey } from "@/lib/clinics";
 export const IUD_META = {
   title: "Hormonal IUD and Contraceptive Implant | Aurora at SMSG",
   description:
-    "Long-acting reversible contraception inserted and removed by experienced female GPs at Earlwood, Bangor and Sans Souci. Consultation, procedure and follow-up in one place.",
+    "Long-acting reversible contraception inserted and removed by experienced Aurora GPs at Earlwood, Bangor and Sans Souci.",
   canonical: "https://smsg.au/iud-hormonal-implant/",
 };
 
@@ -18,7 +18,7 @@ export const IUD_META = {
 export const GLANCE_ROWS = [
   { label: "Consultation", value: "30 minutes, in person" },
   { label: "Procedure", value: "Insertion or removal, in-centre" },
-  { label: "Follow-up", value: "Review at 4 to 6 weeks" },
+  { label: "Follow-up", value: "As required" },
   { label: "Referral", value: "Not required" },
 ] as const;
 
@@ -76,18 +76,18 @@ export const COMPARE_CARDS: CompareCard[] = [
 export const EXPECT_STEPS = [
   {
     num: "01",
-    title: "Before your appointment",
+    title: "Pre-consultation",
     body: "We book a preliminary consultation, 30 minutes, so we can walk through your history, your questions, and which option is likely to suit you. You don't need to have decided before you come in; part of the appointment is deciding together.",
   },
   {
     num: "02",
-    title: "On the day of the procedure",
+    title: "Procedure",
     body: "For the implant, we book a 30-minute procedure appointment for insertion, replacement or removal. Please bring the implant with you if you're having one inserted or replaced. If you need a prescription first, speak to your GP at the pre-consult. For an IUD, we set aside a longer appointment slot so there's time to settle both before and after. The insertion itself typically takes around 15 minutes. We use local anaesthetic where appropriate and go through the practical details with you first.",
   },
   {
     num: "03",
-    title: "After the procedure",
-    body: "For an IUD, some cramping and light spotting for the first few days is common. For the implant, you might have a small bruise on your arm that settles within a week. We book a short review at 4 to 6 weeks to check that everything has settled and answer any questions that have come up since.",
+    title: "Follow-ups as required",
+    body: "For an IUD, some cramping and light spotting for the first few days is common. For the implant, you might have a small bruise on your arm that settles within a week. If you'd like a review to check things have settled or to talk through any questions that have come up, we can arrange one; it isn't a required step.",
   },
 ] as const;
 
@@ -102,17 +102,17 @@ export const WHERE_CARDS: WhereCard[] = [
   {
     clinic: "earlwood",
     badges: ["Insertion", "Removal"],
-    body: "Full Aurora team including our obstetrician-gynaecologist. Insertions with Dr Tao Geng and other Aurora GPs.",
+    body: "Full Aurora team including our obstetrician-gynaecologist. Insertion and removal with Dr Tao Geng and other Aurora GPs.",
   },
   {
     clinic: "bangor",
     badges: ["Insertion", "Removal"],
-    body: "Insertions with Dr Tao Geng and Dr Chelsie Tan. Aurora GPs including Dr Margaret Colwell also consult here for contraception discussions.",
+    body: "Insertion and removal with Dr Tao Geng and Dr Chelsie Tan, alongside other Aurora GPs consulting here for contraception discussions.",
   },
   {
     clinic: "sanssouci",
-    badges: ["Removal only"],
-    body: "Removal available on-site with Dr Huiling Li, Dr Jonathan Moore or Dr Marloes Nordkamp. For new insertions, we book you in with Dr Tao Geng at Earlwood or Bangor, or Dr Chelsie Tan at Bangor.",
+    badges: ["Insertion", "Removal"],
+    body: "Insertion and removal available on-site with our Aurora GPs.",
   },
 ];
 
@@ -131,42 +131,22 @@ export type IudPractitioner = {
 };
 
 export const IUD_PRACTITIONERS: IudPractitioner[] = [
-  {
-    slug: "dr-tao-geng",
-    role: "Insertion & removal · English, Mandarin, Shanghainese",
-    loc: "Earlwood · Bangor",
-    column: "left",
-  },
-  {
-    slug: "dr-chelsie-tan",
-    role: "Insertion & removal · English, Malay",
-    loc: "Bangor",
-    column: "left",
-  },
-  {
-    slug: "dr-huiling-li",
-    role: "Removal · English, Cantonese, Mandarin, Hakka",
-    loc: "Sans Souci",
-    column: "left",
-  },
-  {
-    slug: "dr-marloes-nordkamp",
-    role: "Removal · English, Dutch, Danish",
-    loc: "Earlwood · Sans Souci",
-    column: "right",
-  },
-  {
-    slug: "dr-margaret-colwell",
-    role: "Contraception consults · Bangor Aurora GP",
-    loc: "Bangor",
-    column: "right",
-  },
-  {
-    slug: "dr-jonathan-moore",
-    role: "Removal · English",
-    loc: "Sans Souci",
-    column: "right",
-  },
+  { slug: "dr-lisa-cheng", role: "Implant insertion & removal · English, Cantonese, Basic Mandarin", loc: "Earlwood", column: "left" },
+  { slug: "dr-yashodha-ediriweera", role: "Implant insertion & removal · English, Sinhalese", loc: "Earlwood", column: "left" },
+  { slug: "dr-tao-geng", role: "IUD & implant insertion & removal · English, Mandarin, Shanghainese", loc: "Earlwood · Bangor", column: "left" },
+  { slug: "dr-anita-ma", role: "Implant insertion & removal · English", loc: "Earlwood", column: "left" },
+  { slug: "dr-marloes-nordkamp", role: "Implant insertion & removal · English, Dutch", loc: "Sans Souci · Earlwood", column: "left" },
+  { slug: "dr-avishka-perera", role: "Implant insertion & removal · English, Sinhalese", loc: "Earlwood", column: "left" },
+  { slug: "dr-chelsie-tan", role: "IUD & implant insertion & removal · English, Malay", loc: "Earlwood", column: "left" },
+  { slug: "dr-jenny-yun", role: "Implant insertion & removal · English, Korean", loc: "Earlwood", column: "left" },
+  { slug: "dr-grant-yuan", role: "Implant insertion & removal · English, Mandarin", loc: "Earlwood", column: "right" },
+  { slug: "dr-therese-pham", role: "IUD & implant, under supervision · English, Vietnamese", loc: "Bangor", column: "right" },
+  { slug: "dr-aleeza-fatima", role: "IUD & implant, under supervision · English, Urdu, Hindi, Punjabi", loc: "Sans Souci", column: "right" },
+  { slug: "dr-huiling-li", role: "IUD removal · Implant insertion & removal · English, Cantonese, Mandarin, Hokkienese", loc: "Sans Souci", column: "right" },
+  { slug: "dr-eileen-phuah", role: "IUD removal · Implant insertion & removal · English, Malay", loc: "Sans Souci", column: "right" },
+  { slug: "dr-michelle-yeung", role: "Implant insertion & removal · English, Mandarin", loc: "Sans Souci", column: "right" },
+  { slug: "dr-john-george", role: "Implant removal · English, Arabic", loc: "Sans Souci", column: "right" },
+  { slug: "dr-jonathan-moore", role: "IUD removal · Implant insertion & removal · English", loc: "Sans Souci", column: "right" },
 ];
 
 /** Fees table rows (kept qualitative per SMSG public-copy rules). */
@@ -174,11 +154,6 @@ export const FEE_ROWS = [
   {
     label: "Preliminary consultation",
     desc: "To discuss options, history and questions",
-    val: "Bulk-billed for eligible patients",
-  },
-  {
-    label: "Follow-up review",
-    desc: "4 to 6 weeks after the procedure",
     val: "Bulk-billed for eligible patients",
   },
   {
@@ -226,5 +201,21 @@ export const FAQ_ITEMS = [
 export const BOOK_SUB: Record<ClinicKey, string> = {
   earlwood: "Insertion & removal · Mon-Sat",
   bangor: "Insertion & removal · Mon-Fri",
-  sanssouci: "Removal only · Mon-Fri",
+  sanssouci: "Insertion & removal · Mon-Fri",
+};
+
+/**
+ * Automed deep-links that pre-select the Implanon / IUD insertion +
+ * removal + Women's Health Check service at each clinic, so the patient
+ * lands on the correct booking flow rather than the clinic doctor list.
+ * Sans Souci URL supplied by client; Earlwood + Bangor constructed from
+ * the same slug pattern against each clinic's base path.
+ */
+export const BOOK_URLS: Record<ClinicKey, string> = {
+  earlwood:
+    "https://automedsystems.com.au/ams/clinics/5308/earlwood-medical-centre-earlwood-2206/doctors/s/contraception",
+  bangor:
+    "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/doctors/s/contraception",
+  sanssouci:
+    "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/doctors/s/contraception",
 };

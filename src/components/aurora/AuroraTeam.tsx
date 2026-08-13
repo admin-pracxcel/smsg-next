@@ -41,9 +41,9 @@ export function AuroraTeam() {
           <div className="md:col-span-8">
             <span className="allcaps text-ink-3">Your Aurora team</span>
             <h2 className="font-display h-section mt-3 max-w-[26ch]">
-              Ten female clinicians,{" "}
+              Meet the Aurora team,{" "}
               <span className="italic font-display-warm">
-                across three centres.
+                across our SMSG centres.
               </span>
             </h2>
           </div>

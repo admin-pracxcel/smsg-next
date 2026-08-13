@@ -166,8 +166,7 @@ export default function ExcelsiaHubPage() {
                   <Arrow />
                 </a>
               </div>
-              <div className="mt-10 grid grid-cols-3 gap-6 md:gap-8 max-w-[520px]">
-                <Stat n="17" label="Consultant specialists" />
+              <div className="mt-10 grid grid-cols-2 gap-6 md:gap-8 max-w-[520px]">
                 <Stat n="9" label="Specialties" />
                 <Stat n="3" label="SMSG centres" />
               </div>
@@ -189,6 +188,15 @@ export default function ExcelsiaHubPage() {
                   <span className="sep" />
                   <span>Sydney</span>
                 </div>
+
+                <div className="plate-photo">
+                  <Image
+                    src="/website-images/earlwood-interior.webp"
+                    alt=""
+                    fill
+                    sizes="(min-width: 768px) 40vw, 100vw"
+                  />
+                </div>
               </div>
             </div>
           </div>
@@ -206,7 +214,7 @@ export default function ExcelsiaHubPage() {
                 <span className="italic font-display-warm">without the wait.</span>
               </h2>
               <div className="mt-8 space-y-3">
-                <IntroBullet>Seventeen consultant physicians and surgeons</IntroBullet>
+                <IntroBullet>Consultant physicians and surgeons</IntroBullet>
                 <IntroBullet>Nine specialties</IntroBullet>
                 <IntroBullet>GP referral required for the Medicare rebate</IntroBullet>
               </div>
@@ -222,7 +230,7 @@ export default function ExcelsiaHubPage() {
               </p>
               <p>
                 Excelsia Specialist Centre is our specialist practice within
-                SMSG. Seventeen consultant physicians and surgeons, most with
+                SMSG. Consultant physicians and surgeons, most with
                 active hospital appointments and academic affiliations, take
                 referrals from GPs inside and outside our group. Nine
                 specialties across cardiology, endocrinology, gastroenterology,
@@ -261,7 +269,7 @@ export default function ExcelsiaHubPage() {
             <div className="md:col-span-8">
               <span className="allcaps text-ink-3">Your Excelsia team</span>
               <h2 className="font-display h-section mt-3 max-w-[26ch]">
-                Seventeen consultant physicians{" "}
+                Consultant physicians{" "}
                 <span className="italic font-display-warm">and surgeons.</span>
               </h2>
             </div>

@@ -19,21 +19,21 @@ export function AuroraIntro() {
                   className="w-1.5 h-1.5 rounded-full"
                   style={{ background: "var(--aurora)" }}
                 />
-                Ten female clinicians
+                Multi-disciplinary Aurora clinicians
               </div>
               <div className="flex items-center gap-3 text-[13.5px] text-ink-2">
                 <span
                   className="w-1.5 h-1.5 rounded-full"
                   style={{ background: "var(--aurora)" }}
                 />
-                Consulting at all three SMSG centres
+                Consulting across our SMSG centres
               </div>
               <div className="flex items-center gap-3 text-[13.5px] text-ink-2">
                 <span
                   className="w-1.5 h-1.5 rounded-full"
                   style={{ background: "var(--aurora)" }}
                 />
-                Shared care with 5 Sydney maternity hospitals
+                Antenatal shared care with Sydney maternity hospitals
               </div>
             </div>
           </div>
@@ -50,7 +50,7 @@ export function AuroraIntro() {
             </p>
             <p>
               Aurora Women &amp; Babies Health is our women&apos;s health team
-              within SMSG. Ten GPs and specialists make up the group, and they
+              within SMSG. GPs and specialists make up the group, and they
               look after women, girls and their babies across every life stage.
               Some of us have particular interests in fertility and
               preconception counselling. Some spend most of the week on

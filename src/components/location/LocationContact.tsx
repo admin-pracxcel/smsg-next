@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { CLINICS, type ClinicKey } from "@/lib/clinics";
+import { external } from "@/lib/routes";
 
 /**
  * LocationContact · reception / fax / email / address tiles plus follow
@@ -58,6 +59,18 @@ export interface LocationContactProps {
     href: string;
     summary: string; // e.g. "4.6 stars · 713 reviews"
   };
+
+  /**
+   * When provided, replaces the left "Contact" column with a "Book at ..."
+   * column: eyebrow + heading + supporting copy + existing-patient booking
+   * card + new-patient registration card. Contact info props are ignored.
+   */
+  bookOverride?: {
+    eyebrow: string;
+    headingLead: string;
+    headingItalic: string;
+    supporting: string;
+  };
 }
 
 export function LocationContact({
@@ -80,6 +93,7 @@ export function LocationContact({
   followHeadingItalic,
   facebook,
   google,
+  bookOverride,
 }: LocationContactProps) {
   const c = CLINICS[clinic];
   return (
@@ -110,69 +124,137 @@ export function LocationContact({
 
         <div className="grid md:grid-cols-12 gap-10 md:gap-14 items-start">
           <div className="md:col-span-7">
-            <span className="allcaps text-ink-3">{contactEyebrow}</span>
-            <h2 className="font-display h-section mt-3 max-w-[20ch]">
-              {contactHeadingLead}{" "}
-              <span className="italic font-display-warm">
-                {contactHeadingItalic}
-              </span>
-            </h2>
+            {bookOverride ? (
+              <>
+                <span className="allcaps text-ink-3">{bookOverride.eyebrow}</span>
+                <h2 className="font-display h-section mt-3 max-w-[20ch]">
+                  {bookOverride.headingLead}{" "}
+                  <span className="italic font-display-warm">
+                    {bookOverride.headingItalic}
+                  </span>
+                </h2>
+                <p className="mt-6 body-lg text-ink-2 max-w-[52ch]">
+                  {bookOverride.supporting}
+                </p>
 
-            <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-4">
-              <div className="info-card">
-                <div className="info-label">Reception</div>
-                <a
-                  href={`tel:${phoneTel}`}
-                  className="font-display text-[26px] mt-1 inline-block hover:text-terra transition"
-                  style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
-                >
-                  {phoneDisplay}
-                </a>
-                <div className="text-[13px] text-ink-3 mt-1">
-                  {phoneHoursNote}
+                <div className="mt-10 grid gap-4">
+                  <a
+                    href={c.automedBase}
+                    target="_blank"
+                    rel="noopener"
+                    className="group flex items-center justify-between gap-4 rounded-[16px] border border-black/10 bg-paper hover:border-ink/25 px-6 py-5 transition"
+                  >
+                    <div>
+                      <div className="allcaps text-ink-3">Existing patient</div>
+                      <div
+                        className="font-display text-[22px] mt-1"
+                        style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
+                      >
+                        Book online with Automed
+                      </div>
+                    </div>
+                    <TileArrow />
+                  </a>
+
+                  <a
+                    href={external.automedRegistration(clinic)}
+                    target="_blank"
+                    rel="noopener"
+                    className="group flex items-center justify-between gap-4 rounded-[16px] border border-black/10 bg-paper hover:border-ink/25 px-6 py-5 transition"
+                  >
+                    <div>
+                      <div className="allcaps text-ink-3">New to SMSG?</div>
+                      <div
+                        className="font-display text-[22px] mt-1"
+                        style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
+                      >
+                        Register as a new patient
+                      </div>
+                    </div>
+                    <TileArrow />
+                  </a>
+
+                  <div className="mt-3 text-[13px] text-ink-3 flex items-center gap-3">
+                    <span>
+                      Prefer to call? Reception on{" "}
+                      <a
+                        href={`tel:${phoneTel}`}
+                        className="underline underline-offset-4 hover:text-terra"
+                      >
+                        {phoneDisplay}
+                      </a>
+                      .
+                    </span>
+                  </div>
                 </div>
-              </div>
-              <div className="info-card">
-                <div className="info-label">Fax</div>
-                <div
-                  className="font-display text-[26px] mt-1"
-                  style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
-                >
-                  {faxDisplay}
+              </>
+            ) : (
+              <>
+                <span className="allcaps text-ink-3">{contactEyebrow}</span>
+                <h2 className="font-display h-section mt-3 max-w-[20ch]">
+                  {contactHeadingLead}{" "}
+                  <span className="italic font-display-warm">
+                    {contactHeadingItalic}
+                  </span>
+                </h2>
+
+                <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  <div className="info-card">
+                    <div className="info-label">Reception</div>
+                    <a
+                      href={`tel:${phoneTel}`}
+                      className="font-display text-[26px] mt-1 inline-block hover:text-terra transition"
+                      style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
+                    >
+                      {phoneDisplay}
+                    </a>
+                    <div className="text-[13px] text-ink-3 mt-1">
+                      {phoneHoursNote}
+                    </div>
+                  </div>
+                  <div className="info-card">
+                    <div className="info-label">Fax</div>
+                    <div
+                      className="font-display text-[26px] mt-1"
+                      style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
+                    >
+                      {faxDisplay}
+                    </div>
+                    <div className="text-[13px] text-ink-3 mt-1">{faxNote}</div>
+                  </div>
+                  <div className="info-card">
+                    <div className="info-label">Email</div>
+                    <a
+                      href={`mailto:${c.email}`}
+                      className="font-display text-[22px] mt-1 inline-block hover:text-terra transition break-all"
+                      style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
+                    >
+                      {c.email}
+                    </a>
+                    <div className="text-[13px] text-ink-3 mt-2">{emailNote}</div>
+                  </div>
+                  <div className="info-card">
+                    <div className="info-label">Address</div>
+                    <div
+                      className="font-display text-[18px] mt-1 leading-[1.35]"
+                      style={{ fontVariationSettings: "'SOFT' 100,'opsz' 30" }}
+                    >
+                      {c.address}
+                      <br />
+                      {c.suburbLine}
+                    </div>
+                    <a
+                      href={addressDirectionsHref}
+                      target="_blank"
+                      rel="noopener"
+                      className="text-[13px] link-editorial mt-3 inline-flex"
+                    >
+                      Directions
+                    </a>
+                  </div>
                 </div>
-                <div className="text-[13px] text-ink-3 mt-1">{faxNote}</div>
-              </div>
-              <div className="info-card">
-                <div className="info-label">Email</div>
-                <a
-                  href={`mailto:${c.email}`}
-                  className="font-display text-[22px] mt-1 inline-block hover:text-terra transition break-all"
-                  style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
-                >
-                  {c.email}
-                </a>
-                <div className="text-[13px] text-ink-3 mt-2">{emailNote}</div>
-              </div>
-              <div className="info-card">
-                <div className="info-label">Address</div>
-                <div
-                  className="font-display text-[18px] mt-1 leading-[1.35]"
-                  style={{ fontVariationSettings: "'SOFT' 100,'opsz' 30" }}
-                >
-                  {c.address}
-                  <br />
-                  {c.suburbLine}
-                </div>
-                <a
-                  href={addressDirectionsHref}
-                  target="_blank"
-                  rel="noopener"
-                  className="text-[13px] link-editorial mt-3 inline-flex"
-                >
-                  Directions
-                </a>
-              </div>
-            </div>
+              </>
+            )}
           </div>
 
           <div className="md:col-span-5">

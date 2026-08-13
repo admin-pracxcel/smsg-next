@@ -370,7 +370,7 @@ export default function OurStoryPage() {
                 opened in 2018 inside the Bangor Shopping Centre at Shop 6, 121 Yala Road. The Sutherland Shire had a strong existing general practice landscape, but limited local access to specialist consultations. Bangor&apos;s opening premise was to give Shire residents access to the same visiting specialist rhythm that Earlwood patients had, without a trip into the city.
               </p>
               <p>
-                Six family GPs, five consultant specialists, and a small allied health team consult from Bangor today. Dr Margaret Colwell, one of the founding Shire GPs, has been serving the local community for more than 27 years.
+                Family GPs, visiting consultant specialists and a small allied health team consult from Bangor today. Dr Margaret Colwell, one of the founding Shire GPs, has been serving the local community for more than 27 years.
               </p>
             </div>
           </div>
@@ -399,7 +399,7 @@ export default function OurStoryPage() {
                 opened in 2019 at 39 Campbell Street, bringing SMSG&apos;s model to the St George bayside. Sans Souci grew into something distinct across the group: it became the primary base for Kids&apos; Dr, our paediatric sub-brand, and the location of the largest allied health team.
               </p>
               <p>
-                Today, Sans Souci hosts six family GPs, three paediatricians for Kids&apos; Dr, two visiting Excelsia specialists, and a seven-strong allied health team covering psychology, counselling, physiotherapy, dietetics and speech pathology. The centre sits close to Rocky Point Road and services the St George local government area from Kogarah through Ramsgate and Blakehurst.
+                Today, Sans Souci hosts family GPs, paediatricians for Kids&apos; Dr, visiting Excelsia specialists, and an allied health team covering psychology, counselling, physiotherapy, dietetics and speech pathology. The centre sits close to Rocky Point Road and services the St George local government area from Kogarah through Ramsgate and Blakehurst.
               </p>
             </div>
           </div>

@@ -17,7 +17,6 @@ import {
   EditorialLink,
 } from "@/components/location/LocationFeesAndAfterHours";
 import { LocationContact } from "@/components/location/LocationContact";
-import { LocationDarkBookCTA } from "@/components/location/LocationDarkBookCTA";
 import { buildSansSouciSchema } from "./schema";
 
 export const metadata: Metadata = {
@@ -74,19 +73,14 @@ export default function SansSouciPage() {
       <FactStrip
         facts={[
           {
-            label: "GPs on site",
-            value: "9",
-            note: "Family GPs, several cross-booking with Earlwood",
+            label: "Opened",
+            value: "2019",
+            note: "SMSG's third centre, on the bayside",
           },
           {
-            label: "Kids' Dr paediatricians",
-            value: "2",
-            note: "The Kids' Dr team's primary base",
-          },
-          {
-            label: "Allied health team",
-            value: "7",
-            note: "The deepest allied health group across SMSG",
+            label: "Consulting days",
+            value: "5",
+            note: "Monday to Friday, 9am to 6pm",
           },
           {
             label: "Languages spoken",
@@ -101,7 +95,7 @@ export default function SansSouciPage() {
         headingLead="The bayside home of Kids' Dr"
         headingItalic="and our largest allied health team."
         paragraphs={[
-          "Sans Souci Doctors opened in 2019 as the group's third centre and grew into the primary base for Kids' Dr and the deepest concentration of allied health across SMSG. Nine family GPs anchor the day-to-day, alongside two Kids' Dr paediatricians, two visiting Excelsia consultants, and a seven-strong allied health team covering psychology, counselling, speech pathology, physiotherapy and dietetics.",
+          "Sans Souci Doctors opened in 2019 as the group's third centre and grew into the primary base for Kids' Dr and the deepest concentration of allied health across SMSG. Family GPs anchor the day-to-day, alongside Kids' Dr paediatricians, visiting Excelsia consultants, and an allied health team covering psychology, counselling, speech pathology, physiotherapy and dietetics.",
           "Every clinician here works as an independent practitioner. Sans Souci provides the rooms, the reception team and the coordination between disciplines. The clinical work and the therapeutic relationships are theirs.",
         ]}
         bgImageSrc="/website-images/corridor-warm.webp"
@@ -156,13 +150,13 @@ export default function SansSouciPage() {
         sectionEyebrow="Our team at Sans Souci"
         sectionHeadingLead="Family GPs, paediatricians, visiting specialists and allied health,"
         sectionHeadingItalic="coordinated."
-        sectionSupporting="Nine family GPs, two paediatricians for Kids' Dr, two visiting Excelsia consultants and a seven-strong allied health team, all working from the same file so your care stays joined up."
+        sectionSupporting="Family GPs, paediatricians for Kids' Dr, visiting Excelsia consultants and an allied health team, all working from the same file so your care stays joined up."
         sectionImageSrc="/website-images/treatment-room.webp"
         sectionImageAlt="A consulting room at Sans Souci Doctors"
         gps={{
           eyebrow: "Family GPs",
-          headingLead: "Nine doctors,",
-          headingItalic: "six languages.",
+          headingLead: "Family GPs,",
+          headingItalic: "many languages.",
           body: "Our GPs at Sans Souci are independent practitioners delivering their own care from the Sans Souci premises, and several cross-book with Earlwood, so if your regular clinician isn't in on the day, someone else on the team will have your file open and ready. Between them the team speaks Cantonese, Mandarin, Hakka, Dutch, Danish and Malay alongside English. If you'd prefer a GP who speaks your first language, our reception team can help you match.",
         }}
         paediatricians={{
@@ -175,9 +169,9 @@ export default function SansSouciPage() {
         }}
         specialists={{
           eyebrow: "Visiting specialists",
-          headingLead: "Two consultants,",
+          headingLead: "Visiting consultants,",
           headingItalic: "no city trip.",
-          body: "Sans Souci hosts two consultant physicians in visiting adult centres across nephrology and geriatrics with general medicine. A GP referral is required for the Medicare rebate on specialist consultations. Other Excelsia specialties are accessible by cross-referral to Earlwood or Bangor.",
+          body: "Sans Souci hosts visiting consultant physicians in adult specialist centres. A GP referral is required for the Medicare rebate on specialist consultations. Other Excelsia specialties are accessible by cross-referral to Earlwood or Bangor.",
           ctaLabel: "Explore Excelsia Specialist Centre",
           ctaHref: routes.subBrand("excelsia"),
         }}
@@ -197,43 +191,26 @@ export default function SansSouciPage() {
         headingLead="Family medicine plus"
         headingItalic="paediatric and allied depth."
         supporting="Because Sans Souci is where Kids' Dr is primarily based and where our largest allied health team consults, the service mix here is distinctive across the group."
+        layout="list"
         tiles={[
-          {
-            num: "01",
-            title: "General practice",
-            body: "Preventive health, chronic disease management, mental health care plans, health assessments, immunisations and travel medicine.",
-          },
+          { num: "01", title: "General practice" },
           {
             num: "02",
-            title: "Kids' health",
-            body: "Kids' Dr is primarily based at Sans Souci. Developmental paediatrics, ADHD and autism assessment, developmental assessment, behavioural concerns, and learning difficulties, with coordinated psychology, speech pathology and physiotherapy input.",
+            title: "Kids' health · Kids' Dr",
             href: routes.subBrand("kidsdr"),
-            linkLabel: "Explore Kids' Dr",
           },
           {
             num: "03",
-            title: "Women's health",
-            body: "Aurora Women & Babies Health at Sans Souci covers cervical screening, Implanon insertion and removal, menopause support, breastfeeding and lactation support, and general women's health. Hormonal IUD insertions are directed to our Earlwood or Bangor sites; IUD removal is available at Sans Souci.",
+            title: "Women's health · Aurora",
             href: routes.subBrand("aurora"),
-            linkLabel: "Explore Aurora",
           },
-          {
-            num: "04",
-            title: "Allied health",
-            body: "Psychology and psychometric assessment, counselling in English and Portuguese, physiotherapy including paediatric physiotherapy, dietetics, and speech pathology.",
-          },
+          { num: "04", title: "Allied health" },
           {
             num: "05",
             title: "Excelsia specialist consultations",
-            body: "Nephrology and geriatrics with general medicine on visiting centres. Cardiology, gastroenterology, haematology, endocrinology, and respiratory and sleep medicine referrals are directed to Earlwood or Bangor.",
             href: routes.subBrand("excelsia"),
-            linkLabel: "Explore Excelsia",
           },
-          {
-            num: "06",
-            title: "Diagnostics on-site",
-            body: "ECG and spirometry.",
-          },
+          { num: "06", title: "Diagnostics on-site" },
         ]}
       />
 
@@ -241,7 +218,7 @@ export default function SansSouciPage() {
         eyebrow="Booking, prescriptions and referrals"
         headingLead="Every practitioner here"
         headingItalic="is bookable online."
-        supporting="Repeat prescriptions and referral renewals can be requested through Automed without needing to come in. Most are turned around within one business day."
+        supporting="Repeat prescriptions and referral renewals can be requested through Automed without needing to come in. Most are turned around within three business days."
         actions={[
           {
             title: "Book an appointment",
@@ -250,7 +227,7 @@ export default function SansSouciPage() {
           },
           {
             title: "Request a repeat prescription",
-            sub: "One business day turnaround",
+            sub: "Three business days turnaround",
             href: "https://automedsystems.com.au/ams/clinics/4895/sans-souci-drs-2219/scripts/loc/1",
           },
           {
@@ -266,7 +243,7 @@ export default function SansSouciPage() {
           },
           {
             title: "Register with MyMedicare",
-            sub: "Voluntary Medicare enrolment",
+            sub: "Voluntary MyMedicare enrolment",
             href: external.automedRegistration(SANSSOUCI),
           },
           {
@@ -381,16 +358,12 @@ export default function SansSouciPage() {
           href: GOOGLE_MAP_URL,
           summary: "4.8 stars · 311 reviews",
         }}
-      />
-
-      <LocationDarkBookCTA
-        clinic={SANSSOUCI}
-        eyebrow="Book at Sans Souci"
-        headingLead="Ready when"
-        headingItalic="you are."
-        supporting={`Online booking is the fastest way. If the appointment type you need isn't visible online, call the reception team on ${PHONE_DISPLAY} and they'll fit you in.`}
-        phoneDisplay={PHONE_DISPLAY}
-        phoneTel={PHONE_TEL}
+        bookOverride={{
+          eyebrow: "Book at Sans Souci",
+          headingLead: "Ready when",
+          headingItalic: "you are.",
+          supporting: `Online booking is the fastest way. If the appointment type you need isn't visible online, call the reception team on ${PHONE_DISPLAY} and they'll fit you in.`,
+        }}
       />
 
       <JsonLd data={schema as unknown as Parameters<typeof JsonLd>[0]["data"]} />

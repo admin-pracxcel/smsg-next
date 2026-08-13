@@ -10,6 +10,7 @@ import { SUB_BRANDS } from "@/lib/sub-brands";
 import { buildIudSchema } from "./schema";
 import {
   BOOK_SUB,
+  BOOK_URLS,
   COMPARE_CARDS,
   EXPECT_STEPS,
   FAQ_ITEMS,
@@ -176,10 +177,10 @@ export default function IudPage() {
                     className="font-display text-[26px] md:text-[30px] leading-none"
                     style={{ fontVariationSettings: "'SOFT' 100,'opsz' 60" }}
                   >
-                    2
+                    3
                   </div>
                   <div className="text-[11.5px] text-ink-3 uppercase tracking-[0.14em] mt-2">
-                    Centres for insertion
+                    Clinics for insertion
                   </div>
                 </div>
               </div>
@@ -243,7 +244,7 @@ export default function IudPage() {
                 {[
                   "Fully reversible",
                   "Nothing to remember daily",
-                  "Same GP for consult, procedure and follow-up",
+                  "Same GP for consult and procedure",
                 ].map((point) => (
                   <div
                     key={point}
@@ -350,7 +351,7 @@ export default function IudPage() {
               <span className="allcaps text-ink-3">What to expect</span>
               <h2 className="font-display h-section mt-3 max-w-[22ch]">
                 From decision{" "}
-                <span className="italic font-display-warm">to follow-up.</span>
+                <span className="italic font-display-warm">to procedure.</span>
               </h2>
             </div>
             <div className="md:col-span-4 body-lg text-ink-2 max-w-[42ch]">
@@ -394,16 +395,15 @@ export default function IudPage() {
             <div className="md:col-span-8">
               <span className="allcaps text-ink-3">Where it&apos;s offered</span>
               <h2 className="font-display h-section mt-3 max-w-[24ch]">
-                Insertion at Earlwood and Bangor,{" "}
+                Insertion and removal,{" "}
                 <span className="italic font-display-warm">
-                  removal at all three.
+                  across all three centres.
                 </span>
               </h2>
             </div>
             <div className="md:col-span-4 body-lg text-ink-2 max-w-[42ch]">
-              We schedule insertions at the two centres with a dedicated
-              procedure room and full support. Removals can happen at any of
-              our three locations.
+              Insertion and removal are available at each of our three
+              locations.
             </div>
           </div>
 
@@ -487,7 +487,7 @@ export default function IudPage() {
             </div>
             <div className="md:col-span-4 body-lg text-ink-2 max-w-[42ch]">
               Insertion and removal are performed by the same GP you consult
-              with. All are female clinicians within our Aurora team.
+              with, part of our Aurora team.
             </div>
           </div>
 
@@ -581,10 +581,9 @@ export default function IudPage() {
                 </span>
               </h2>
               <p className="mt-6 text-[15px] text-ink-2 leading-relaxed max-w-[38ch]">
-                For eligible patients, both the initial consultation and the
-                follow-up review are bulk-billed. The procedure itself is
-                privately billed, with a Medicare rebate applying to eligible
-                items.
+                For eligible patients, the initial consultation is bulk-billed.
+                The procedure itself is privately billed, with a Medicare
+                rebate applying to eligible items.
               </p>
             </div>
             <div className="md:col-span-8">
@@ -699,7 +698,7 @@ export default function IudPage() {
                   return (
                     <a
                       key={key}
-                      href={clinic.automedBase}
+                      href={BOOK_URLS[key]}
                       target="_blank"
                       rel="noopener"
                       className="flex items-center justify-between gap-4 px-5 py-4 rounded-2xl bg-cream/6 border border-cream/25 hover:bg-cream/10 hover:border-cream/50 transition group"

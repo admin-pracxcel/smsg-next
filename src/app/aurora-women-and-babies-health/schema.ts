@@ -138,7 +138,7 @@ export function buildAuroraSchema() {
           name: "Which hospitals do you offer shared care with?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "Bankstown-Lidcombe Hospital, St George Hospital, Royal Prince Alfred Hospital, Royal Hospital for Women and The Sutherland Hospital.",
+            text: "Bankstown-Lidcombe Hospital, Canterbury Hospital, St George Hospital, Royal Prince Alfred Hospital, Royal Hospital for Women and The Sutherland Hospital.",
           },
         },
       ],

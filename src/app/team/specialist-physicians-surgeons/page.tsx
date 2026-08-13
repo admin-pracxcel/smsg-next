@@ -9,7 +9,7 @@ import { buildSpecialistDirectorySchema } from "./schema";
 export const metadata: Metadata = {
   title: "Specialist Physicians & Surgeons",
   description:
-    "17 consultant specialists across 10 specialties, practising as independent practitioners from Earlwood, Bangor and Sans Souci.",
+    "Consultant specialists across our specialties, practising as independent practitioners from Earlwood, Bangor and Sans Souci.",
   alternates: {
     canonical: "https://smsg.au/team/specialist-physicians-surgeons/",
   },

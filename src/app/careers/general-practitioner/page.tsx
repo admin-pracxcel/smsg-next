@@ -219,9 +219,9 @@ export default function GeneralPractitionerCareerPage() {
                 practice on your own.
               </p>
               <p>
-                You&apos;d be part of a group that includes 33 Consultant
-                Specialist GPs across the three centres, 17 Excelsia Specialist
-                Centre consultants, 12 allied health practitioners, a nursing
+                You&apos;d be part of a group that includes Consultant
+                Specialist GPs across the three centres, Excelsia Specialist
+                Centre consultants, allied health practitioners, a nursing
                 team including senior RNs, and practice management and
                 administration.
               </p>

@@ -66,28 +66,28 @@ const SUB_BRAND_TILES = [
   {
     num: "02",
     title: "Kids' Dr",
-    body: "Developmental paediatrics, ADHD and autism assessment, behavioural concerns, and learning difficulties assessment. Three paediatricians, alongside a ten-strong psychology, counselling and allied team. Primarily based at Sans Souci.",
+    body: "Developmental paediatrics, ADHD and autism assessment, behavioural concerns, and learning difficulties assessment. Consultant paediatricians alongside a psychology, counselling and allied team. Primarily based at Sans Souci.",
     href: routes.subBrand("kidsdr"),
     cta: "Explore Kids' Dr",
   },
   {
     num: "03",
     title: "Excelsia Specialist Centre",
-    body: "Our specialist practice, giving patients access to consultant physicians and surgeons across nine specialties without the hospital referral queue. Sixteen consultant specialists, with visiting centres across Earlwood, Bangor and Sans Souci.",
+    body: "Our specialist practice, giving patients access to consultant physicians and surgeons across nine specialties without the hospital referral queue. Consultant specialists with visiting centres across Earlwood, Bangor and Sans Souci.",
     href: routes.subBrand("excelsia"),
     cta: "Explore Excelsia",
   },
   {
     num: "04",
     title: "Clarion Skin Cancer Clinic",
-    body: "Full-body skin checks, dermoscopy, and excision procedures. Six GPs with dedicated skin cancer medicine training, and a direct clinical link to the Melanoma Institute of Australia through Dr Jonathan Moore.",
+    body: "Full-body skin checks, dermoscopy, and excision procedures. GPs with dedicated skin cancer medicine training, and a direct clinical link to the Melanoma Institute of Australia through Dr Jonathan Moore.",
     href: routes.subBrand("clarion"),
     cta: "Explore Clarion",
   },
   {
     num: "05",
     title: "Sydney Cosmedic",
-    body: "Non-surgical cosmetic care by three medically qualified independent practitioners. Adult patients only, in-person consultation before every procedure, and full compliance with AHPRA and TGA advertising rules.",
+    body: "Non-surgical cosmetic care by medically qualified independent practitioners. Adult patients only, in-person consultation before every procedure, and full compliance with AHPRA and TGA advertising rules.",
     href: routes.subBrand("sydneycosmedic"),
     cta: "Explore Sydney Cosmedic",
   },
@@ -116,7 +116,7 @@ const CENTRES = [
     tag: "Sans Souci · 2219",
     image: "/website-images/san-souci.webp",
     meta: "39 Campbell Street · Opened 2019 · Mon-Fri",
-    body: "SMSG's bayside centre, and the primary base for Kids' Dr and the largest allied health team in the group. Family GPs, three paediatricians, and a seven-strong allied health team consult here.",
+    body: "SMSG's bayside centre, and the primary base for Kids' Dr and the largest allied health team in the group. Family GPs, paediatricians, and an allied health team consult here.",
   },
 ];
 

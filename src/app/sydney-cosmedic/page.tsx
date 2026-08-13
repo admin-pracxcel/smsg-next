@@ -162,8 +162,7 @@ export default function SydneyCosmedicHubPage() {
                   <Arrow />
                 </a>
               </div>
-              <div className="mt-10 grid grid-cols-3 gap-5 md:gap-8 max-w-[540px]">
-                <Stat n="2" label="Medically qualified practitioners" />
+              <div className="mt-10 grid grid-cols-2 gap-5 md:gap-8 max-w-[540px]">
                 <Stat n="18+" label="Adult patients only" />
                 <Stat n="In‑person" label="Consultation before every procedure" />
               </div>
@@ -184,6 +183,15 @@ export default function SydneyCosmedicHubPage() {
                   <span>Cosmetic medicine</span>
                   <span className="sep" />
                   <span>Earlwood, Sydney</span>
+                </div>
+
+                <div className="plate-photo">
+                  <Image
+                    src="/website-images/care-for-every-stage.webp"
+                    alt=""
+                    fill
+                    sizes="(min-width: 768px) 40vw, 100vw"
+                  />
                 </div>
               </div>
             </div>

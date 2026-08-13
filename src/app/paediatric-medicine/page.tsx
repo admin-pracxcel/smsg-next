@@ -18,7 +18,7 @@ function Arrow({ className = "arrow" }: { className?: string }) { return (<svg c
 function Chev() { return (<span className="chev"><svg width="12" height="12" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M3 5l4 4 4-4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" /></svg></span>); }
 
 const GLANCE_ROWS = [
-  { label: "Consultants", value: "Three paediatricians" },
+  { label: "Consultants", value: "Consultant paediatricians" },
   { label: "Locations", value: "Earlwood, Sans Souci" },
   { label: "Referral", value: "GP referral required for Medicare rebate" },
   { label: "Dual sub-brand", value: "Excelsia and Kids' Dr" },
@@ -82,7 +82,7 @@ export default function PaediatricMedicinePage() {
               <h1 className="font-display h-service max-w-[18ch] mt-6">Paediatric{" "}<span className="italic font-display-warm">medicine.</span></h1>
               <p className="mt-7 lede max-w-[54ch] text-ink-2">
                 Paediatric medicine consultations at Excelsia across Earlwood
-                and Sans Souci. Three consultant paediatricians covering
+                and Sans Souci. Consultant paediatricians covering
                 general and developmental paediatrics, working alongside our{" "}
                 <Link href={routes.subBrand("kidsdr")} className="link-editorial">Kids&apos; Dr</Link>{" "}
                 multidisciplinary team for children whose care sits within

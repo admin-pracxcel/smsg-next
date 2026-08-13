@@ -97,10 +97,10 @@ export function AuroraHero() {
                   className="font-display text-[26px] md:text-[30px] leading-none"
                   style={{ fontVariationSettings: "'SOFT' 100,'opsz' 60" }}
                 >
-                  10
+                  Multi-
                 </div>
                 <div className="text-[11.5px] text-ink-3 uppercase tracking-[0.14em] mt-2">
-                  Female clinicians
+                  Disciplinary team
                 </div>
               </div>
               <div className="border-t border-black/15 pt-4">
@@ -108,10 +108,10 @@ export function AuroraHero() {
                   className="font-display text-[26px] md:text-[30px] leading-none"
                   style={{ fontVariationSettings: "'SOFT' 100,'opsz' 60" }}
                 >
-                  3
+                  Sydney
                 </div>
                 <div className="text-[11.5px] text-ink-3 uppercase tracking-[0.14em] mt-2">
-                  SMSG centres
+                  SMSG premises
                 </div>
               </div>
             </div>
@@ -135,6 +135,15 @@ export function AuroraHero() {
                 <span>Every life stage</span>
                 <span className="sep" />
                 <span>Sydney</span>
+              </div>
+
+              <div className="plate-photo">
+                <Image
+                  src="/website-images/booking-with-aurora.webp"
+                  alt=""
+                  fill
+                  sizes="(min-width: 768px) 40vw, 100vw"
+                />
               </div>
             </div>
           </div>

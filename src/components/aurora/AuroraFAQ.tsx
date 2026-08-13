@@ -50,8 +50,8 @@ const faqs: Faq[] = [
     q: "Can I request a female practitioner?",
     a: (
       <p>
-        Aurora is entirely staffed by female clinicians, so any Aurora
-        appointment will be with a female doctor.
+        Yes. Mention this at booking and our reception team will match you
+        with an available Aurora clinician who fits.
       </p>
     ),
   },
@@ -83,8 +83,9 @@ const faqs: Faq[] = [
     q: "Which hospitals do you offer shared care with?",
     a: (
       <p>
-        Bankstown-Lidcombe Hospital, St George Hospital, Royal Prince Alfred
-        Hospital, Royal Hospital for Women and The Sutherland Hospital.
+        Bankstown-Lidcombe Hospital, Canterbury Hospital, St George Hospital,
+        Royal Prince Alfred Hospital, Royal Hospital for Women and The
+        Sutherland Hospital.
       </p>
     ),
   },

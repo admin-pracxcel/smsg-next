@@ -220,6 +220,47 @@ body {
     border-color: var(--terra);
     gap: 0.6rem;
   }
+
+  .floating-contact {
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    z-index: 60;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    background: var(--brand);
+    color: var(--cream);
+    padding: 0.85rem 1.25rem;
+    border-radius: 999px;
+    font-weight: 500;
+    font-size: 0.95rem;
+    line-height: 1;
+    box-shadow:
+      0 1px 0 rgba(0, 0, 0, 0.02),
+      0 18px 40px -18px rgba(154, 47, 82, 0.75),
+      0 6px 14px -8px rgba(26, 24, 21, 0.25);
+    transition: transform 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+  }
+  .floating-contact:hover {
+    background: var(--brand-2);
+    transform: translateY(-1px);
+  }
+  .floating-contact:focus-visible {
+    outline: 2px solid var(--terra);
+    outline-offset: 3px;
+  }
+  @media (max-width: 640px) {
+    .floating-contact {
+      right: 16px;
+      bottom: 16px;
+      padding: 0.85rem;
+      border-radius: 999px;
+    }
+    .floating-contact-label {
+      display: none;
+    }
+  }
 }
 
 /* Aurora and IUD pages: swap brand colour for aurora-deep on the shared
@@ -1251,7 +1292,8 @@ a:hover .arrow {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
+  gap: 26px;
   overflow: hidden;
   box-shadow:
     0 46px 70px -34px rgba(183, 127, 115, 0.42),
@@ -1262,16 +1304,34 @@ a:hover .arrow {
   position: relative;
   z-index: 2;
   max-width: 76%;
-  max-height: 60%;
+  max-height: 32%;
   width: auto;
   height: auto;
+  flex-shrink: 0;
   filter: drop-shadow(0 12px 32px rgba(183, 127, 115, 0.22));
+}
+.brand-plate .plate-photo {
+  position: relative;
+  z-index: 1;
+  flex: 1 1 0;
+  min-height: 0;
+  width: 100%;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid rgba(183, 127, 115, 0.18);
+  box-shadow: 0 12px 24px -12px rgba(26, 24, 21, 0.15);
+}
+.brand-plate .plate-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 .brand-plate .plate-under {
   position: relative;
   z-index: 2;
-  margin-top: 26px;
   display: inline-flex;
+  flex-shrink: 0;
   align-items: center;
   gap: 12px;
   padding: 8px 16px;
@@ -1421,11 +1481,14 @@ a:hover .arrow {
 @media (max-width: 767px) {
   .brand-plate {
     aspect-ratio: 4 / 5;
-    padding: 36px 28px 32px;
+    padding: 36px 28px 28px;
   }
   .brand-plate .plate-logo {
     max-width: 82%;
-    max-height: 58%;
+    max-height: 30%;
+  }
+  .brand-plate .plate-photo {
+    border-radius: 16px;
   }
 }
 

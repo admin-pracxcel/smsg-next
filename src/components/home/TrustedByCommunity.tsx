@@ -81,7 +81,7 @@ export function TrustedByCommunity() {
             <p className="body-lg text-cream/85 mt-8 max-w-[46ch]">
               More than{" "}
               <span className="num-strong text-blush">1,340</span> Google
-              reviews across the three centres. AGPAL-accredited. Recognised
+              reviews across all services. AGPAL-accredited. Recognised
               by the Central and Eastern Sydney Primary Health Network for
               excellence in general practice.
             </p>

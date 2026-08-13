@@ -30,7 +30,8 @@ export interface ServiceTile {
   /** Two-digit index string, e.g. "01" */
   num: string;
   title: string;
-  body: string;
+  /** Description body. Required for grid layout; ignored in list layout. */
+  body?: string;
   /** Optional link + link label. If omitted, tile is not clickable. */
   href?: string;
   linkLabel?: string;
@@ -42,6 +43,8 @@ export interface LocationServicesProps {
   headingItalic: string;
   supporting: string;
   tiles: ServiceTile[];
+  /** "grid" (default) renders numbered cards; "list" renders a simple linked list. */
+  layout?: "grid" | "list";
 }
 
 export function LocationServices({
@@ -50,6 +53,7 @@ export function LocationServices({
   headingItalic,
   supporting,
   tiles,
+  layout = "grid",
 }: LocationServicesProps) {
   return (
     <section id="services" className="relative bg-cream-2">
@@ -73,42 +77,72 @@ export function LocationServices({
 
         <div className="hairline w-full mb-10" />
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 md:gap-6">
-          {tiles.map((t) => {
-            const inner = (
-              <>
-                <div className="num">{t.num}</div>
-                <h3
-                  className="font-display text-[22px] leading-[1.15]"
-                  style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
+        {layout === "list" ? (
+          <ul className="grid sm:grid-cols-2 gap-x-14">
+            {tiles.map((t) => {
+              const row = (
+                <span className="flex items-center justify-between gap-4 py-4 border-b border-black/10 group">
+                  <span className="font-display text-[18px] leading-[1.2]" style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}>
+                    {t.title}
+                  </span>
+                  {t.href ? (
+                    <span className="text-brand inline-flex items-center gap-2 text-[13px] shrink-0">
+                      <TileArrow />
+                    </span>
+                  ) : null}
+                </span>
+              );
+              return (
+                <li key={t.num}>
+                  {t.href ? (
+                    <Link href={t.href} className="block hover:text-brand transition-colors">
+                      {row}
+                    </Link>
+                  ) : (
+                    row
+                  )}
+                </li>
+              );
+            })}
+          </ul>
+        ) : (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 md:gap-6">
+            {tiles.map((t) => {
+              const inner = (
+                <>
+                  <div className="num">{t.num}</div>
+                  <h3
+                    className="font-display text-[22px] leading-[1.15]"
+                    style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
+                  >
+                    {t.title}
+                  </h3>
+                  <p className="mt-3 text-[15px] text-ink-2 leading-relaxed">
+                    {t.body}
+                  </p>
+                  {t.href && t.linkLabel ? (
+                    <div className="mt-5 text-[13px] text-brand inline-flex items-center gap-2">
+                      {t.linkLabel} <TileArrow />
+                    </div>
+                  ) : null}
+                </>
+              );
+              return t.href ? (
+                <Link
+                  key={t.num}
+                  href={t.href}
+                  className="svc-tile group"
                 >
-                  {t.title}
-                </h3>
-                <p className="mt-3 text-[15px] text-ink-2 leading-relaxed">
-                  {t.body}
-                </p>
-                {t.href && t.linkLabel ? (
-                  <div className="mt-5 text-[13px] text-brand inline-flex items-center gap-2">
-                    {t.linkLabel} <TileArrow />
-                  </div>
-                ) : null}
-              </>
-            );
-            return t.href ? (
-              <Link
-                key={t.num}
-                href={t.href}
-                className="svc-tile group"
-              >
-                {inner}
-              </Link>
-            ) : (
-              <div key={t.num} className="svc-tile">
-                {inner}
-              </div>
-            );
-          })}
-        </div>
+                  {inner}
+                </Link>
+              ) : (
+                <div key={t.num} className="svc-tile">
+                  {inner}
+                </div>
+              );
+            })}
+          </div>
+        )}
       </div>
     </section>
   );

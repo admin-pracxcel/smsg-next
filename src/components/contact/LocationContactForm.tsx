@@ -12,6 +12,12 @@ import { CLINICS, type ClinicKey } from "@/lib/clinics";
 
 type Props = {
   clinicKey: ClinicKey;
+  /**
+   * When true, drop the form's own card chrome (bg, border, rounded, padding)
+   * so the parent container owns the visual box. Used on the homepage where
+   * the form sits inside a shared container with the location info.
+   */
+  embedded?: boolean;
 };
 
 const INITIAL_STATE: SubmitContactState = { ok: false };
@@ -46,7 +52,13 @@ function SubmitButton() {
   );
 }
 
-export function LocationContactForm({ clinicKey }: Props) {
+export function LocationContactForm({ clinicKey, embedded = false }: Props) {
+  const chromeClass = embedded
+    ? "space-y-4"
+    : "bg-paper rounded-2xl border border-black/10 p-6 md:p-7 space-y-4";
+  const successChromeClass = embedded
+    ? "flex flex-col justify-center"
+    : "bg-paper rounded-2xl border border-black/10 p-7 md:p-8 h-full flex flex-col justify-center";
   const clinic = CLINICS[clinicKey];
   const [state, formAction] = useActionState(submitContact, INITIAL_STATE);
   const formRef = useRef<HTMLFormElement>(null);
@@ -70,7 +82,7 @@ export function LocationContactForm({ clinicKey }: Props) {
 
   if (state.ok) {
     return (
-      <div className="bg-paper rounded-2xl border border-black/10 p-7 md:p-8 h-full flex flex-col justify-center">
+      <div className={successChromeClass}>
         <div className="text-xs uppercase tracking-[0.14em] text-ink-3 mb-3">
           Message sent
         </div>
@@ -108,7 +120,7 @@ export function LocationContactForm({ clinicKey }: Props) {
       ref={formRef}
       action={formAction}
       noValidate
-      className="bg-paper rounded-2xl border border-black/10 p-6 md:p-7 space-y-4"
+      className={chromeClass}
     >
       <input type="hidden" name="clinicKey" value={clinicKey} />
 

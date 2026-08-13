@@ -49,8 +49,9 @@ export function SiteFooter() {
 
       <div className="relative max-w-[1360px] mx-auto px-5 md:px-10 py-14 md:py-18">
         {/* Top row */}
-        <div className="grid md:grid-cols-12 gap-10 pb-14 border-b border-cream/15">
-          <div className="md:col-span-5">
+        <div className="pb-10 border-b border-cream/15">
+        <div className="grid md:grid-cols-12 gap-10">
+          <div className="md:col-span-4">
             <div className="inline-block bg-cream rounded-xl px-4 py-3">
               <Image
                 src="/website-images/Specialist%20Medical%20Services%20Group.webp"
@@ -82,7 +83,7 @@ export function SiteFooter() {
             </div>
           </div>
 
-          <div className="md:col-span-7 grid grid-cols-2 md:grid-cols-4 gap-8 text-[14.5px]">
+          <div className="md:col-span-8 grid grid-cols-2 md:grid-cols-4 gap-6 lg:gap-8 text-[14.5px]">
             {footerColumns.map((col) => (
               <div key={col.heading}>
                 <div className="allcaps text-cream/60">{col.heading}</div>
@@ -100,24 +101,23 @@ export function SiteFooter() {
           </div>
         </div>
 
-        {/* Acknowledgement of Country */}
-        <div className="py-10 md:py-12 border-b border-cream/15">
-          <div className="grid md:grid-cols-12 gap-8">
-            <div className="md:col-span-3">
-              <div className="allcaps text-cream/60">
-                Acknowledgement of Country
-              </div>
+        {/* Acknowledgement of Country, inside the top row block */}
+        <div className="mt-8 grid md:grid-cols-12 gap-8">
+          <div className="md:col-span-4">
+            <div className="allcaps text-cream/60">
+              Acknowledgement of Country
             </div>
-            <p
-              className="md:col-span-9 font-display italic text-[19px] leading-[1.55] text-cream/90 max-w-[70ch]"
-              style={{ fontVariationSettings: "'SOFT' 100,'opsz' 30" }}
-            >
-              SMSG acknowledges the Traditional Owners of Country throughout
-              Australia and their continuing connection to lands, waters and
-              communities. We pay our respects to Aboriginal and Torres Strait
-              Islander cultures, and to Elders past, present and emerging.
-            </p>
           </div>
+          <p
+            className="md:col-span-8 font-display italic text-[17px] leading-[1.55] text-cream/90 max-w-[70ch]"
+            style={{ fontVariationSettings: "'SOFT' 100,'opsz' 30" }}
+          >
+            SMSG acknowledges the Traditional Owners of Country throughout
+            Australia and their continuing connection to lands, waters and
+            communities. We pay our respects to Aboriginal and Torres Strait
+            Islander cultures, and to Elders past, present and emerging.
+          </p>
+        </div>
         </div>
 
         {/* Bottom row */}

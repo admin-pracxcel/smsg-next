@@ -17,7 +17,6 @@ import {
   EditorialLink,
 } from "@/components/location/LocationFeesAndAfterHours";
 import { LocationContact } from "@/components/location/LocationContact";
-import { LocationDarkBookCTA } from "@/components/location/LocationDarkBookCTA";
 import { buildBangorSchema } from "./schema";
 
 export const metadata: Metadata = {
@@ -74,14 +73,9 @@ export default function BangorPage() {
       <FactStrip
         facts={[
           {
-            label: "GPs on site",
-            value: "10",
-            note: "Family GPs across weekday centres",
-          },
-          {
-            label: "Visiting specialists",
-            value: "5",
-            note: "Across five specialties, no city trip needed",
+            label: "Opened",
+            value: "2018",
+            note: "SMSG in the Sutherland Shire",
           },
           {
             label: "Consulting days",
@@ -102,7 +96,7 @@ export default function BangorPage() {
         headingItalic="without the city trip."
         paragraphs={[
           "Bangor Medical Centre opened in 2018 to bring the SMSG model to the Sutherland Shire. Family general practice sits at the centre of what happens here, wrapped in a visiting specialist rhythm that gives our patients access to consultant physicians without waiting behind a hospital outpatient list.",
-          "Ten family GPs work here alongside five consultant specialists across endocrinology, geriatrics, general medicine, nephrology, and respiratory and sleep medicine. All are independent practitioners. Bangor provides the premises, the reception team and the coordination between disciplines. The clinical decisions belong to the clinicians.",
+          "Family GPs work here alongside a range of multi-disciplinary specialists and allied health professionals. All are independent practitioners. Bangor provides the premises, the reception team and the coordination between disciplines. The clinical decisions belong to the clinicians.",
         ]}
         bgImageSrc="/website-images/corridor-warm.webp"
       />
@@ -156,20 +150,20 @@ export default function BangorPage() {
         sectionEyebrow="Our team at Bangor"
         sectionHeadingLead="Family GPs, visiting specialists,"
         sectionHeadingItalic="and coordinated allied support."
-        sectionSupporting="Ten family GPs, five visiting consultant specialists and coordinated allied support across counselling and dietetics, all working from the same file so your care stays joined up."
+        sectionSupporting="Family GPs, visiting consultant specialists and coordinated allied support across counselling and dietetics, all working from the same file so your care stays joined up."
         sectionImageSrc="/website-images/treatment-room.webp"
         sectionImageAlt="A treatment room at Bangor Medical Centre"
         gps={{
           eyebrow: "Family GPs",
-          headingLead: "Ten doctors,",
-          headingItalic: "six languages.",
+          headingLead: "Family GPs,",
+          headingItalic: "many languages.",
           body: "Our GPs at Bangor are independent practitioners delivering their own care from the Bangor premises. Several cross-book with Earlwood, so if your regular clinician isn't in on the day, someone else on the team may have your file open and ready. Between them the team speaks Mandarin, Shanghainese and Arabic alongside English. If you'd prefer a GP who speaks your first language, our reception team can help you match.",
         }}
         specialists={{
           eyebrow: "Visiting specialists",
-          headingLead: "Five consultants,",
+          headingLead: "Visiting consultants,",
           headingItalic: "no city trip.",
-          body: "Bangor hosts five consultant physicians in visiting centres across five disciplines, which means you can see them here without a hospital referral queue or a trip into the city. A GP referral is required for the Medicare rebate on specialist consultations.",
+          body: "Bangor hosts visiting consultant physicians, which means you can see them here without a hospital referral queue or a trip into the city. A GP referral is required for the Medicare rebate on specialist consultations.",
           ctaLabel: "Explore Excelsia Specialist Centre",
           ctaHref: routes.subBrand("excelsia"),
         }}
@@ -189,43 +183,26 @@ export default function BangorPage() {
         headingLead="Family medicine"
         headingItalic="plus specialist depth."
         supporting="Because Bangor combines general practice with a five-specialty visiting roster, the service list here is wider than a typical Shire GP practice."
+        layout="list"
         tiles={[
-          {
-            num: "01",
-            title: "General practice",
-            body: "Preventive health, chronic disease management, mental health care plans, health assessments, immunisations and travel medicine.",
-          },
+          { num: "01", title: "General practice" },
           {
             num: "02",
-            title: "Women's health",
-            body: "Aurora Women & Babies Health at Bangor covers antenatal shared care, obstetrics and pregnancy care, contraception including hormonal IUD and Implanon insertion and removal, cervical screening, menopause support and general women's health with Dr Colwell and Dr Geng.",
+            title: "Women's health · Aurora",
             href: routes.subBrand("aurora"),
-            linkLabel: "Explore Aurora",
           },
           {
             num: "03",
-            title: "Skin cancer medicine",
-            body: "Clarion Skin Cancer Clinic at Bangor delivers full-body skin checks, dermoscopy and excision procedures. Dr Colwell, Dr Geng and Dr Daniel Ibrahim hold the Clarion service here.",
+            title: "Skin cancer medicine · Clarion",
             href: routes.subBrand("clarion"),
-            linkLabel: "Explore Clarion",
           },
-          {
-            num: "04",
-            title: "Procedures and minor surgery",
-            body: "Iron infusions, hormonal IUD and Implanon insertion and removal, cryotherapy, skin excisions and treatment room procedures, all performed in-centre.",
-          },
+          { num: "04", title: "Procedures and minor surgery" },
           {
             num: "05",
             title: "Excelsia specialist consultations",
-            body: "Endocrinology, geriatrics, general medicine, nephrology and respiratory and sleep medicine on visiting centres. Cardiology, gastroenterology, haematology and paediatric medicine referrals are directed to Earlwood or Sans Souci.",
             href: routes.subBrand("excelsia"),
-            linkLabel: "Explore Excelsia",
           },
-          {
-            num: "06",
-            title: "Diagnostics on-site",
-            body: "ECG and spirometry.",
-          },
+          { num: "06", title: "Diagnostics on-site" },
         ]}
       />
 
@@ -233,7 +210,7 @@ export default function BangorPage() {
         eyebrow="Booking, prescriptions and referrals"
         headingLead="Every practitioner here"
         headingItalic="is bookable online."
-        supporting="Repeat prescriptions and referral renewals can be requested through Automed without needing to come in. Most are turned around within one business day."
+        supporting="Repeat prescriptions and referral renewals can be requested through Automed without needing to come in. Most are turned around within three business days."
         actions={[
           {
             title: "Book an appointment",
@@ -242,7 +219,7 @@ export default function BangorPage() {
           },
           {
             title: "Request a repeat prescription",
-            sub: "One business day turnaround",
+            sub: "Three business days turnaround",
             href: "https://automedsystems.com.au/ams/clinics/3941/bangor-medical-centre-bangor-2234/scripts/loc/1",
           },
           {
@@ -258,7 +235,7 @@ export default function BangorPage() {
           },
           {
             title: "Register with MyMedicare",
-            sub: "Voluntary Medicare enrolment",
+            sub: "Voluntary MyMedicare enrolment",
             href: external.automedRegistration(BANGOR),
           },
           {
@@ -373,16 +350,12 @@ export default function BangorPage() {
           href: GOOGLE_MAP_URL,
           summary: "4.8 stars · 342 reviews",
         }}
-      />
-
-      <LocationDarkBookCTA
-        clinic={BANGOR}
-        eyebrow="Book at Bangor"
-        headingLead="Ready when"
-        headingItalic="you are."
-        supporting={`Online booking is the fastest way. If the appointment type you need isn't visible online, call the reception team on ${PHONE_DISPLAY} and they'll fit you in.`}
-        phoneDisplay={PHONE_DISPLAY}
-        phoneTel={PHONE_TEL}
+        bookOverride={{
+          eyebrow: "Book at Bangor",
+          headingLead: "Ready when",
+          headingItalic: "you are.",
+          supporting: `Online booking is the fastest way. If the appointment type you need isn't visible online, call the reception team on ${PHONE_DISPLAY} and they'll fit you in.`,
+        }}
       />
 
       <JsonLd data={schema as unknown as Parameters<typeof JsonLd>[0]["data"]} />

@@ -1,9 +1,10 @@
 import { clinicList, type ClinicKey } from "@/lib/clinics";
+import { LocationContactForm } from "@/components/contact/LocationContactForm";
 
 /**
- * Get in touch · three contact cards + after-hours notice.
- * The card colour chip and hours override live locally since they're
- * presentation-only.
+ * Get in touch · three columns, each a single container holding the
+ * per-centre info and its own embedded contact form. All three columns
+ * stretch to the tallest row so the boxes line up.
  */
 
 const chipColor: Record<ClinicKey, string> = {
@@ -42,49 +43,62 @@ export function GetInTouch() {
           </div>
         </div>
 
-        <div className="grid md:grid-cols-3 gap-6 lg:gap-8">
+        <div className="grid md:grid-cols-3 gap-6 lg:gap-8 items-stretch">
           {clinicList.map((c) => {
             const telHref = `tel:${c.phone.replace(/[^\d+]/g, "")}`;
             return (
               <div
                 key={c.key}
-                id={c.key === "sanssouci" ? "sanssouci" : c.key}
-                className="rounded-[20px] bg-cream-paper border border-black/10 p-8 md:p-9"
+                id={c.key}
+                className="h-full flex flex-col rounded-[20px] bg-cream-paper border border-black/10 p-6 md:p-7 scroll-mt-28"
               >
-                <div className="flex items-center justify-end">
-                  <span
-                    className="chip"
-                    style={{ background: chipColor[c.key] }}
-                  />
-                </div>
-                <h3
-                  className="font-display text-[26px] mt-6 leading-tight"
-                  style={{ fontVariationSettings: "'SOFT' 100,'opsz' 40" }}
-                >
-                  {c.label}
-                </h3>
-                <div className="mt-5 text-[15px] text-ink-2 space-y-2">
-                  <div>
-                    {c.address}, {c.suburbLine}
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <span className="allcaps text-ink-3">Phone</span>{" "}
-                    <a href={telHref} className="link-editorial">
-                      {c.phone}
-                    </a>
-                  </div>
-                  <div className="flex items-center gap-2">
-                    <span className="allcaps text-ink-3">Email</span>{" "}
-                    <a
-                      href={`mailto:${c.email}`}
-                      className="link-editorial"
+                {/* Info block */}
+                <div>
+                  <div className="flex items-center justify-between">
+                    <h3
+                      className="font-display text-[22px] leading-tight"
+                      style={{
+                        fontVariationSettings: "'SOFT' 100,'opsz' 40",
+                      }}
                     >
-                      {c.email}
-                    </a>
+                      {c.label}
+                    </h3>
+                    <span
+                      className="chip"
+                      style={{ background: chipColor[c.key] }}
+                    />
                   </div>
-                  <div className="pt-1 text-ink-3 text-[13.5px]">
-                    {hoursLine[c.key]}
+                  <div className="mt-4 text-[14.5px] text-ink-2 space-y-2">
+                    <div>
+                      {c.address}, {c.suburbLine}
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <span className="allcaps text-ink-3">Phone</span>{" "}
+                      <a href={telHref} className="link-editorial">
+                        {c.phone}
+                      </a>
+                    </div>
+                    <div className="flex items-center gap-2">
+                      <span className="allcaps text-ink-3">Email</span>{" "}
+                      <a
+                        href={`mailto:${c.email}`}
+                        className="link-editorial break-all"
+                      >
+                        {c.email}
+                      </a>
+                    </div>
+                    <div className="pt-1 text-ink-3 text-[13px]">
+                      {hoursLine[c.key]}
+                    </div>
                   </div>
+                </div>
+
+                {/* Divider */}
+                <div className="hairline w-full my-6" />
+
+                {/* Form (fills the remaining column height) */}
+                <div className="flex-1">
+                  <LocationContactForm clinicKey={c.key} embedded />
                 </div>
               </div>
             );
@@ -121,12 +135,16 @@ export function GetInTouch() {
               <div className="allcaps text-ink-3">
                 After hours & emergencies
               </div>
-              <p className="mt-1 text-ink-2 text-[15.5px] max-w-[62ch]">
+              <p className="mt-1 text-ink-2 text-[15.5px]">
                 For urgent care outside our opening hours, call{" "}
-                <a href="tel:137425" className="link-editorial">
+                <a href="tel:137425" className="link-editorial whitespace-nowrap">
                   13 SICK (13 74 25)
                 </a>
-                . In an emergency, dial{" "}
+                {" "}or Healthdirect on{" "}
+                <a href="tel:1800022222" className="link-editorial whitespace-nowrap">
+                  1800 022 222
+                </a>
+                . In an emergency, dial&nbsp;
                 <a href="tel:000" className="link-editorial">
                   000
                 </a>

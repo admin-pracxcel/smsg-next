@@ -47,14 +47,14 @@ const subBrandLogo: Record<
     alt: "Excelsia Specialist Centre logo",
     maxH: "max-h-[80px]",
     primary: "Excelsia",
-    italic: "Specialists",
+    italic: "Specialist Centre",
   },
   clarion: {
     src: "/website-images/Clarion Skin Cancer Clinic.webp",
     alt: "Clarion Skin Cancer Clinic logo",
     maxH: "max-h-[72px]",
     primary: "Clarion",
-    italic: "Skin Cancer",
+    italic: "Skin Cancer Clinic",
   },
   sydneycosmedic: {
     src: "/website-images/Sydney Cosmedic.webp",
@@ -77,7 +77,7 @@ export function HomeHero() {
             <div className="flex items-center gap-4 mb-8 md:mb-10">
               <span className="hairline w-10 md:w-16" />
               <span className="eyebrow text-[15px] md:text-[17px] text-ink-2">
-                Specialised medical care in Sydney. Since 2014.
+                Specialised medical care in Sydney. Tradition since 1961.
               </span>
             </div>
 
@@ -166,14 +166,14 @@ export function HomeHero() {
             </span>
           </div>
           <div className="hairline w-full" />
-          <ul className="grid grid-cols-2 md:grid-cols-5 gap-4 mt-6">
+          <ul className="grid grid-cols-2 md:grid-cols-5 gap-4 mt-6 items-stretch">
             {subBrandList.map((sb) => {
               const logo = subBrandLogo[sb.key];
               return (
-                <li key={sb.key}>
+                <li key={sb.key} className="h-full">
                   <Link
                     href={routes.subBrand(sb.key)}
-                    className="group flex flex-col rounded-[16px] border border-black/10 bg-cream-paper hover:border-ink/25 hover:bg-cream transition overflow-hidden"
+                    className="group flex flex-col h-full rounded-[16px] border border-black/10 bg-cream-paper hover:border-ink/25 hover:bg-cream transition overflow-hidden"
                   >
                     <span className="block bg-white border-b border-black/10 flex items-center justify-center h-[96px] px-4">
                       {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -184,14 +184,14 @@ export function HomeHero() {
                         className={`${logo.maxH} max-w-full object-contain`}
                       />
                     </span>
-                    <span className="flex items-center justify-between gap-2 px-4 py-4">
+                    <span className="flex flex-1 items-center justify-between gap-2 px-4 py-4">
                       <span className="flex items-center gap-2 min-w-0">
                         <span
                           className="w-1.5 h-1.5 rounded-full shrink-0"
                           style={{ background: sb.dotColor }}
                         />
                         <span
-                          className="font-display text-[14.5px] leading-tight text-ink truncate"
+                          className="font-display text-[14.5px] leading-tight text-ink"
                           style={{
                             fontVariationSettings: "'SOFT' 100,'opsz' 24",
                           }}

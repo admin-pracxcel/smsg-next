@@ -71,7 +71,7 @@ const LOCATIONS = [
 ];
 
 const BOOK_TILES: Array<{ key: "earlwood" | "bangor" | "sanssouci"; sub: string }> = [
-  { key: "earlwood", sub: "5 GPs with skin cancer experience" },
+  { key: "earlwood", sub: "GPs with skin cancer experience" },
   { key: "bangor", sub: "Dr Margaret Colwell · Dr Tao Geng" },
   { key: "sanssouci", sub: "Dr Jonathan Moore · Dr Marloes Nordkamp" },
 ];

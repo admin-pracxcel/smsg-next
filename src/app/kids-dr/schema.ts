@@ -35,7 +35,7 @@ export function buildKidsDrSchema() {
       name: "Kids' Dr",
       url: hubUrl,
       description:
-        "Paediatric care coordinated across paediatrician, psychology, allied health and school. Three consultant paediatricians and a ten-strong allied team at SMSG.",
+        "Paediatric care coordinated across paediatrician, psychology, allied health and school. Consultant paediatricians and an allied team at SMSG.",
       parentOrganization: { "@id": `${SITE}/#org` },
       medicalSpecialty: ["Pediatrics", "Psychology"],
       availableService: [

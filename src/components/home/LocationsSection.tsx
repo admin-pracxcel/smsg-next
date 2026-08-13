@@ -46,7 +46,7 @@ const visuals: Record<ClinicKey, ClinicVisual> = {
   bangor: {
     image: "/website-images/bangor.webp",
     blurb:
-      "Nestled in Bangor Shopping Centre. Weekday family medicine, visiting geriatricians, respiratory and endocrine specialists.",
+      "Nestled in Bangor Shopping Centre. Weekday family medicine with a range of multi-disciplinary specialists and allied health professionals.",
     addressLine: "Shop 6, 121 Yala Road, Bangor NSW",
     hoursLine: "Mon-Fri 9-6",
     reviewsUrl: "https://maps.app.goo.gl/MXMtTDfToyt967HaA",

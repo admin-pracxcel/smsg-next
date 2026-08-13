@@ -114,7 +114,7 @@ export default function PhysiotherapyPage() {
             </div>
             <div className="md:col-span-8 body-editorial max-w-[62ch] text-cream/90">
               <p>Physiotherapy addresses movement and function. Physiotherapists assess how you move, identify what&apos;s contributing to pain or restriction, and work with you on treatment that reduces symptoms and improves function over time.</p>
-              <p>Two physiotherapists consult at SMSG. Antonio Kim sees adult patients at Earlwood (English, Korean). Daniel Tran consults across Earlwood and Sans Souci with a paediatric focus through Kids&apos; Dr, and also sees adults (English, Vietnamese). Physiotherapy sits within general adult care and, for children, within our Kids&apos; Dr multidisciplinary team.</p>
+              <p>Our physiotherapists consult at SMSG. Antonio Kim sees adult patients at Earlwood (English, Korean). Daniel Tran consults across Earlwood and Sans Souci with a paediatric focus through Kids&apos; Dr, and also sees adults (English, Vietnamese). Physiotherapy sits within general adult care and, for children, within our Kids&apos; Dr multidisciplinary team.</p>
             </div>
           </div>
         </div>

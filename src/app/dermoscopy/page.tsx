@@ -47,7 +47,7 @@ const LOCATIONS = [
 ];
 
 const BOOK_TILES: Array<{ key: "earlwood" | "bangor" | "sanssouci"; sub: string }> = [
-  { key: "earlwood", sub: "5 GPs with dermoscopy experience" },
+  { key: "earlwood", sub: "GPs with dermoscopy experience" },
   { key: "bangor", sub: "Dr Margaret Colwell · Dr Tao Geng" },
   { key: "sanssouci", sub: "Dr Jonathan Moore · Dr Marloes Nordkamp" },
 ];

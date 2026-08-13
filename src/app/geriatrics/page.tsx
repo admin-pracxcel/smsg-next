@@ -24,7 +24,7 @@ function Arrow({ className = "arrow" }: { className?: string }) {
 function Chev() { return (<span className="chev"><svg width="12" height="12" viewBox="0 0 14 14" fill="none" aria-hidden="true"><path d="M3 5l4 4 4-4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" /></svg></span>); }
 
 const GLANCE_ROWS = [
-  { label: "Consultants", value: "Five geriatricians across three centres" },
+  { label: "Consultants", value: "Geriatricians across three centres" },
   { label: "Locations", value: "Earlwood, Bangor, Sans Souci" },
   { label: "Referral", value: "GP referral required for Medicare rebate" },
   { label: "Focus", value: "Older adults and complex care" },

@@ -117,7 +117,8 @@ export default function ContactPage() {
               return (
                 <div
                   key={c.key}
-                  className={`rounded-3xl border border-black/10 ${rowBg} p-6 md:p-10`}
+                  id={c.key}
+                  className={`rounded-3xl border border-black/10 ${rowBg} p-6 md:p-10 scroll-mt-28`}
                 >
                   <div className="grid md:grid-cols-12 gap-8 md:gap-10">
                     {/* Left: info + map */}

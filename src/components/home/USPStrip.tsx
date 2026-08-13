@@ -39,7 +39,7 @@ export function USPStrip() {
 
             <UspItem
               label="Reviews"
-              foot="Across all three centres on Google"
+              foot="Across all services"
               icon={
                 <>
                   <path
@@ -80,7 +80,7 @@ export function USPStrip() {
                 </>
               }
             >
-              <span className="italic">AGPAL</span>-accredited practice
+              <span className="italic">AGPAL</span>-accredited
             </UspItem>
 
             <UspItem

@@ -153,9 +153,8 @@ export default function KidsDrHubPage() {
                 </a>
               </div>
 
-              <div className="mt-10 grid grid-cols-3 gap-6 md:gap-8 max-w-[560px]">
-                <Stat n="3" label="Paediatricians" />
-                <Stat n="10" label="Allied & psychology" />
+              <div className="mt-10 grid grid-cols-2 gap-6 md:gap-8 max-w-[560px]">
+                <Stat n="5" label="Clinical pathways" />
                 <Stat n="Sans Souci" label="Primary base" small />
               </div>
             </div>
@@ -176,6 +175,15 @@ export default function KidsDrHubPage() {
                   <span className="sep" />
                   <span>Sydney</span>
                 </div>
+
+                <div className="plate-photo">
+                  <Image
+                    src="/website-images/paediatric-medicine-detail.webp"
+                    alt=""
+                    fill
+                    sizes="(min-width: 768px) 40vw, 100vw"
+                  />
+                </div>
               </div>
             </div>
           </div>
@@ -193,8 +201,8 @@ export default function KidsDrHubPage() {
                 <span className="italic font-display-warm">as it should be.</span>
               </h2>
               <div className="mt-8 space-y-3">
-                <IntroBullet>Three paediatricians</IntroBullet>
-                <IntroBullet>Ten allied and psychology clinicians</IntroBullet>
+                <IntroBullet>Consultant paediatricians</IntroBullet>
+                <IntroBullet>Allied health and psychology clinicians</IntroBullet>
                 <IntroBullet>
                   Coordinated across paediatrics, psychology, allied health and
                   school
@@ -213,11 +221,11 @@ export default function KidsDrHubPage() {
               </p>
               <p>
                 Kids&apos; Dr is Specialist Medical Services Group&apos;s
-                (SMSG) paediatric sub-brand. Three consultant paediatricians
-                work alongside a ten-strong team of psychologists, counsellors,
-                dietitians, physiotherapists, a podiatrist and a speech
-                pathologist for the children and families who need more than a
-                single appointment can offer. Assessment that takes time.
+                (SMSG) paediatric sub-brand. Consultant paediatricians work
+                alongside a team of psychologists, counsellors, dietitians,
+                physiotherapists, a podiatrist and a speech pathologist for
+                the children and families who need more than a single
+                appointment can offer. Assessment that takes time.
                 Reports written in language families can actually use.
                 Coordination across the disciplines involved in one
                 child&apos;s care, and communication with schools when that
@@ -250,9 +258,9 @@ export default function KidsDrHubPage() {
             <div className="md:col-span-8">
               <span className="allcaps text-ink-3">Your Kids&apos; Dr team</span>
               <h2 className="font-display h-section mt-3 max-w-[26ch]">
-                Three paediatricians and{" "}
+                Consultant paediatricians and{" "}
                 <span className="italic font-display-warm">
-                  a ten-strong allied team.
+                  our allied team.
                 </span>
               </h2>
             </div>

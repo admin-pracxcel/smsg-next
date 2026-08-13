@@ -136,8 +136,7 @@ export default function ClarionHubPage() {
                 </a>
               </div>
 
-              <div className="mt-10 grid grid-cols-3 gap-6 md:gap-8 max-w-[520px]">
-                <Stat n="7" label="GPs with skin cancer training" />
+              <div className="mt-10 grid grid-cols-2 gap-6 md:gap-8 max-w-[520px]">
                 <Stat n="3" label="SMSG centres" />
                 <Stat n="MIA" label="Melanoma Institute of Australia link" />
               </div>
@@ -159,6 +158,15 @@ export default function ClarionHubPage() {
                   <span className="sep" />
                   <span>Sydney</span>
                 </div>
+
+                <div className="plate-photo">
+                  <Image
+                    src="/website-images/full-body-skin-checks-detail.webp"
+                    alt=""
+                    fill
+                    sizes="(min-width: 768px) 40vw, 100vw"
+                  />
+                </div>
               </div>
             </div>
           </div>
@@ -177,7 +185,7 @@ export default function ClarionHubPage() {
               </h2>
               <div className="mt-8 space-y-3">
                 <IntroBullet>
-                  Seven GPs delivering skin cancer medicine across our centres
+                  GPs delivering skin cancer medicine across our centres
                 </IntroBullet>
                 <IntroBullet>Full excision service on-site</IntroBullet>
                 <IntroBullet>
@@ -197,16 +205,15 @@ export default function ClarionHubPage() {
               </p>
               <p>
                 Clarion Skin Cancer Clinic is SMSG&apos;s dedicated skin cancer
-                sub-brand. Five GPs form the formal Clarion team, delivering
-                full-body skin checks, dermoscopy, and excision procedures
-                across our three Sydney centres. Two further GPs from our
-                Aurora Women &amp; Babies Health team perform skin cancer
-                medicine at their home centres and complete our extended skin
-                cancer network, bringing the group to seven clinicians in
-                total. Dr Jonathan Moore holds a plastic surgery assisting
-                rotation at the Melanoma Institute of Australia, which gives
-                Clarion cases a direct clinical link into a tertiary melanoma
-                service where warranted.
+                sub-brand. Our formal Clarion team delivers full-body skin
+                checks, dermoscopy, and excision procedures across our three
+                Sydney centres. Additional GPs from our Aurora Women &amp;
+                Babies Health team perform skin cancer medicine at their home
+                centres and complete our extended skin cancer network. Dr
+                Jonathan Moore holds a plastic surgery assisting rotation at
+                the Melanoma Institute of Australia, which gives Clarion cases
+                a direct clinical link into a tertiary melanoma service where
+                warranted.
               </p>
               <p>
                 Our Clarion clinicians work as independent practitioners. All
@@ -238,19 +245,19 @@ export default function ClarionHubPage() {
             <div className="md:col-span-8">
               <span className="allcaps text-ink-3">Your Clarion team</span>
               <h2 className="font-display h-section mt-3 max-w-[26ch]">
-                Seven GPs with{" "}
+                GPs with{" "}
                 <span className="italic font-display-warm">
                   dedicated skin cancer training.
                 </span>
               </h2>
             </div>
             <div className="md:col-span-4 body-lg text-ink-2 max-w-[42ch]">
-              Five GPs make up the formal Clarion team, delivering skin cancer
-              medicine from our supporting premises as independent
-              practitioners. Alongside them, two Aurora Women &amp; Babies
-              Health GPs perform skin cancer work at their home centres and
-              complete our extended skin cancer network. Not sure who to see?
-              Our reception team can help you match.
+              Our formal Clarion team delivers skin cancer medicine from our
+              supporting premises as independent practitioners. Alongside
+              them, Aurora Women &amp; Babies Health GPs perform skin cancer
+              work at their home centres and complete our extended skin cancer
+              network. Not sure who to see? Our reception team can help you
+              match.
             </div>
           </div>
 
