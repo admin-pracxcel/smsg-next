@@ -150,7 +150,7 @@ export default function IudPage() {
 
               <div className="mt-9 flex flex-wrap items-center gap-3">
                 <a href="/patient-information/book-online/" className="btn-primary">
-                  Book insertion or removal
+                  Book IUD or implant
                   <Arrow />
                 </a>
                 <a href="#options" className="btn-outline">
@@ -395,15 +395,15 @@ export default function IudPage() {
             <div className="md:col-span-8">
               <span className="allcaps text-ink-3">Where it&apos;s offered</span>
               <h2 className="font-display h-section mt-3 max-w-[24ch]">
-                Insertion and removal,{" "}
+                IUD and implant, insertion and removal,{" "}
                 <span className="italic font-display-warm">
                   across all three centres.
                 </span>
               </h2>
             </div>
             <div className="md:col-span-4 body-lg text-ink-2 max-w-[42ch]">
-              Insertion and removal are available at each of our three
-              locations.
+              IUD and implant insertion and removal are available at each of
+              our three locations.
             </div>
           </div>
 
@@ -486,8 +486,8 @@ export default function IudPage() {
               </h2>
             </div>
             <div className="md:col-span-4 body-lg text-ink-2 max-w-[42ch]">
-              Insertion and removal are performed by the same GP you consult
-              with, part of our Aurora team.
+              IUD and implant insertion and removal are performed by the same
+              GP you consult with, part of our Aurora team.
             </div>
           </div>
 
@@ -686,9 +686,7 @@ export default function IudPage() {
                 <span className="italic font-display-warm">book?</span>
               </h2>
               <p className="mt-6 body-lg text-cream/85 max-w-[50ch]">
-                Choose the centre closest to you. If you&apos;re booking an
-                insertion at Sans Souci, reception will move you across to
-                Earlwood or Bangor with a doctor who does the procedure.
+                Choose the centre closest to you.
               </p>
             </div>
             <div className="md:col-span-5">

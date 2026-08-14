@@ -9,7 +9,7 @@ import { buildAboutSchema } from "./schema";
 export const metadata: Metadata = {
   title: "About SMSG | Specialist Medical Services Group",
   description:
-    "SMSG is an AGPAL-accredited medical group operating three centres across southern Sydney, with sixty-plus independent practitioners across five clinical sub-brands.",
+    "SMSG is an AGPAL-accredited medical group operating three centres across Sydney, with sixty-plus independent practitioners across five clinical sub-brands.",
   alternates: { canonical: "https://smsg.au/about/" },
 };
 

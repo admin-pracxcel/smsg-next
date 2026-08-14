@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     template: "%s | SMSG",
   },
   description:
-    "Independent practitioners delivering specialised care across three southern Sydney centres: Earlwood, Bangor, and Sans Souci.",
+    "Independent practitioners delivering specialised care across three Sydney centres: Earlwood, Bangor, and Sans Souci.",
   // Favicon is served via the file convention at src/app/icon.png
   // Pre-launch: block indexing sitewide. Flip to `index: true, follow: true`
   // (and update src/app/robots.ts) when Sim greenlights launch.

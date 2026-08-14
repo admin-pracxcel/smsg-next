@@ -22,6 +22,8 @@ export const SUB_BRANDS: Record<
     dotColor: string;
     accent: string;
     accentDeep: string;
+    /** One-line evergreen blurb for cross-brand cards. */
+    blurb: string;
   }
 > = {
   aurora: {
@@ -32,6 +34,7 @@ export const SUB_BRANDS: Record<
     dotColor: "#D9A79A",
     accent: "var(--aurora)",
     accentDeep: "var(--aurora-deep)",
+    blurb: "Women's and babies' health, from pregnancy through menopause.",
   },
   kidsdr: {
     key: "kidsdr",
@@ -41,6 +44,7 @@ export const SUB_BRANDS: Record<
     dotColor: "#E9B84A",
     accent: "var(--kids)",
     accentDeep: "#B78E2E",
+    blurb: "Paediatric care through the transition to parenthood and beyond.",
   },
   excelsia: {
     key: "excelsia",
@@ -50,6 +54,7 @@ export const SUB_BRANDS: Record<
     dotColor: "#6B8E9E",
     accent: "var(--excelsia)",
     accentDeep: "#4A6B7A",
+    blurb: "Consultant physicians and surgeons, no city trip.",
   },
   clarion: {
     key: "clarion",
@@ -59,6 +64,7 @@ export const SUB_BRANDS: Record<
     dotColor: "#B44468",
     accent: "var(--clarion)",
     accentDeep: "#8B2E4A",
+    blurb: "Skin cancer detection, dermoscopy and excision, medically led.",
   },
   sydneycosmedic: {
     key: "sydneycosmedic",
@@ -68,7 +74,25 @@ export const SUB_BRANDS: Record<
     dotColor: "#C9748B",
     accent: "var(--cosmedic)",
     accentDeep: "#9C4D65",
+    blurb: "Non-surgical cosmetic care from medically-qualified practitioners.",
   },
 };
 
 export const subBrandList = SUB_BRAND_KEYS.map((k) => SUB_BRANDS[k]);
+
+/**
+ * Returns the OTHER four sub-brands as related-card items, ready to pass
+ * to `<SubBrandRelatedPages items={...}>`. Used at the foot of each hub.
+ */
+export function getOtherSubBrandItems(current: SubBrandKey) {
+  return SUB_BRAND_KEYS.filter((k) => k !== current).map((k) => {
+    const b = SUB_BRANDS[k];
+    return {
+      eyebrow: "Sub-brand",
+      title: b.label,
+      body: b.blurb,
+      href: `/${b.slug}/`,
+      dotColor: b.dotColor,
+    };
+  });
+}

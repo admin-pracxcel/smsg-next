@@ -52,7 +52,7 @@ export function buildBangorSchema() {
         aggregateRating: {
           "@type": "AggregateRating",
           ratingValue: "4.8",
-          reviewCount: "342",
+          reviewCount: "358",
           bestRating: "5",
           worstRating: "1",
         },

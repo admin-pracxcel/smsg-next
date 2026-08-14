@@ -40,7 +40,7 @@ const visuals: Record<ClinicKey, ClinicVisual> = {
     ),
     reviewsUrl: "https://maps.app.goo.gl/orET9Ex7YTUNnis1A",
     reviewsRating: "4.6",
-    reviewsCount: "713",
+    reviewsCount: "733",
     chipColor: "#B76B4C",
   },
   bangor: {
@@ -51,7 +51,7 @@ const visuals: Record<ClinicKey, ClinicVisual> = {
     hoursLine: "Mon-Fri 9-6",
     reviewsUrl: "https://maps.app.goo.gl/MXMtTDfToyt967HaA",
     reviewsRating: "4.8",
-    reviewsCount: "342",
+    reviewsCount: "358",
     chipColor: "#B7967A",
   },
   sanssouci: {
@@ -62,7 +62,7 @@ const visuals: Record<ClinicKey, ClinicVisual> = {
     hoursLine: "Mon-Fri 9-6",
     reviewsUrl: "https://maps.app.goo.gl/ATjVSnzosHyoPv6P7",
     reviewsRating: "4.8",
-    reviewsCount: "311",
+    reviewsCount: "344",
     chipColor: "#D9A79A",
   },
 };

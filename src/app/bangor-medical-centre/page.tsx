@@ -65,7 +65,7 @@ export default function BangorPage() {
         photoAlt="Bangor Medical Centre, 121 Yala Road"
         google={{
           rating: "4.8",
-          reviewCount: "342",
+          reviewCount: "358",
           mapUrl: GOOGLE_MAP_URL,
         }}
       />
@@ -348,7 +348,7 @@ export default function BangorPage() {
         }}
         google={{
           href: GOOGLE_MAP_URL,
-          summary: "4.8 stars · 342 reviews",
+          summary: "4.8 stars · 358 reviews",
         }}
         bookOverride={{
           eyebrow: "Book at Bangor",

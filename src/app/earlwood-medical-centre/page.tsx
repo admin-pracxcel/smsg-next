@@ -65,7 +65,7 @@ export default function EarlwoodPage() {
         photoAlt="Earlwood Medical Centre, 352-354 Homer Street"
         google={{
           rating: "4.6",
-          reviewCount: "713",
+          reviewCount: "733",
           mapUrl: GOOGLE_MAP_URL,
         }}
       />
@@ -365,7 +365,7 @@ export default function EarlwoodPage() {
         }}
         google={{
           href: GOOGLE_MAP_URL,
-          summary: "4.6 stars · 713 reviews",
+          summary: "4.6 stars · 733 reviews",
         }}
         bookOverride={{
           eyebrow: "Book at Earlwood",

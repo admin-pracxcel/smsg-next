@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# client working docs (kept local)
+SMSG-Feedback.pdf
+smsg.csv

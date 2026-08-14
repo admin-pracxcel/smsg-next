@@ -80,7 +80,7 @@ export function TrustedByCommunity() {
             </h2>
             <p className="body-lg text-cream/85 mt-8 max-w-[46ch]">
               More than{" "}
-              <span className="num-strong text-blush">1,340</span> Google
+              <span className="num-strong text-blush">1,400+</span> Google
               reviews across all services. AGPAL-accredited. Recognised
               by the Central and Eastern Sydney Primary Health Network for
               excellence in general practice.
@@ -97,7 +97,7 @@ export function TrustedByCommunity() {
           <div className="md:col-span-7">
             <div className="grid grid-cols-2 gap-x-5 sm:gap-x-8 gap-y-8 sm:gap-y-10">
               <Stat
-                num="1,340+"
+                num="1,400+"
                 label="Patient reviews across the group"
               />
               <Stat num="60+" label="Practitioners across GP, specialist and allied health" />

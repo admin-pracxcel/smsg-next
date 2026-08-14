@@ -23,8 +23,8 @@ export const homeSchema: Record<string, unknown> = {
       ],
       aggregateRating: {
         "@type": "AggregateRating",
-        ratingValue: "4.73",
-        reviewCount: "1340",
+        ratingValue: "4.70",
+        reviewCount: "1435",
         bestRating: "5",
         worstRating: "1",
       },
@@ -73,7 +73,7 @@ export const homeSchema: Record<string, unknown> = {
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.6",
-        reviewCount: "713",
+        reviewCount: "733",
       },
     },
     {
@@ -109,7 +109,7 @@ export const homeSchema: Record<string, unknown> = {
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.8",
-        reviewCount: "342",
+        reviewCount: "358",
       },
     },
     {
@@ -145,7 +145,7 @@ export const homeSchema: Record<string, unknown> = {
       aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.8",
-        reviewCount: "311",
+        reviewCount: "344",
       },
     },
     {

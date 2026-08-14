@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { HomeHero } from "@/components/home/HomeHero";
 import { USPStrip } from "@/components/home/USPStrip";
 import { CoordinatedCareSection } from "@/components/home/CoordinatedCareSection";
-import { SubBrandsSection } from "@/components/home/SubBrandsSection";
 import { LocationsSection } from "@/components/home/LocationsSection";
 import { HowCareWorks } from "@/components/home/HowCareWorks";
 import { PatientInfoStrip } from "@/components/home/PatientInfoStrip";
@@ -25,7 +24,6 @@ export default function Home() {
       <HomeHero />
       <USPStrip />
       <CoordinatedCareSection />
-      <SubBrandsSection />
       <LocationsSection />
       <HowCareWorks />
       <PatientInfoStrip />

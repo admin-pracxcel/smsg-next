@@ -139,7 +139,7 @@ export function AuroraHero() {
 
               <div className="plate-photo">
                 <Image
-                  src="/website-images/booking-with-aurora.webp"
+                  src="/website-images/aurora-hero.webp"
                   alt=""
                   fill
                   sizes="(min-width: 768px) 40vw, 100vw"

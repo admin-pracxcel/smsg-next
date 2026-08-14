@@ -58,7 +58,7 @@ export function buildEarlwoodSchema() {
         aggregateRating: {
           "@type": "AggregateRating",
           ratingValue: "4.6",
-          reviewCount: "713",
+          reviewCount: "733",
           bestRating: "5",
           worstRating: "1",
         },

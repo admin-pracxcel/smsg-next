@@ -162,7 +162,7 @@ export function HomeHero() {
         <div className="mt-14 md:mt-20">
           <div className="flex items-baseline justify-between mb-4">
             <span className="allcaps text-ink-3">
-              Specialty care · Explore by area
+              Specialised care · For the moments that need it
             </span>
           </div>
           <div className="hairline w-full" />
@@ -184,40 +184,45 @@ export function HomeHero() {
                         className={`${logo.maxH} max-w-full object-contain`}
                       />
                     </span>
-                    <span className="flex flex-1 items-center justify-between gap-2 px-4 py-4">
-                      <span className="flex items-center gap-2 min-w-0">
-                        <span
-                          className="w-1.5 h-1.5 rounded-full shrink-0"
-                          style={{ background: sb.dotColor }}
-                        />
-                        <span
-                          className="font-display text-[14.5px] leading-tight text-ink"
-                          style={{
-                            fontVariationSettings: "'SOFT' 100,'opsz' 24",
-                          }}
-                        >
-                          {logo.primary}{" "}
-                          <span className="italic text-ink-2">
-                            {logo.italic}
+                    <span className="flex flex-1 flex-col gap-2 px-4 py-4">
+                      <span className="flex items-center justify-between gap-2 min-w-0">
+                        <span className="flex items-center gap-2 min-w-0">
+                          <span
+                            className="w-1.5 h-1.5 rounded-full shrink-0"
+                            style={{ background: sb.dotColor }}
+                          />
+                          <span
+                            className="font-display text-[14.5px] leading-tight text-ink"
+                            style={{
+                              fontVariationSettings: "'SOFT' 100,'opsz' 24",
+                            }}
+                          >
+                            {logo.primary}{" "}
+                            <span className="italic text-ink-2">
+                              {logo.italic}
+                            </span>
                           </span>
                         </span>
+                        <svg
+                          className="arrow shrink-0 text-ink-3"
+                          width="12"
+                          height="12"
+                          viewBox="0 0 14 14"
+                          fill="none"
+                          aria-hidden="true"
+                        >
+                          <path
+                            d="M2 7h9M8 4l3 3-3 3"
+                            stroke="currentColor"
+                            strokeWidth="1.4"
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                          />
+                        </svg>
                       </span>
-                      <svg
-                        className="arrow shrink-0 text-ink-3"
-                        width="12"
-                        height="12"
-                        viewBox="0 0 14 14"
-                        fill="none"
-                        aria-hidden="true"
-                      >
-                        <path
-                          d="M2 7h9M8 4l3 3-3 3"
-                          stroke="currentColor"
-                          strokeWidth="1.4"
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                        />
-                      </svg>
+                      <span className="text-[12.5px] leading-snug text-ink-2 pl-3.5">
+                        {sb.blurb}
+                      </span>
                     </span>
                   </Link>
                 </li>

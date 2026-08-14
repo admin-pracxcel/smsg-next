@@ -21,7 +21,7 @@ export function buildAboutSchema() {
         url: "https://smsg.au/about/",
         name: "About SMSG | Specialist Medical Services Group",
         description:
-          "SMSG is an AGPAL-accredited medical group operating three centres across southern Sydney, with sixty-plus independent practitioners across five clinical sub-brands.",
+          "SMSG is an AGPAL-accredited medical group operating three centres across Sydney, with sixty-plus independent practitioners across five clinical sub-brands.",
         inLanguage: "en-AU",
         about: { "@id": "https://smsg.au/#org" },
         isPartOf: { "@id": "https://smsg.au/#org" },

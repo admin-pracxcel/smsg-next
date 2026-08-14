@@ -5,7 +5,7 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 import { JsonLd } from "@/components/JsonLd";
 import { routes, external } from "@/lib/routes";
 import { CLINICS, clinicList } from "@/lib/clinics";
-import { SUB_BRANDS } from "@/lib/sub-brands";
+import { getOtherSubBrandItems } from "@/lib/sub-brands";
 import { getAllPractitioners } from "@/lib/content";
 import type { Practitioner } from "@/lib/schemas/practitioner";
 import { SubBrandCareAreas, type CareTile } from "@/components/sub-brand/SubBrandCareAreas";
@@ -178,7 +178,7 @@ export default function KidsDrHubPage() {
 
                 <div className="plate-photo">
                   <Image
-                    src="/website-images/paediatric-medicine-detail.webp"
+                    src="/website-images/kids-dr-hero.webp"
                     alt=""
                     fill
                     sizes="(min-width: 768px) 40vw, 100vw"
@@ -523,36 +523,10 @@ export default function KidsDrHubPage() {
 
       <SubBrandRelatedPages
         subBrand="kidsdr"
-        headingLead="Read on"
-        headingItalic="to go deeper."
-        supporting="A few pages that families most often move to from Kids' Dr."
-        items={[
-          {
-            eyebrow: "Service",
-            title: "ADHD diagnosis and management",
-            body: "What the assessment process looks like, and what happens next.",
-            href: "/adhd-diagnosis-and-management/",
-          },
-          {
-            eyebrow: "Service",
-            title: "Autism assessment",
-            body: "How assessment works across multiple sessions and disciplines.",
-            href: "/autism-assessment/",
-          },
-          {
-            eyebrow: "Location",
-            title: "Sans Souci Doctors",
-            body: "The primary Kids' Dr base, bayside on Campbell Street.",
-            href: routes.location("sanssouci"),
-          },
-          {
-            eyebrow: "Sub-brand",
-            title: "Aurora Women & Babies Health",
-            body: "Care for mothers alongside paediatric care for the child.",
-            href: routes.subBrand("aurora"),
-            dotColor: SUB_BRANDS.aurora.dotColor,
-          },
-        ]}
+        headingLead="Explore"
+        headingItalic="our other sub-brands."
+        supporting="The rest of the specialty care delivered across SMSG."
+        items={getOtherSubBrandItems("kidsdr")}
       />
 
       <JsonLd data={schema as unknown as Parameters<typeof JsonLd>[0]["data"]} />

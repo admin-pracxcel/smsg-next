@@ -60,7 +60,7 @@ export function buildAuroraSchema() {
       alternateName: "Aurora Women and Babies",
       url: hubUrl,
       description:
-        "Women's healthcare that grows with you, from your first period through motherhood, midlife and beyond. Ten female clinicians consulting across Earlwood, Bangor and Sans Souci.",
+        "Women's healthcare that grows with you, from your first period through motherhood, midlife and beyond. Aurora clinicians consulting across Earlwood, Bangor and Sans Souci.",
       parentOrganization: { "@id": `${SITE}/#org` },
       medicalSpecialty: [
         "ObstetricsAndGynecology",
@@ -114,7 +114,7 @@ export function buildAuroraSchema() {
           name: "Can I request a female practitioner?",
           acceptedAnswer: {
             "@type": "Answer",
-            text: "Aurora is entirely staffed by female clinicians, so any Aurora appointment will be with a female doctor.",
+            text: "Yes. Mention this at booking and our reception team will match you with an available Aurora clinician who fits.",
           },
         },
         {

@@ -86,11 +86,11 @@ export function LocationVisit({
         aria-hidden="true"
       />
       <div className="relative max-w-[1360px] mx-auto px-5 md:px-10 py-20 md:py-28">
-        <div className="grid md:grid-cols-12 gap-10 md:gap-14 items-start">
+        <div className="grid md:grid-cols-12 gap-10 md:gap-14 items-stretch">
           {/* Hours */}
-          <div className="md:col-span-6 space-y-6">
+          <div className="md:col-span-6 space-y-6 md:flex md:flex-col md:space-y-0 md:gap-6">
             <span className="allcaps text-ink-3">{hoursEyebrow}</span>
-            <h2 className="font-display h-section mt-3 max-w-[20ch]">
+            <h2 className="font-display mt-3 whitespace-nowrap text-[clamp(1.6rem,2.6vw,2.2rem)] leading-[1.05] tracking-[-0.015em]">
               {hoursHeadingLead}{" "}
               <span className="italic font-display-warm">
                 {hoursHeadingItalic}
@@ -172,9 +172,9 @@ export function LocationVisit({
           </div>
 
           {/* Getting here */}
-          <div className="md:col-span-6 space-y-6">
+          <div className="md:col-span-6 space-y-6 md:flex md:flex-col md:space-y-0 md:gap-6">
             <span className="allcaps text-ink-3">{gettingHereEyebrow}</span>
-            <h2 className="font-display h-section mt-3 max-w-[20ch]">
+            <h2 className="font-display mt-3 whitespace-nowrap text-[clamp(1.6rem,2.6vw,2.2rem)] leading-[1.05] tracking-[-0.015em]">
               {gettingHereHeadingLead}{" "}
               <span className="italic font-display-warm">
                 {gettingHereHeadingItalic}
@@ -190,7 +190,7 @@ export function LocationVisit({
               ))}
             </div>
 
-            <div className="rounded-[20px] overflow-hidden border border-black/10 aspect-[16/10] bg-paper">
+            <div className="relative rounded-[20px] overflow-hidden border border-black/10 aspect-[16/9] md:aspect-auto md:flex-1 md:min-h-[240px] bg-paper">
               <iframe
                 src={`https://www.google.com/maps?q=${mapEmbedQuery}&output=embed`}
                 width="100%"
@@ -201,15 +201,14 @@ export function LocationVisit({
                 referrerPolicy="no-referrer-when-downgrade"
                 title={mapEmbedTitle}
               />
-            </div>
-            <div className="text-[13px] text-ink-3">
               <a
                 href={`https://www.google.com/maps/dir/?api=1&destination=${mapEmbedQuery}`}
                 target="_blank"
                 rel="noopener"
-                className="link-editorial text-[13px]"
+                className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-cream/95 backdrop-blur px-3 py-1.5 text-[12.5px] text-ink shadow-[0_4px_12px_-2px_rgba(26,24,21,0.25)] hover:bg-cream transition-colors"
               >
-                Get directions in Google Maps
+                Get directions
+                <ArrowIcon />
               </a>
             </div>
           </div>

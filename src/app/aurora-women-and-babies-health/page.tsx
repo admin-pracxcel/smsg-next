@@ -10,7 +10,7 @@ import { AuroraBookingGuidance } from "@/components/aurora/AuroraBookingGuidance
 import { AuroraFAQ } from "@/components/aurora/AuroraFAQ";
 import { SubBrandLocations } from "@/components/sub-brand/SubBrandLocations";
 import { SubBrandRelatedPages } from "@/components/sub-brand/SubBrandRelatedPages";
-import { SUB_BRANDS } from "@/lib/sub-brands";
+import { getOtherSubBrandItems } from "@/lib/sub-brands";
 import { buildAuroraSchema } from "./schema";
 
 export const metadata: Metadata = {
@@ -83,36 +83,10 @@ export default function AuroraHubPage() {
 
       <SubBrandRelatedPages
         subBrand="aurora"
-        headingLead="Read on"
-        headingItalic="to go deeper."
-        supporting="A few pages that patients most often move to from Aurora."
-        items={[
-          {
-            eyebrow: "Service",
-            title: "Hormonal IUD and contraceptive implant",
-            body: "Long-acting contraception you can plan your life around, rather than the other way around.",
-            href: "/iud-hormonal-implant/",
-          },
-          {
-            eyebrow: "Service",
-            title: "Antenatal shared care",
-            body: "Pregnancy care split between your GP and your chosen hospital, coordinated end-to-end.",
-            href: "/antenatal-shared-care/",
-          },
-          {
-            eyebrow: "Service",
-            title: "Cervical screening",
-            body: "What to expect at your first cervical screening, from the doctors who do them.",
-            href: "/cervical-screening/",
-          },
-          {
-            eyebrow: "Sub-brand",
-            title: "Kids' Dr",
-            body: "Paediatric care through the transition to parenthood and beyond.",
-            href: routes.subBrand("kidsdr"),
-            dotColor: SUB_BRANDS.kidsdr.dotColor,
-          },
-        ]}
+        headingLead="Explore"
+        headingItalic="our other sub-brands."
+        supporting="The rest of the specialty care delivered across SMSG."
+        items={getOtherSubBrandItems("aurora")}
       />
 
       <JsonLd data={schema as unknown as Parameters<typeof JsonLd>[0]["data"]} />

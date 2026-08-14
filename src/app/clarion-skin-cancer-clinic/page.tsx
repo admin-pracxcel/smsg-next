@@ -5,7 +5,7 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 import { JsonLd } from "@/components/JsonLd";
 import { routes, external } from "@/lib/routes";
 import { CLINICS, clinicList } from "@/lib/clinics";
-import { SUB_BRANDS } from "@/lib/sub-brands";
+import { getOtherSubBrandItems } from "@/lib/sub-brands";
 import { getAllPractitioners } from "@/lib/content";
 import type { Practitioner } from "@/lib/schemas/practitioner";
 import { SubBrandCareAreas, type CareTile } from "@/components/sub-brand/SubBrandCareAreas";
@@ -161,7 +161,7 @@ export default function ClarionHubPage() {
 
                 <div className="plate-photo">
                   <Image
-                    src="/website-images/full-body-skin-checks-detail.webp"
+                    src="/website-images/clarion-hero.webp"
                     alt=""
                     fill
                     sizes="(min-width: 768px) 40vw, 100vw"
@@ -485,36 +485,10 @@ export default function ClarionHubPage() {
 
       <SubBrandRelatedPages
         subBrand="clarion"
-        headingLead="Read on"
-        headingItalic="to go deeper."
-        supporting="A few pages that patients most often move to from Clarion."
-        items={[
-          {
-            eyebrow: "Service",
-            title: "Full-Body Skin Check",
-            body: "What happens at the appointment itself and what to expect afterwards.",
-            href: "#care",
-          },
-          {
-            eyebrow: "Service",
-            title: "Excision Procedures",
-            body: "How on-site excision works, from booking through pathology.",
-            href: "#care",
-          },
-          {
-            eyebrow: "Location",
-            title: "Earlwood Medical Centre",
-            body: "The centre with the largest Clarion team.",
-            href: routes.location("earlwood"),
-          },
-          {
-            eyebrow: "Sub-brand",
-            title: "Aurora Women & Babies Health",
-            body: "Cross-booked women's health appointments where relevant.",
-            href: routes.subBrand("aurora"),
-            dotColor: SUB_BRANDS.aurora.dotColor,
-          },
-        ]}
+        headingLead="Explore"
+        headingItalic="our other sub-brands."
+        supporting="The rest of the specialty care delivered across SMSG."
+        items={getOtherSubBrandItems("clarion")}
       />
 
       <JsonLd data={schema as unknown as Parameters<typeof JsonLd>[0]["data"]} />

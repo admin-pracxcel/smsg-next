@@ -57,7 +57,7 @@ export function USPStrip() {
                 </>
               }
             >
-              <span className="num-strong">1,340+</span> patient{" "}
+              <span className="num-strong">1,400+</span> patient{" "}
               <span className="italic">reviews</span>
             </UspItem>
 

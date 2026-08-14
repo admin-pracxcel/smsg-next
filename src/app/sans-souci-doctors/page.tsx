@@ -65,7 +65,7 @@ export default function SansSouciPage() {
         photoAlt="Sans Souci Doctors, 39 Campbell Street"
         google={{
           rating: "4.8",
-          reviewCount: "311",
+          reviewCount: "344",
           mapUrl: GOOGLE_MAP_URL,
         }}
       />
@@ -356,7 +356,7 @@ export default function SansSouciPage() {
         }}
         google={{
           href: GOOGLE_MAP_URL,
-          summary: "4.8 stars · 311 reviews",
+          summary: "4.8 stars · 344 reviews",
         }}
         bookOverride={{
           eyebrow: "Book at Sans Souci",

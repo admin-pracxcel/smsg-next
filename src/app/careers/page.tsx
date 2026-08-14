@@ -143,7 +143,7 @@ export default function CareersHubPage() {
       {/* ABOUT / GROUP AT A GLANCE */}
       <section id="about" className="relative overflow-hidden">
         <div className="absolute inset-0" aria-hidden="true">
-          <Image src="/website-images/three-centres-one-group.webp" alt="SMSG's three southern Sydney centres, one clinical group." fill sizes="100vw" className="object-cover" />
+          <Image src="/website-images/three-centres-one-group.webp" alt="SMSG's three Sydney centres, one clinical group." fill sizes="100vw" className="object-cover" />
           <div
             className="absolute inset-0"
             style={{

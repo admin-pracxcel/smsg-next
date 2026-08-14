@@ -5,7 +5,7 @@ import { Breadcrumb } from "@/components/Breadcrumb";
 import { JsonLd } from "@/components/JsonLd";
 import { routes, external } from "@/lib/routes";
 import { CLINICS, clinicList } from "@/lib/clinics";
-import { SUB_BRANDS } from "@/lib/sub-brands";
+import { getOtherSubBrandItems } from "@/lib/sub-brands";
 import { getAllPractitioners } from "@/lib/content";
 import type { Practitioner } from "@/lib/schemas/practitioner";
 import { SubBrandCareAreas, type CareTile } from "@/components/sub-brand/SubBrandCareAreas";
@@ -100,7 +100,7 @@ function locationLine(p: Practitioner): string {
 
 const CTA_SUB = {
   earlwood: "Largest specialist roster · Onsite cardiac diagnostics",
-  bangor: "Shire visiting centres · Five specialist disciplines",
+  bangor: "Shire visiting centres · Specialist disciplines on rotation",
   sanssouci: "Paediatric and adult centres",
 } as const;
 
@@ -191,7 +191,7 @@ export default function ExcelsiaHubPage() {
 
                 <div className="plate-photo">
                   <Image
-                    src="/website-images/earlwood-interior.webp"
+                    src="/website-images/excelsia-hero.webp"
                     alt=""
                     fill
                     sizes="(min-width: 768px) 40vw, 100vw"
@@ -308,7 +308,7 @@ export default function ExcelsiaHubPage() {
             "Onsite ECG, spirometry, echocardiogram and stress testing",
           ],
           bangor: [
-            "Five visiting specialist disciplines",
+            "Visiting specialist disciplines on rotation",
             "Endocrinology, geriatrics, general medicine, nephrology, respiratory and sleep medicine",
             "Convenient for Sutherland Shire patients avoiding a city trip",
           ],
@@ -513,38 +513,10 @@ export default function ExcelsiaHubPage() {
 
       <SubBrandRelatedPages
         subBrand="excelsia"
-        headingLead="Read on"
-        headingItalic="to go deeper."
-        supporting="A few pages that patients most often move to from Excelsia."
-        items={[
-          {
-            eyebrow: "Service",
-            title: "Echocardiogram and stress testing",
-            body: "Onsite cardiac diagnostics for Excelsia and referred patients.",
-            // TODO: link to /services/echocardiograms-and-stress-testing/ when built
-            href: "#care",
-          },
-          {
-            eyebrow: "Service",
-            title: "Pathology services",
-            body: "Onsite blood collection at all three centres.",
-            // TODO: link to /services/pathology-services/ when built
-            href: "#care",
-          },
-          {
-            eyebrow: "Sub-brand",
-            title: "Kids' Dr",
-            body: "Paediatric care in the same clinical group at Sans Souci.",
-            href: routes.subBrand("kidsdr"),
-            dotColor: SUB_BRANDS.kidsdr.dotColor,
-          },
-          {
-            eyebrow: "Location",
-            title: "Earlwood Medical Centre",
-            body: "The centre with the largest Excelsia roster.",
-            href: routes.location("earlwood"),
-          },
-        ]}
+        headingLead="Explore"
+        headingItalic="our other sub-brands."
+        supporting="The rest of the specialty care delivered across SMSG."
+        items={getOtherSubBrandItems("excelsia")}
       />
 
       <JsonLd data={schema as unknown as Parameters<typeof JsonLd>[0]["data"]} />

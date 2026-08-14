@@ -17,7 +17,7 @@ export const IUD_META = {
 /** Hero at-a-glance panel rows. */
 export const GLANCE_ROWS = [
   { label: "Consultation", value: "30 minutes, in person" },
-  { label: "Procedure", value: "Insertion or removal, in-centre" },
+  { label: "Procedure", value: "IUD or implant, insertion or removal, in-centre" },
   { label: "Follow-up", value: "As required" },
   { label: "Referral", value: "Not required" },
 ] as const;
@@ -102,17 +102,17 @@ export const WHERE_CARDS: WhereCard[] = [
   {
     clinic: "earlwood",
     badges: ["Insertion", "Removal"],
-    body: "Full Aurora team including our obstetrician-gynaecologist. Insertion and removal with Dr Tao Geng and other Aurora GPs.",
+    body: "Full Aurora team including our obstetrician-gynaecologist. IUD and implant insertion and removal with Dr Tao Geng and other Aurora GPs.",
   },
   {
     clinic: "bangor",
     badges: ["Insertion", "Removal"],
-    body: "Insertion and removal with Dr Tao Geng and Dr Chelsie Tan, alongside other Aurora GPs consulting here for contraception discussions.",
+    body: "IUD and implant insertion and removal with our Aurora GPs consulting here for contraception.",
   },
   {
     clinic: "sanssouci",
     badges: ["Insertion", "Removal"],
-    body: "Insertion and removal available on-site with our Aurora GPs.",
+    body: "IUD and implant insertion and removal available on-site with our Aurora GPs.",
   },
 ];
 
@@ -158,7 +158,7 @@ export const FEE_ROWS = [
   },
   {
     label: "Procedure",
-    desc: "Insertion, removal, or removal-and-replace, with or without a Women's Health Check",
+    desc: "IUD or implant, insertion, removal, or removal-and-replace, with or without a Women's Health Check",
     val: "Private fee, Medicare rebate applies",
   },
 ] as const;
@@ -199,9 +199,9 @@ export const FAQ_ITEMS = [
 
 /** Booking-CTA sub-labels for each clinic. */
 export const BOOK_SUB: Record<ClinicKey, string> = {
-  earlwood: "Insertion & removal · Mon-Sat",
-  bangor: "Insertion & removal · Mon-Fri",
-  sanssouci: "Insertion & removal · Mon-Fri",
+  earlwood: "IUD and implant, insertion & removal · Mon-Sat",
+  bangor: "IUD and implant, insertion & removal · Mon-Fri",
+  sanssouci: "IUD and implant, insertion & removal · Mon-Fri",
 };
 
 /**
