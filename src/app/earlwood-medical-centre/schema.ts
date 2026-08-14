@@ -52,7 +52,7 @@ export function buildEarlwoodSchema() {
           },
         ],
         sameAs: [
-          "https://www.facebook.com/earlwoodmedicalcentre/",
+          "https://www.facebook.com/smsgearlwood",
           "https://maps.app.goo.gl/orET9Ex7YTUNnis1A",
         ],
         aggregateRating: {

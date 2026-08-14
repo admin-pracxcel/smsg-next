@@ -31,7 +31,7 @@ const PHONE_DISPLAY = "02 9554 7788";
 const PHONE_TEL = "0295547788";
 const FAX_DISPLAY = "02 9554 7733";
 const GOOGLE_MAP_URL = "https://maps.app.goo.gl/orET9Ex7YTUNnis1A";
-const FACEBOOK_URL = "https://www.facebook.com/earlwoodmedicalcentre/";
+const FACEBOOK_URL = "https://www.facebook.com/smsgearlwood";
 
 export default function EarlwoodPage() {
   const dirQuery = directionsQueryFor(EARLWOOD);
@@ -150,7 +150,8 @@ export default function EarlwoodPage() {
             body: "Wheelchair accessible with an accessible bathroom on site.",
           },
         ]}
-        mapEmbedQuery="352+Homer+Street,+Earlwood+NSW+2206"
+        mapEmbedSrc="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.5544595100455!2d151.1252424!3d-33.9268648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ba6cfa711b01%3A0x2a51a59f20ba79ab!2sEarlwood%20Medical%20Centre!5e0!3m2!1sen!2sin!4v1786688069077!5m2!1sen!2sin"
+        mapDirectionsUrl="https://maps.app.goo.gl/kPzUFgL5gcYHdDZ47"
         mapEmbedTitle="Map of Earlwood Medical Centre, 352-354 Homer Street, Earlwood NSW 2206"
       />
 

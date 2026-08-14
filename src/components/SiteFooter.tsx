@@ -133,10 +133,12 @@ export function SiteFooter() {
           </div>
           <div className="flex items-center gap-5">
             <a
-              href="https://www.facebook.com/earlwoodmedicalcentre/"
+              href="https://www.facebook.com/smsgearlwood"
               aria-label="SMSG on Facebook"
               className="hover:text-cream"
               title="Facebook"
+              target="_blank"
+              rel="noopener"
             >
               <svg
                 width="18"
@@ -153,6 +155,8 @@ export function SiteFooter() {
               aria-label="SMSG on Instagram"
               className="hover:text-cream"
               title="Instagram"
+              target="_blank"
+              rel="noopener"
             >
               <svg
                 width="18"
@@ -173,6 +177,8 @@ export function SiteFooter() {
               aria-label="SMSG on LinkedIn"
               className="hover:text-cream"
               title="LinkedIn"
+              target="_blank"
+              rel="noopener"
             >
               <svg
                 width="18"

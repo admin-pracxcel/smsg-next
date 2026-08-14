@@ -29,9 +29,18 @@ const HOURS: Record<string, { weekday: string; saturday?: string }> = {
 };
 
 const DIRECTIONS: Record<string, string> = {
-  earlwood: "https://maps.google.com/?q=352+Homer+Street+Earlwood+NSW+2206",
-  bangor: "https://maps.google.com/?q=121+Yala+Road+Bangor+NSW+2234",
-  sanssouci: "https://maps.google.com/?q=39+Campbell+Street+Sans+Souci+NSW+2219",
+  earlwood: "https://maps.app.goo.gl/kPzUFgL5gcYHdDZ47",
+  bangor: "https://maps.app.goo.gl/CfvQsVvr39eZKvQj6",
+  sanssouci: "https://maps.app.goo.gl/dpy1ae4sY8nmtdWk9",
+};
+
+const MAP_EMBEDS: Record<string, string> = {
+  earlwood:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.5544595100455!2d151.1252424!3d-33.9268648!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ba6cfa711b01%3A0x2a51a59f20ba79ab!2sEarlwood%20Medical%20Centre!5e0!3m2!1sen!2sin!4v1786688069077!5m2!1sen!2sin",
+  bangor:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.004127587714!2d151.029097!3d-34.018105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12c1291edcd715%3A0xda1d4870584cde6d!2sBangor%20Medical%20Centre!5e0!3m2!1sen!2sin!4v1786688097960!5m2!1sen!2sin",
+  sanssouci:
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3308.2830551313064!2d151.1369289!3d-33.9852626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12b7730a43d887%3A0xbe37a0dac648036d!2sSans%20Souci%20Doctors!5e0!3m2!1sen!2sin!4v1786688110011!5m2!1sen!2sin",
 };
 
 const AFTER_HOURS = [
@@ -111,8 +120,7 @@ export default function ContactPage() {
             {clinicList.map((c, i) => {
               const tel = c.phone.replace(/[^0-9+]/g, "");
               const hours = HOURS[c.key];
-              const mapQuery = encodeURIComponent(`${c.address}, ${c.suburbLine}`);
-              const mapEmbedSrc = `https://maps.google.com/maps?q=${mapQuery}&t=&z=16&ie=UTF8&iwloc=&output=embed`;
+              const mapEmbedSrc = MAP_EMBEDS[c.key];
               const rowBg = i % 2 === 0 ? "bg-paper" : "bg-cream-2";
               return (
                 <div

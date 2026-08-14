@@ -61,8 +61,10 @@ export interface LocationVisitProps {
   gettingHereHeadingLead: string;
   gettingHereHeadingItalic: string;
   gettingHereRows: GettingHereRow[];
-  /** Google Maps embed and directions query strings */
-  mapEmbedQuery: string; // e.g. "352+Homer+Street,+Earlwood+NSW+2206"
+  /** iframe src for the Google Maps embed (should point at the Business Profile, not just an address). */
+  mapEmbedSrc: string;
+  /** URL the "Get directions" chip opens (typically the maps.app.goo.gl share link for the business). */
+  mapDirectionsUrl: string;
   mapEmbedTitle: string;
 }
 
@@ -76,7 +78,8 @@ export function LocationVisit({
   gettingHereHeadingLead,
   gettingHereHeadingItalic,
   gettingHereRows,
-  mapEmbedQuery,
+  mapEmbedSrc,
+  mapDirectionsUrl,
   mapEmbedTitle,
 }: LocationVisitProps) {
   return (
@@ -192,7 +195,7 @@ export function LocationVisit({
 
             <div className="relative rounded-[20px] overflow-hidden border border-black/10 aspect-[16/9] md:aspect-auto md:flex-1 md:min-h-[240px] bg-paper">
               <iframe
-                src={`https://www.google.com/maps?q=${mapEmbedQuery}&output=embed`}
+                src={mapEmbedSrc}
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -202,7 +205,7 @@ export function LocationVisit({
                 title={mapEmbedTitle}
               />
               <a
-                href={`https://www.google.com/maps/dir/?api=1&destination=${mapEmbedQuery}`}
+                href={mapDirectionsUrl}
                 target="_blank"
                 rel="noopener"
                 className="absolute bottom-3 right-3 inline-flex items-center gap-1.5 rounded-full bg-cream/95 backdrop-blur px-3 py-1.5 text-[12.5px] text-ink shadow-[0_4px_12px_-2px_rgba(26,24,21,0.25)] hover:bg-cream transition-colors"

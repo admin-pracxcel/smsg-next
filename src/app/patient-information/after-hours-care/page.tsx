@@ -250,6 +250,7 @@ export default function AfterHoursCarePage() {
                     <a
                       href="https://homedoctor.com.au"
                       className="link-editorial"
+                      target="_blank"
                       rel="noopener"
                     >
                       homedoctor.com.au

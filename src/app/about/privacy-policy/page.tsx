@@ -302,7 +302,7 @@ export default function PrivacyPolicyPage() {
                   </p>
                   <p>
                     You control what is uploaded to your My Health Record and who can see it. You can opt out of specific clinicians accessing it, restrict specific documents, or cancel your My Health Record altogether through{" "}
-                    <a href="https://www.myhealthrecord.gov.au" rel="noopener">
+                    <a href="https://www.myhealthrecord.gov.au" target="_blank" rel="noopener">
                       myhealthrecord.gov.au
                     </a>
                     .
@@ -444,7 +444,7 @@ export default function PrivacyPolicyPage() {
                       <span className="name">
                         <strong>Office of the Australian Information Commissioner</strong>
                         <br />
-                        <a href="https://www.oaic.gov.au" rel="noopener">
+                        <a href="https://www.oaic.gov.au" target="_blank" rel="noopener">
                           oaic.gov.au
                         </a>
                       </span>
@@ -456,7 +456,7 @@ export default function PrivacyPolicyPage() {
                       <span className="name">
                         <strong>NSW Privacy Commissioner</strong>
                         <br />
-                        <a href="https://www.ipc.nsw.gov.au" rel="noopener">
+                        <a href="https://www.ipc.nsw.gov.au" target="_blank" rel="noopener">
                           ipc.nsw.gov.au
                         </a>
                       </span>

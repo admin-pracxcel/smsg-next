@@ -326,6 +326,7 @@ export default function ZeroTolerancePage() {
                       <a
                         href="https://www.ahpra.gov.au/"
                         className="link-editorial"
+                        target="_blank"
                         rel="noopener"
                       >
                         ahpra.gov.au
@@ -334,6 +335,7 @@ export default function ZeroTolerancePage() {
                       <a
                         href="https://www.hccc.nsw.gov.au/"
                         className="link-editorial"
+                        target="_blank"
                         rel="noopener"
                       >
                         hccc.nsw.gov.au

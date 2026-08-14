@@ -262,6 +262,7 @@ export default function ResultsPolicyPage() {
                     <a
                       href="https://myhealthrecord.gov.au"
                       className="link-editorial"
+                      target="_blank"
                       rel="noopener"
                     >
                       myhealthrecord.gov.au

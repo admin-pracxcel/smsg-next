@@ -141,7 +141,8 @@ export default function BangorPage() {
             body: "Wheelchair accessible with an accessible bathroom on site.",
           },
         ]}
-        mapEmbedQuery="Bangor+Medical+Centre,+Shop+6+121+Yala+Road+Bangor+NSW+2234"
+        mapEmbedSrc="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3307.004127587714!2d151.029097!3d-34.018105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12c1291edcd715%3A0xda1d4870584cde6d!2sBangor%20Medical%20Centre!5e0!3m2!1sen!2sin!4v1786688097960!5m2!1sen!2sin"
+        mapDirectionsUrl="https://maps.app.goo.gl/CfvQsVvr39eZKvQj6"
         mapEmbedTitle="Map of Bangor Medical Centre, Shop 6, 121 Yala Road, Bangor NSW 2234"
       />
 

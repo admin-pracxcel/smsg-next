@@ -15,7 +15,7 @@ export const homeSchema: Record<string, unknown> = {
       logo: "https://smsg.au/Images/Brand%20Logos/_SMSG%20LOGOS/Source%20Files%20-%20Specialist%20Medical%20Services%20Group/SMSG%20-%20Logo.svg",
       foundingDate: "2014",
       sameAs: [
-        "https://www.facebook.com/earlwoodmedicalcentre/",
+        "https://www.facebook.com/smsgearlwood",
         "https://www.facebook.com/bangormedicalcentre/",
         "https://www.facebook.com/sanssoucidrs",
         "https://www.instagram.com/specialistmedicalservices/",

@@ -141,7 +141,8 @@ export default function SansSouciPage() {
             body: "The centre is wheelchair accessible with an accessible bathroom on site.",
           },
         ]}
-        mapEmbedQuery="Sans+Souci+Doctors,+39+Campbell+Street+Sans+Souci+NSW+2219"
+        mapEmbedSrc="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3308.2830551313064!2d151.1369289!3d-33.9852626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12b7730a43d887%3A0xbe37a0dac648036d!2sSans%20Souci%20Doctors!5e0!3m2!1sen!2sin!4v1786688110011!5m2!1sen!2sin"
+        mapDirectionsUrl="https://maps.app.goo.gl/dpy1ae4sY8nmtdWk9"
         mapEmbedTitle="Map of Sans Souci Doctors, 39 Campbell Street, Sans Souci NSW 2219"
       />
 
