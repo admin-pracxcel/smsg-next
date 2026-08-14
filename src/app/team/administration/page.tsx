@@ -57,10 +57,10 @@ export default function AdministrationPage() {
             Administration.
           </h1>
           <p className="mt-5 lede max-w-[62ch] text-ink-2">
-            {ADMIN_STAFF.length} across SMSG, 4 Supervisors and 15 Patient
-            Support Officers. Our administration team is the first point of
-            contact for bookings, referrals, prescription renewals, results,
-            and everything in between.
+            Our administration team is the first point of contact for bookings,
+            referrals, prescription renewals, results, and everything in
+            between, working alongside supervisors and patient support officers
+            across our SMSG centres.
           </p>
         </div>
       </section>

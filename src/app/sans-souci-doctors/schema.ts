@@ -100,14 +100,8 @@ export function buildSansSouciSchema() {
           {
             "@type": "ListItem",
             position: 2,
-            name: "Locations",
-            item: "https://smsg.au/locations",
-          },
-          {
-            "@type": "ListItem",
-            position: 3,
             name: "Sans Souci Doctors",
-            item: "https://smsg.au/sans-souci-doctors",
+            item: "https://smsg.au/sans-souci-doctors/",
           },
         ],
       },

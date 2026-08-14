@@ -107,14 +107,8 @@ export function buildBangorSchema() {
           {
             "@type": "ListItem",
             position: 2,
-            name: "Locations",
-            item: "https://smsg.au/locations",
-          },
-          {
-            "@type": "ListItem",
-            position: 3,
             name: "Bangor Medical Centre",
-            item: "https://smsg.au/bangor-medical-centre",
+            item: "https://smsg.au/bangor-medical-centre/",
           },
         ],
       },

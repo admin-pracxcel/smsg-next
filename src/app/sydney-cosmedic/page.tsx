@@ -625,8 +625,7 @@ export default function SydneyCosmedicHubPage() {
                 </p>
                 <p>
                   For our general fee structure across the group, see the{" "}
-                  {/* TODO: link to /about/fees-and-billing/ when the page ships */}
-                  <a href="/patient-information/book-online/" className="link-editorial">
+                  <a href="/patient-information/fees-and-billing/" className="link-editorial">
                     Fees &amp; Billing page
                   </a>
                   .

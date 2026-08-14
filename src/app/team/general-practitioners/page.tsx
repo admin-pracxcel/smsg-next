@@ -50,7 +50,7 @@ export default function GeneralPractitionersPage() {
           </h1>
           <div className="mt-5 flex flex-wrap items-baseline gap-x-6 gap-y-2 text-ink-2">
             <span className="lede">
-              {gps.length} consulting GPs across three Sydney centres.
+              Consulting GPs across three Sydney centres.
             </span>
             <span className="text-[13.5px] text-ink-3">
               Contact reception for current new patient availability.

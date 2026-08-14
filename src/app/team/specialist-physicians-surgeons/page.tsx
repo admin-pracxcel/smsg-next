@@ -53,9 +53,8 @@ export default function SpecialistPhysiciansAndSurgeonsPage() {
                 <span className="italic font-display-warm">&amp; Surgeons.</span>
               </h1>
               <p className="mt-5 lede max-w-[54ch] text-ink-2">
-                {specialists.length} consultant specialists across 10
-                specialties, practising as independent practitioners from our
-                Sydney centres.
+                Consultant specialists across a range of specialties, practising
+                as independent practitioners from our Sydney centres.
               </p>
             </div>
             <div className="md:col-span-5">

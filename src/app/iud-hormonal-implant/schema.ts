@@ -27,7 +27,7 @@ export function buildIudSchema() {
           {
             "@type": "Physician",
             name: "Dr Tao Geng",
-            url: "https://smsg.au/gps/dr-tao-geng",
+            url: "https://smsg.au/dr-tao-geng/",
             medicalSpecialty: "GeneralPractice",
           },
           { "@type": "Physician", name: "Dr Chelsie Tan", medicalSpecialty: "GeneralPractice" },
@@ -117,20 +117,14 @@ export function buildIudSchema() {
           {
             "@type": "ListItem",
             position: 2,
-            name: "Care",
-            item: "https://smsg.au/care",
+            name: "Aurora Women & Babies Health",
+            item: "https://smsg.au/aurora-women-and-babies-health/",
           },
           {
             "@type": "ListItem",
             position: 3,
-            name: "Aurora Women & Babies Health",
-            item: "https://smsg.au/aurora-women-and-babies-health",
-          },
-          {
-            "@type": "ListItem",
-            position: 4,
             name: "Hormonal IUD and Contraceptive Implant",
-            item: "https://smsg.au/iud-hormonal-implant",
+            item: "https://smsg.au/iud-hormonal-implant/",
           },
         ],
       },

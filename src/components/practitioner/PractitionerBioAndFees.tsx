@@ -9,6 +9,7 @@
  */
 
 import Link from "next/link";
+import { routes } from "@/lib/routes";
 import type { Practitioner } from "@/lib/schemas/practitioner";
 
 function shortRef(p: Practitioner): string {
@@ -85,8 +86,10 @@ export function PractitionerBioAndFees({ practitioner: p }: { practitioner: Prac
                 </p>
               </div>
               <div className="fc-row">
-                {/* TODO: link to /patient-information/fees-and-billing/ when built */}
-                <Link href="/" className="link-editorial text-[13px]">
+                <Link
+                  href={routes.patientInfo("fees-and-billing")}
+                  className="link-editorial text-[13px]"
+                >
                   Full SMSG fees and billing schedule
                 </Link>
               </div>

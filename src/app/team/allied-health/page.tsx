@@ -54,8 +54,8 @@ export default function AlliedHealthPage() {
                 Allied <span className="italic font-display-warm">Health.</span>
               </h1>
               <p className="mt-5 lede max-w-[58ch] text-ink-2">
-                {allied.length} allied health practitioners, plus 2 external
-                partner services.
+                Allied health practitioners at SMSG, alongside external partner
+                services.
               </p>
             </div>
             <div className="md:col-span-4">

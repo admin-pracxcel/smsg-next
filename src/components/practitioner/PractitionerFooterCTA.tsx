@@ -8,7 +8,8 @@
  *   - Column 3: `also_on_team[]` (optional; column omitted when absent)
  *
  * The "See all" link under column 3 uses `breadcrumb.team_type_href` so a GP
- * links to /team/general-practitioners/, a specialist to /team/specialists/, etc.
+ * links to /team/general-practitioners/, a specialist to
+ * /team/specialist-physicians-surgeons/, etc.
  */
 
 import Link from "next/link";
@@ -92,9 +93,8 @@ export function PractitionerFooterCTA({
             ) : null}
             <div className="mt-6 text-[13px] text-cream/70 leading-relaxed">
               New to SMSG?{" "}
-              {/* TODO: link to /patient-information/new-patients/ when built */}
               <Link
-                href="/"
+                href="/patient-information/new-patient-registration/"
                 className="underline underline-offset-4 hover:text-blush"
               >
                 Register at the centre you&apos;ll visit first

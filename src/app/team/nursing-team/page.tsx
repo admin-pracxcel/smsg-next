@@ -56,15 +56,6 @@ export default function NursingTeamPage() {
             <h1 className="font-display h-brand mt-4">
               Nursing <span className="italic font-display-warm">Team.</span>
             </h1>
-            <div className="mt-4 flex items-baseline gap-3 text-ink-3">
-              <span
-                className="font-display text-[22px]"
-                style={{ fontVariationSettings: "'SOFT' 100,'opsz' 30" }}
-              >
-                {NURSES.length}
-              </span>
-              <span className="text-[13.5px]">nurses across SMSG</span>
-            </div>
             <p className="mt-6 lede text-ink-2">
               Our nursing team supports patients across immunisations, treatment
               room procedures, chronic disease management, ECG, spirometry, and

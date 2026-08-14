@@ -136,7 +136,7 @@ export default function TeamHubPage() {
             </div>
 
             <div className="md:col-span-5 order-1 md:order-2">
-              <div className="brand-plate">
+              <div className="brand-plate" style={{ justifyContent: "center" }}>
                 <span className="plate-corner">est. 2014</span>
                 <Image
                   src="/website-images/smsg-favicon.webp"

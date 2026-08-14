@@ -103,14 +103,8 @@ export function buildEarlwoodSchema() {
           {
             "@type": "ListItem",
             position: 2,
-            name: "Locations",
-            item: "https://smsg.au/locations",
-          },
-          {
-            "@type": "ListItem",
-            position: 3,
             name: "Earlwood Medical Centre",
-            item: "https://smsg.au/earlwood-medical-centre",
+            item: "https://smsg.au/earlwood-medical-centre/",
           },
         ],
       },
